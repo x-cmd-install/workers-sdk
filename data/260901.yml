@@ -1,0 +1,69 @@
+about:
+  description: ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: f808554
+  archived: false
+  latestVersion: @cloudflare/runtime-types@0.0.19
+  collectedAt: 2026-09-01T05:35:30Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 4496
+  watcher: 73
+  fork: 1469
+  release: 2369
+  contributor: 562
+  pullRequest: 1951
+  issue: 4860
+language:
+  TypeScript: 19112629
+  JavaScript: 258787
+  Mustache: 59337
+  HTML: 30300
+  CSS: 11263
+  Cap'n Proto: 6730
+  Python: 6532
+  Vue: 5566
+  Shell: 1789
+  Dockerfile: 1776
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalLine: 19497217
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 100
+    mergedPR: 165
+    openPR: 99
+    closedIssue: 45
+    openIssue: 69
+    commit: 157
+  last90d:
+    since: 2026-06-03
+    release: 100
+    mergedPR: 573
+    openPR: 154
+    closedIssue: 167
+    openIssue: 112
+    commit: 570
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 1282
+    openPR: 190
+    closedIssue: 402
+    openIssue: 134
+    commit: 1304
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 2432
+    openPR: 212
+    closedIssue: 840
+    openIssue: 167
+    commit: 2396
