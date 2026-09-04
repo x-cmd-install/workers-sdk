@@ -7,7 +7,7 @@ about:
   head: 8bbcb9f
   archived: false
   latestVersion: @cloudflare/workers-auth@0.6.8
-  collectedAt: 2026-09-04T19:58:46Z
+  collectedAt: 2026-09-04T20:41:55Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-09-04
@@ -93,5 +93,113 @@ total:
   openIssue: 283
   commit: 8256
 ---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-09-04T20:42:04Z
+loc:
+  TypeScript:
+    code: 545879
+    comments: 66043
+    blanks: 57508
+    files: 3374
+  Yaml:
+    code: 24984
+    comments: 57
+    blanks: 5069
+    files: 2
+  Tsx:
+    code: 21385
+    comments: 964
+    blanks: 2030
+    files: 152
+  Json:
+    code: 16600
+    comments: 0
+    blanks: 102
+    files: 751
+  JavaScript:
+    code: 7475
+    comments: 1580
+    blanks: 900
+    files: 211
+  Html:
+    code: 1011
+    comments: 7
+    blanks: 10
+    files: 100
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Python:
+    code: 132
+    comments: 16
+    blanks: 20
+    files: 9
+  Toml:
+    code: 60
+    comments: 13
+    blanks: 11
+    files: 6
+  Dockerfile:
+    code: 57
+    comments: 0
+    blanks: 14
+    files: 7
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 31765
+    blanks: 20717
+    files: 175
+  Text:
+    code: 0
+    comments: 43
+    blanks: 2
+    files: 23
+total:
+  code: 620899
+  comments: 100618
+  blanks: 86739
+  files: 4871
 ---
 
