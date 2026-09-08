@@ -2,24 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: a4e41df
+  head: a849e0d
   archived: false
   latestVersion: "create-cloudflare@2.72.6"
-  collectedAt: 2026-09-08T03:09:14Z
+  latestRelease: "create-cloudflare@2.72.6"
+  latestPrerelease: "miniflare@5.20260907.0-alpha"
+  collectedAt: 2026-09-08T12:16:14Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-07
   lastRelease: 2026-09-07
+  lastPrerelease: 2026-09-07
 popularity:
   star: 4520
   watcher: 73
-  fork: 1490
+  fork: 1493
   release: 2407
   contributor: 570
-  pullRequest: 9558
-  issue: 4892
+  pullRequest: 9561
+  issue: 4894
 language:
-  TypeScript: 19243360
+  TypeScript: 19246474
   JavaScript: 258787
   Mustache: 59337
   HTML: 30300
@@ -33,71 +37,71 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 19627948
+totalBytes: 19631062
 recent:
   last30d:
     since: 2026-08-09
     release: 100
-    mergedPR: 161
-    openPR: 106
+    mergedPR: 162
+    openPR: 108
     closedIssue: 34
-    openIssue: 80
-    commit: 167
+    openIssue: 82
+    commit: 168
   last60d:
     since: 2026-07-10
     release: 100
-    mergedPR: 371
-    openPR: 140
+    mergedPR: 372
+    openPR: 142
     closedIssue: 110
-    openIssue: 108
-    commit: 385
+    openIssue: 110
+    commit: 386
   last90d:
     since: 2026-06-10
     release: 100
-    mergedPR: 579
-    openPR: 168
+    mergedPR: 580
+    openPR: 170
     closedIssue: 173
-    openIssue: 118
-    commit: 583
+    openIssue: 120
+    commit: 584
   last180d:
     since: 2026-03-12
     release: 100
-    mergedPR: 1269
-    openPR: 202
+    mergedPR: 1270
+    openPR: 204
     closedIssue: 411
-    openIssue: 143
-    commit: 1290
+    openIssue: 145
+    commit: 1291
   last360d:
     since: 2025-09-13
     release: 100
-    mergedPR: 2453
-    openPR: 224
+    mergedPR: 2454
+    openPR: 226
     closedIssue: 834
-    openIssue: 176
-    commit: 2412
+    openIssue: 178
+    commit: 2413
   last720d:
     since: 2024-09-18
     release: 100
-    mergedPR: 4520
-    openPR: 228
+    mergedPR: 4521
+    openPR: 230
     closedIssue: 1865
-    openIssue: 233
-    commit: 4397
+    openIssue: 235
+    commit: 4398
 total:
   release: 2407
-  mergedPR: 7582
-  openPR: 228
+  mergedPR: 7583
+  openPR: 230
   closedIssue: 4603
-  openIssue: 289
-  commit: 8272
+  openIssue: 291
+  commit: 8273
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-09-08T03:09:40Z
+collectedAt: 2026-09-08T12:16:39Z
 loc:
   TypeScript:
-    code: 546331
-    comments: 66178
-    blanks: 57563
+    code: 546425
+    comments: 66170
+    blanks: 57571
     files: 3376
   Yaml:
     code: 24984
@@ -195,9 +199,9 @@ loc:
     blanks: 2
     files: 23
 total:
-  code: 621351
-  comments: 100853
-  blanks: 86861
+  code: 621445
+  comments: 100845
+  blanks: 86869
   files: 4873
 ---
 
