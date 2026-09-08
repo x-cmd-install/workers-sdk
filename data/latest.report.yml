@@ -1,0 +1,205 @@
+about:
+  description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: a4e41df
+  archived: false
+  latestVersion: "create-cloudflare@2.72.6"
+  collectedAt: 2026-09-08T03:09:14Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
+popularity:
+  star: 4520
+  watcher: 73
+  fork: 1490
+  release: 2407
+  contributor: 570
+  pullRequest: 9558
+  issue: 4892
+language:
+  TypeScript: 19243360
+  JavaScript: 258787
+  Mustache: 59337
+  HTML: 30300
+  CSS: 11263
+  Cap'n Proto: 6730
+  Python: 6532
+  Vue: 5566
+  Shell: 1789
+  Dockerfile: 1776
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalBytes: 19627948
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 100
+    mergedPR: 161
+    openPR: 106
+    closedIssue: 34
+    openIssue: 80
+    commit: 167
+  last60d:
+    since: 2026-07-10
+    release: 100
+    mergedPR: 371
+    openPR: 140
+    closedIssue: 110
+    openIssue: 108
+    commit: 385
+  last90d:
+    since: 2026-06-10
+    release: 100
+    mergedPR: 579
+    openPR: 168
+    closedIssue: 173
+    openIssue: 118
+    commit: 583
+  last180d:
+    since: 2026-03-12
+    release: 100
+    mergedPR: 1269
+    openPR: 202
+    closedIssue: 411
+    openIssue: 143
+    commit: 1290
+  last360d:
+    since: 2025-09-13
+    release: 100
+    mergedPR: 2453
+    openPR: 224
+    closedIssue: 834
+    openIssue: 176
+    commit: 2412
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 4520
+    openPR: 228
+    closedIssue: 1865
+    openIssue: 233
+    commit: 4397
+total:
+  release: 2407
+  mergedPR: 7582
+  openPR: 228
+  closedIssue: 4603
+  openIssue: 289
+  commit: 8272
+---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-09-08T03:09:40Z
+loc:
+  TypeScript:
+    code: 546331
+    comments: 66178
+    blanks: 57563
+    files: 3376
+  Yaml:
+    code: 24984
+    comments: 57
+    blanks: 5069
+    files: 2
+  Tsx:
+    code: 21385
+    comments: 964
+    blanks: 2030
+    files: 152
+  Json:
+    code: 16600
+    comments: 0
+    blanks: 102
+    files: 751
+  JavaScript:
+    code: 7475
+    comments: 1580
+    blanks: 900
+    files: 211
+  Html:
+    code: 1011
+    comments: 7
+    blanks: 10
+    files: 100
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Python:
+    code: 132
+    comments: 16
+    blanks: 20
+    files: 9
+  Toml:
+    code: 60
+    comments: 13
+    blanks: 11
+    files: 6
+  Dockerfile:
+    code: 57
+    comments: 0
+    blanks: 14
+    files: 7
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 31865
+    blanks: 20784
+    files: 175
+  Text:
+    code: 0
+    comments: 43
+    blanks: 2
+    files: 23
+total:
+  code: 621351
+  comments: 100853
+  blanks: 86861
+  files: 4873
+---
+
+---
+{"id":384179603,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4W5h2T","tag_name":"create-cloudflare@2.72.6","target_commitish":"main","name":"create-cloudflare@2.72.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-07T15:20:43Z","updated_at":"2026-09-07T15:21:13Z","published_at":"2026-09-07T15:21:13Z","assets":[],"body":"### Patch Changes\n\n- [#15528](https://github.com/cloudflare/workers-sdk/pull/15528) [`891eba9`](https://github.com/cloudflare/workers-sdk/commit/891eba926577edce31d666e4002ff98eb14049f0) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency  | From   | To     |\n  | ----------- | ------ | ------ |\n  | create-hono | 0.19.4 | 0.19.5 |\n\n- [#15529](https://github.com/cloudflare/workers-sdk/pull/15529) [`5860df0`](https://github.com/cloudflare/workers-sdk/commit/5860df0ae1a47046d7406e4139a9cb2692265a5a) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency      | From   | To     |\n  | --------------- | ------ | ------ |\n  | create-next-app | 16.3.3 | 16.3.4 |\n\n- [#15530](https://github.com/cloudflare/workers-sdk/pull/15530) [`ef15c4a`](https://github.com/cloudflare/workers-sdk/commit/ef15c4a1dfb4eaa1c84b1db85e9946d0f0fb3435) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency      | From   | To     |\n  | --------------- | ------ | ------ |\n  | @angular/create | 22.1.6 | 22.1.7 |\n\n- [#15531](https://github.com/cloudflare/workers-sdk/pull/15531) [`2520cbb`](https://github.com/cloudflare/workers-sdk/commit/2520cbba5db91377057f871936c6a7a51db00872) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency   | From   | To     |\n  | ------------ | ------ | ------ |\n  | create-solid | 0.11.0 | 0.12.0 |\n\n- [#15532](https://github.com/cloudflare/workers-sdk/pull/15532) [`85faa62`](https://github.com/cloudflare/workers-sdk/commit/85faa6296c0330b9512e5c15523fca327b2497c5) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency    | From   | To     |\n  | ------------- | ------ | ------ |\n  | @tanstack/cli | 0.70.2 | 0.71.0 |"}
