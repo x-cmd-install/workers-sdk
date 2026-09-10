@@ -7,7 +7,7 @@ about:
   latestVersion: "wrangler@4.130.0"
   latestRelease: "wrangler@4.130.0"
   latestPrerelease: "miniflare@5.20260908.0-alpha"
-  collectedAt: 2026-09-09T20:29:51Z
+  collectedAt: 2026-09-10T06:13:49Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-09-09
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 4522
   watcher: 73
-  fork: 1494
+  fork: 1495
   release: 2421
   contributor: 575
-  pullRequest: 9574
-  issue: 4894
+  pullRequest: 9577
+  issue: 4896
 language:
   TypeScript: 19530121
   JavaScript: 258787
@@ -40,63 +40,63 @@ language:
 totalBytes: 19914709
 recent:
   last30d:
-    since: 2026-08-10
+    since: 2026-08-11
     release: 100
-    mergedPR: 175
-    openPR: 96
-    closedIssue: 46
-    openIssue: 70
+    mergedPR: 166
+    openPR: 97
+    closedIssue: 45
+    openIssue: 69
     commit: 191
   last60d:
-    since: 2026-07-11
+    since: 2026-07-12
     release: 100
-    mergedPR: 393
-    openPR: 129
+    mergedPR: 386
+    openPR: 131
     closedIssue: 122
-    openIssue: 96
+    openIssue: 98
     commit: 409
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 100
-    mergedPR: 597
-    openPR: 155
-    closedIssue: 182
-    openIssue: 106
+    mergedPR: 588
+    openPR: 157
+    closedIssue: 179
+    openIssue: 107
     commit: 607
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 100
-    mergedPR: 1284
-    openPR: 190
-    closedIssue: 419
-    openIssue: 131
+    mergedPR: 1283
+    openPR: 192
+    closedIssue: 415
+    openIssue: 133
     commit: 1314
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 100
-    mergedPR: 2474
-    openPR: 212
-    closedIssue: 847
-    openIssue: 162
+    mergedPR: 2463
+    openPR: 214
+    closedIssue: 844
+    openIssue: 164
     commit: 2436
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 100
-    mergedPR: 4531
-    openPR: 216
-    closedIssue: 1881
-    openIssue: 215
-    commit: 4414
+    mergedPR: 4525
+    openPR: 218
+    closedIssue: 1879
+    openIssue: 217
+    commit: 4405
 total:
   release: 2421
   mergedPR: 7606
-  openPR: 216
+  openPR: 218
   closedIssue: 4626
-  openIssue: 268
+  openIssue: 270
   commit: 8296
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-09-09T20:30:36Z
+collectedAt: 2026-09-10T06:14:17Z
 loc:
   TypeScript:
     code: 555946
