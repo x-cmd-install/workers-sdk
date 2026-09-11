@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/386400398",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/386400398/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/386400398/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/cli-shared-helpers%400.1.29",
-  "id": 386400398,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/387098821",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/387098821/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/387098821/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/containers-shared%400.16.1",
+  "id": 387098821,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4XCACO",
-  "tag_name": "@cloudflare/cli-shared-helpers@0.1.29",
+  "node_id": "RE_kwDOGW5OAc4XEqjF",
+  "tag_name": "@cloudflare/containers-shared@0.16.1",
   "target_commitish": "main",
-  "name": "@cloudflare/cli-shared-helpers@0.1.29",
+  "name": "@cloudflare/containers-shared@0.16.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-10T15:20:33Z",
-  "updated_at": "2026-09-10T15:21:15Z",
-  "published_at": "2026-09-10T15:21:15Z",
+  "created_at": "2026-09-11T14:22:32Z",
+  "updated_at": "2026-09-11T14:23:06Z",
+  "published_at": "2026-09-11T14:23:06Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/cli-shared-helpers@0.1.29",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/cli-shared-helpers@0.1.29",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`36aed7f`](https://github.com/cloudflare/workers-sdk/commit/36aed7f0f2db5056af9df917cf6c22a2be950b1e), [`bff525d`](https://github.com/cloudflare/workers-sdk/commit/bff525d66dd3785481148353d782dd33c3a644ed)]:\n  - @cloudflare/workers-utils@0.38.0"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/containers-shared@0.16.1",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/containers-shared@0.16.1",
+  "body": "### Patch Changes\n\n- [#15512](https://github.com/cloudflare/workers-sdk/pull/15512) [`7d39eed`](https://github.com/cloudflare/workers-sdk/commit/7d39eed90b6155961b7d342f7b69b6df95d21188) Thanks [@emily-shen](https://github.com/emily-shen)! - Publish `@cloudflare/containers-shared` for internal use\n\n  It remains internal-only and does not provide a stable public API surface."
 }
