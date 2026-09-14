@@ -37,22 +37,22 @@ Total: **636,123** lines of code across **4531** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,529 · **Forks**: 1,502 · **Open issues**: 4,904 · **Contributors**: 574
+- **Stars**: 4,530 · **Forks**: 1,501 · **Open issues**: 4,904 · **Contributors**: 574
 
 ## Totals (cumulative)
 
-- **Releases**: 2445 · **Merged PRs**: 7635 · **Open PRs**: 211 · **Closed issues**: 4631 · **Open issues**: 273 · **Commits**: 8317
+- **Releases**: 2445 · **Merged PRs**: 7635 · **Open PRs**: 214 · **Closed issues**: 4631 · **Open issues**: 273 · **Commits**: 8317
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 100 | 172 | 82 | 41 | 67 | 212 |
-| last60d | 2026-07-15 | 100 | 395 | 124 | 122 | 98 | 430 |
-| 90d | 2026-06-15 | 100 | 602 | 149 | 181 | 108 | 628 |
-| last180d | 2026-03-17 | 100 | 1288 | 185 | 412 | 134 | 1335 |
-| 360d | 2025-09-18 | 100 | 2470 | 207 | 837 | 167 | 2457 |
-| last720d | 2024-09-23 | 100 | 4543 | 211 | 1882 | 220 | 4418 |
+| 30d | 2026-08-15 | 100 | 169 | 81 | 39 | 64 | 145 |
+| last60d | 2026-07-16 | 100 | 380 | 127 | 118 | 98 | 374 |
+| 90d | 2026-06-16 | 100 | 587 | 151 | 180 | 108 | 575 |
+| last180d | 2026-03-18 | 100 | 1283 | 188 | 407 | 134 | 1280 |
+| 360d | 2025-09-19 | 100 | 2465 | 210 | 836 | 167 | 2433 |
+| last720d | 2024-09-24 | 100 | 4538 | 214 | 1880 | 220 | 4407 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for workers-sdk lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:18:50Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:34:52Z._
