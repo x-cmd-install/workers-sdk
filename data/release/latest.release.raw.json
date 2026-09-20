@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/390853717",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/390853717/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/390853717/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.134.0",
-  "id": 390853717,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/391493333",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/391493333/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/391493333/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/containers-shared%400.17.0",
+  "id": 391493333,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4XS_RV",
-  "tag_name": "wrangler@4.134.0",
+  "node_id": "RE_kwDOGW5OAc4XVbbV",
+  "tag_name": "@cloudflare/containers-shared@0.17.0",
   "target_commitish": "main",
-  "name": "wrangler@4.134.0",
+  "name": "@cloudflare/containers-shared@0.17.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-17T15:47:37Z",
-  "updated_at": "2026-09-17T15:48:22Z",
-  "published_at": "2026-09-17T15:48:22Z",
+  "created_at": "2026-09-18T13:23:15Z",
+  "updated_at": "2026-09-18T13:24:00Z",
+  "published_at": "2026-09-18T13:24:00Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/wrangler@4.134.0",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/wrangler@4.134.0",
-  "body": "### Minor Changes\n\n- [#15684](https://github.com/cloudflare/workers-sdk/pull/15684) [`6874aa9`](https://github.com/cloudflare/workers-sdk/commit/6874aa978144469927831de59834e8cdc47a5114) Thanks [@Ankcorn](https://github.com/Ankcorn)! - Add support for configuring real-time Issues with `observability.issues.enabled`\n\n  Wrangler now validates and uploads the Issues setting alongside the existing logs and traces observability options. The experimental configuration format supports the equivalent `observability.issues.enabled` option.\n\n- [#15681](https://github.com/cloudflare/workers-sdk/pull/15681) [`d96b319`](https://github.com/cloudflare/workers-sdk/commit/d96b3193bfb7371da5a28fe36e6b56fb1c6108b0) Thanks [@podonnell-dev](https://github.com/podonnell-dev)! - Mark `wrangler preview` commands as open beta\n\n  Wrangler now labels Preview commands as open beta in help output and command warnings, matching the feature's public availability.\n\n- [#15673](https://github.com/cloudflare/workers-sdk/pull/15673) [`2b39fc2`](https://github.com/cloudflare/workers-sdk/commit/2b39fc2c79f7919b0af21603e278dce030c48870) Thanks [@ghostwriternr](https://github.com/ghostwriternr)! - Support explicit named Container image selection in Wrangler local development\n\n  Wrangler builds or pulls named images configured through Wrangler JSON or TOML and exposes their local tags through `ctx.container.images`. Pass one of those references to `ctx.container.start({ image })` to select the image.\n\n  This extends the experimental Durable Object-managed Containers interface. Named images are opt-in and do not become the Container's default image. A Container without a default image must supply an image or full Container snapshot when starting.\n\n### Patch Changes\n\n- [#15689](https://github.com/cloudflare/workers-sdk/pull/15689) [`876eea1`](https://github.com/cloudflare/workers-sdk/commit/876eea1c9a8a6d5856ccf05399eece93d8acfed8) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20260916.1 | ^5.20260917.1 |\n  | workerd                   | 1.20260916.1  | 1.20260917.1  |\n\n- Updated dependencies [[`2298cf1`](https://github.com/cloudflare/workers-sdk/commit/2298cf1697692efb55ea75b67fe25ec6f841dbef), [`876eea1`](https://github.com/cloudflare/workers-sdk/commit/876eea1c9a8a6d5856ccf05399eece93d8acfed8)]:\n  - miniflare@5.20260917.0-alpha"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/containers-shared@0.17.0",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/containers-shared@0.17.0",
+  "body": "### Minor Changes\n\n- [#15609](https://github.com/cloudflare/workers-sdk/pull/15609) [`1f070c8`](https://github.com/cloudflare/workers-sdk/commit/1f070c8a5a0b12247071551ed58d19444a427036) Thanks [@emily-shen](https://github.com/emily-shen)! - Build Containers when emitting experimental Build Output\n\n  Wrangler and the Cloudflare Vite plugin now build Dockerfile-backed Container images when experimental Build Output is enabled. Container configs are emitted under `.cloudflare/output/v0/containers` with local image references, while existing registry references pass through unchanged.\n\n### Patch Changes\n\n- Updated dependencies [[`1f070c8`](https://github.com/cloudflare/workers-sdk/commit/1f070c8a5a0b12247071551ed58d19444a427036), [`c4c9b75`](https://github.com/cloudflare/workers-sdk/commit/c4c9b75c54a095dc4b7ac82e44330f5650a2e4ac), [`643e5cc`](https://github.com/cloudflare/workers-sdk/commit/643e5ccb9e2ad7d85966af241e001465c0e1b1c6)]:\n  - @cloudflare/config@0.15.0\n  - @cloudflare/workers-utils@0.40.1\n  - @cloudflare/build-output-utils@0.6.0\n  - @cloudflare/cli-shared-helpers@0.1.34"
 }
