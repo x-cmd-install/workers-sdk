@@ -33,26 +33,26 @@ Total: **649,254** lines of code across **4550** files in the top 5 languages.
 ## Release
 
 - **Latest**: `@cloudflare/containers-shared@0.17.0` (2026-09-18)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
-- **Stars**: 4,549 · **Forks**: 1,522 · **Open issues**: 4,930 · **Contributors**: 584
+- **Stars**: 4,556 · **Forks**: 1,523 · **Open issues**: 4,938 · **Contributors**: 584
 
 ## Totals (cumulative)
 
-- **Releases**: 2521 · **Merged PRs**: 7697 · **Open PRs**: 204 · **Closed issues**: 4646 · **Open issues**: 284 · **Commits**: 8378
+- **Releases**: 2521 · **Merged PRs**: 7701 · **Open PRs**: 202 · **Closed issues**: 4646 · **Open issues**: 292 · **Commits**: 8382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 100 | 180 | 70 | 47 | 65 | 206 |
-| last60d | 2026-07-22 | 100 | 397 | 116 | 126 | 108 | 435 |
-| 90d | 2026-06-22 | 100 | 612 | 135 | 185 | 117 | 636 |
-| last180d | 2026-03-24 | 100 | 1301 | 177 | 396 | 141 | 1341 |
-| 360d | 2025-09-25 | 100 | 2494 | 200 | 834 | 177 | 2494 |
-| last720d | 2024-09-30 | 100 | 4578 | 204 | 1883 | 231 | 4443 |
+| 30d | 2026-08-22 | 100 | 182 | 68 | 44 | 70 | 166 |
+| last60d | 2026-07-23 | 100 | 396 | 112 | 122 | 115 | 384 |
+| 90d | 2026-06-23 | 100 | 609 | 132 | 185 | 124 | 606 |
+| last180d | 2026-03-25 | 100 | 1297 | 174 | 394 | 149 | 1284 |
+| 360d | 2025-09-26 | 100 | 2487 | 198 | 834 | 185 | 2439 |
+| last720d | 2024-10-01 | 100 | 4576 | 202 | 1881 | 239 | 4447 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for workers-sdk lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:28:54Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:29:15Z._
