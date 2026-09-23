@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/393137675",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/393137675/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/393137675/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/unenv-preset%402.16.2",
-  "id": 393137675,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/393940370",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/393940370/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/393940370/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/autoconfig%400.6.2",
+  "id": 393940370,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4Xbs4L",
-  "tag_name": "@cloudflare/unenv-preset@2.16.2",
+  "node_id": "RE_kwDOGW5OAc4Xew2S",
+  "tag_name": "@cloudflare/autoconfig@0.6.2",
   "target_commitish": "main",
-  "name": "@cloudflare/unenv-preset@2.16.2",
+  "name": "@cloudflare/autoconfig@0.6.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-21T17:00:05Z",
-  "updated_at": "2026-09-21T17:00:18Z",
-  "published_at": "2026-09-21T17:00:18Z",
+  "created_at": "2026-09-22T16:42:05Z",
+  "updated_at": "2026-09-22T16:42:38Z",
+  "published_at": "2026-09-22T16:42:38Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/unenv-preset@2.16.2",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/unenv-preset@2.16.2",
-  "body": "### Patch Changes\n\n- [#15745](https://github.com/cloudflare/workers-sdk/pull/15745) [`14d946d`](https://github.com/cloudflare/workers-sdk/commit/14d946d5b5573d856f3b2ddaa0e75c3aa5fb7bfa) Thanks [@edmundhung](https://github.com/edmundhung)! - Preserve runtime polyfills when bundling `@cloudflare/unenv-preset`\n\n  Bundlers now retain side-effect-only polyfills that install runtime globals such as `performance` instead of tree-shaking them from applications."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/autoconfig@0.6.2",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/autoconfig@0.6.2",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`59267fc`](https://github.com/cloudflare/workers-sdk/commit/59267fc79d1f7925a15369ca0125290df2404bfb)]:\n  - @cloudflare/workers-utils@0.41.1\n  - @cloudflare/cli-shared-helpers@0.1.36\n  - @cloudflare/config@0.17.0"
 }
