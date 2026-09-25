@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/394729031",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/394729031/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/394729031/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/runtime-types%400.1.0",
-  "id": 394729031,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/396347560",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/396347560/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/396347560/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/deploy-helpers%400.17.0",
+  "id": 396347560,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4XhxZH",
-  "tag_name": "@cloudflare/runtime-types@0.1.0",
+  "node_id": "RE_kwDOGW5OAc4Xn8io",
+  "tag_name": "@cloudflare/deploy-helpers@0.17.0",
   "target_commitish": "main",
-  "name": "@cloudflare/runtime-types@0.1.0",
+  "name": "@cloudflare/deploy-helpers@0.17.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-23T14:10:23Z",
-  "updated_at": "2026-09-23T14:10:46Z",
-  "published_at": "2026-09-23T14:10:46Z",
+  "created_at": "2026-09-25T06:01:49Z",
+  "updated_at": "2026-09-25T06:02:24Z",
+  "published_at": "2026-09-25T06:02:24Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/runtime-types@0.1.0",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/runtime-types@0.1.0",
-  "body": "### Minor Changes\n\n- [#15789](https://github.com/cloudflare/workers-sdk/pull/15789) [`1c96111`](https://github.com/cloudflare/workers-sdk/commit/1c9611129fb8615f5402ff2e0f5a537b6a15eea8) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Publish `@cloudflare/runtime-types` as a standalone package\n\n  Consumers can now share the runtime type generator used by Wrangler and the Cloudflare Vite and Vitest integrations.\n\n  This package is not yet stable enough for external use — APIs may change without notice."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/deploy-helpers@0.17.0",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/deploy-helpers@0.17.0",
+  "body": "### Minor Changes\n\n- [#15822](https://github.com/cloudflare/workers-sdk/pull/15822) [`8f7916c`](https://github.com/cloudflare/workers-sdk/commit/8f7916cd72cd0f6a3bcef80abc8ad4509b13026a) Thanks [@GregBrimble](https://github.com/GregBrimble)! - Support Containers in Worker Preview deployments with the Build Output.\n\n### Patch Changes\n\n- Updated dependencies [[`8f7916c`](https://github.com/cloudflare/workers-sdk/commit/8f7916cd72cd0f6a3bcef80abc8ad4509b13026a)]:\n  - @cloudflare/workers-utils@0.43.0\n  - @cloudflare/cli-shared-helpers@0.1.39\n  - @cloudflare/config@0.18.0\n  - @cloudflare/containers-shared@0.20.1\n  - miniflare@5.20260923.0-alpha"
 }
