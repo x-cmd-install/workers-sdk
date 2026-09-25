@@ -14,14 +14,14 @@ x install workers-sdk
 
 ## Code insight
 
-Total: **658,209** lines of code across **4572** files in the top 5 languages.
+Total: **665,824** lines of code across **4599** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 583,435 | 67,129 | 60,170 | 3453 |
-| Yaml | 25,068 | 57 | 5,081 | 2 |
-| Tsx | 21,510 | 965 | 2,019 | 151 |
-| Json | 17,347 | 0 | 102 | 753 |
+| TypeScript | 588,974 | 67,121 | 60,579 | 3472 |
+| Yaml | 25,065 | 57 | 5,081 | 2 |
+| Tsx | 23,474 | 967 | 2,097 | 159 |
+| Json | 17,462 | 0 | 102 | 753 |
 | JavaScript | 7,549 | 1,600 | 904 | 213 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **658,209** lines of code across **4572** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `@cloudflare/runtime-types@0.1.0` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Latest**: `wrangler@4.140.0` (2026-09-25)
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 4,573 · **Forks**: 1,532 · **Open issues**: 4,952 · **Contributors**: 588
+- **Stars**: 4,576 · **Forks**: 1,534 · **Open issues**: 4,961 · **Contributors**: 589
 
 ## Totals (cumulative)
 
-- **Releases**: 2568 · **Merged PRs**: 7744 · **Open PRs**: 212 · **Closed issues**: 4659 · **Open issues**: 293 · **Commits**: 8420
+- **Releases**: 2610 · **Merged PRs**: 7765 · **Open PRs**: 211 · **Closed issues**: 4658 · **Open issues**: 303 · **Commits**: 8438
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 100 | 200 | 76 | 48 | 69 | 204 |
-| last60d | 2026-07-26 | 100 | 421 | 117 | 126 | 113 | 422 |
-| 90d | 2026-06-26 | 100 | 630 | 139 | 189 | 125 | 644 |
-| last180d | 2026-03-28 | 100 | 1314 | 182 | 400 | 149 | 1322 |
-| 360d | 2025-09-29 | 100 | 2522 | 207 | 833 | 185 | 2477 |
-| last720d | 2024-10-04 | 100 | 4607 | 212 | 1889 | 240 | 4465 |
+| 30d | 2026-08-26 | 100 | 213 | 75 | 41 | 78 | 0 |
+| last60d | 2026-07-27 | 100 | 432 | 116 | 124 | 124 | 0 |
+| 90d | 2026-06-27 | 100 | 649 | 138 | 189 | 135 | 0 |
+| last180d | 2026-03-29 | 100 | 1325 | 181 | 400 | 159 | 0 |
+| 360d | 2025-09-30 | 100 | 2534 | 206 | 827 | 195 | 0 |
+| last720d | 2024-10-05 | 100 | 4628 | 211 | 1886 | 250 | 4479 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for workers-sdk lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:56:32Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:10:43Z._
