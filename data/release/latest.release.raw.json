@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/396347560",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/396347560/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/396347560/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/deploy-helpers%400.17.0",
-  "id": 396347560,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/396876155",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/396876155/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/396876155/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/containers-shared%400.20.2",
+  "id": 396876155,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4Xn8io",
-  "tag_name": "@cloudflare/deploy-helpers@0.17.0",
+  "node_id": "RE_kwDOGW5OAc4Xp9l7",
+  "tag_name": "@cloudflare/containers-shared@0.20.2",
   "target_commitish": "main",
-  "name": "@cloudflare/deploy-helpers@0.17.0",
+  "name": "@cloudflare/containers-shared@0.20.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-25T06:01:49Z",
-  "updated_at": "2026-09-25T06:02:24Z",
-  "published_at": "2026-09-25T06:02:24Z",
+  "created_at": "2026-09-25T19:33:44Z",
+  "updated_at": "2026-09-25T19:34:35Z",
+  "published_at": "2026-09-25T19:34:35Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/deploy-helpers@0.17.0",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/deploy-helpers@0.17.0",
-  "body": "### Minor Changes\n\n- [#15822](https://github.com/cloudflare/workers-sdk/pull/15822) [`8f7916c`](https://github.com/cloudflare/workers-sdk/commit/8f7916cd72cd0f6a3bcef80abc8ad4509b13026a) Thanks [@GregBrimble](https://github.com/GregBrimble)! - Support Containers in Worker Preview deployments with the Build Output.\n\n### Patch Changes\n\n- Updated dependencies [[`8f7916c`](https://github.com/cloudflare/workers-sdk/commit/8f7916cd72cd0f6a3bcef80abc8ad4509b13026a)]:\n  - @cloudflare/workers-utils@0.43.0\n  - @cloudflare/cli-shared-helpers@0.1.39\n  - @cloudflare/config@0.18.0\n  - @cloudflare/containers-shared@0.20.1\n  - miniflare@5.20260923.0-alpha"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/containers-shared@0.20.2",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/containers-shared@0.20.2",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`a34edd4`](https://github.com/cloudflare/workers-sdk/commit/a34edd4939479a5ae58277803178b87d9bd44b33), [`8c4b8a3`](https://github.com/cloudflare/workers-sdk/commit/8c4b8a3ee8d2f6cc6df96338ee819d25a10a7394), [`8280086`](https://github.com/cloudflare/workers-sdk/commit/8280086df5571607ab614fa09684c2d78fcdd58b), [`74a520e`](https://github.com/cloudflare/workers-sdk/commit/74a520ea55c56e8f61764bfdcff1c5aceabcfefd)]:\n  - @cloudflare/config@0.19.0\n  - @cloudflare/workers-utils@0.44.0\n  - @cloudflare/cli-shared-helpers@0.2.0\n  - @cloudflare/build-output-utils@0.8.1"
 }
