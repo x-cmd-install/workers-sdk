@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/397675559",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/397675559/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/397675559/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/deploy-helpers%400.18.1",
-  "id": 397675559,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/398328228",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/398328228/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/398328228/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/autoconfig%400.7.1",
+  "id": 398328228,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4XtAwn",
-  "tag_name": "@cloudflare/deploy-helpers@0.18.1",
+  "node_id": "RE_kwDOGW5OAc4XvgGk",
+  "tag_name": "@cloudflare/autoconfig@0.7.1",
   "target_commitish": "main",
-  "name": "@cloudflare/deploy-helpers@0.18.1",
+  "name": "@cloudflare/autoconfig@0.7.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-27T14:11:29Z",
-  "updated_at": "2026-09-27T14:12:08Z",
-  "published_at": "2026-09-27T14:12:08Z",
+  "created_at": "2026-09-28T14:26:19Z",
+  "updated_at": "2026-09-28T14:26:37Z",
+  "published_at": "2026-09-28T14:26:37Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/deploy-helpers@0.18.1",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/deploy-helpers@0.18.1",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`cde5d99`](https://github.com/cloudflare/workers-sdk/commit/cde5d99651678cde06da6721e194d2e6a21789ff), [`8dc53ae`](https://github.com/cloudflare/workers-sdk/commit/8dc53aec0d1a4133cd8c599b814cac0da30b4bb8), [`77e79b2`](https://github.com/cloudflare/workers-sdk/commit/77e79b2f5f1fa6a8f8ec2b04f8b288edac64bf9f), [`4c2993b`](https://github.com/cloudflare/workers-sdk/commit/4c2993b898c8df4ea6799897803c2c5ef18c5847)]:\n  - @cloudflare/config@0.20.0\n  - miniflare@5.20260926.0-alpha\n  - @cloudflare/containers-shared@0.20.3\n  - @cloudflare/workers-utils@0.44.0"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/autoconfig@0.7.1",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/autoconfig@0.7.1",
+  "body": "### Patch Changes\n\n- [#15913](https://github.com/cloudflare/workers-sdk/pull/15913) [`3ea1365`](https://github.com/cloudflare/workers-sdk/commit/3ea1365509e64786471bac5dfee37ff60e5f75ff) Thanks [@NuroDev](https://github.com/NuroDev)! - Fix the type generation script added to TypeScript projects configured for `cf`.\n\n  The `cf-typegen` script now runs `cf workers types` instead of the unsupported `cf types` command. Projects configured for Wrangler continue to use `wrangler types`."
 }
