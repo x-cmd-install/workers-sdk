@@ -206,4 +206,3 @@ total:
 ---
 
 ---
-{"id":399539178,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4X0Hvq","tag_name":"@cloudflare/vite-plugin@1.62.2","target_commitish":"main","name":"@cloudflare/vite-plugin@1.62.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-29T21:23:35Z","updated_at":"2026-09-29T21:24:07Z","published_at":"2026-09-29T21:24:07Z","assets":[],"body":"### Patch Changes\n\n- Updated dependencies [[`91a3606`](https://github.com/cloudflare/workers-sdk/commit/91a3606a2a519a341f71a91f43a723f113dd9abf), [`2a15ae2`](https://github.com/cloudflare/workers-sdk/commit/2a15ae21d210fcd36e485e7492b75198c8d7856c)]:\n  - wrangler@4.144.0\n  - miniflare@5.20260926.1-alpha"}

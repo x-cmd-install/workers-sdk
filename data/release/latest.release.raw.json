@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/398328228",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/398328228/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/398328228/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/autoconfig%400.7.1",
-  "id": 398328228,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/399539178",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/399539178/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/399539178/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.62.2",
+  "id": 399539178,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4XvgGk",
-  "tag_name": "@cloudflare/autoconfig@0.7.1",
+  "node_id": "RE_kwDOGW5OAc4X0Hvq",
+  "tag_name": "@cloudflare/vite-plugin@1.62.2",
   "target_commitish": "main",
-  "name": "@cloudflare/autoconfig@0.7.1",
+  "name": "@cloudflare/vite-plugin@1.62.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-28T14:26:19Z",
-  "updated_at": "2026-09-28T14:26:37Z",
-  "published_at": "2026-09-28T14:26:37Z",
+  "created_at": "2026-09-29T21:23:35Z",
+  "updated_at": "2026-09-29T21:24:07Z",
+  "published_at": "2026-09-29T21:24:07Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/autoconfig@0.7.1",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/autoconfig@0.7.1",
-  "body": "### Patch Changes\n\n- [#15913](https://github.com/cloudflare/workers-sdk/pull/15913) [`3ea1365`](https://github.com/cloudflare/workers-sdk/commit/3ea1365509e64786471bac5dfee37ff60e5f75ff) Thanks [@NuroDev](https://github.com/NuroDev)! - Fix the type generation script added to TypeScript projects configured for `cf`.\n\n  The `cf-typegen` script now runs `cf workers types` instead of the unsupported `cf types` command. Projects configured for Wrangler continue to use `wrangler types`."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vite-plugin@1.62.2",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vite-plugin@1.62.2",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`91a3606`](https://github.com/cloudflare/workers-sdk/commit/91a3606a2a519a341f71a91f43a723f113dd9abf), [`2a15ae2`](https://github.com/cloudflare/workers-sdk/commit/2a15ae21d210fcd36e485e7492b75198c8d7856c)]:\n  - wrangler@4.144.0\n  - miniflare@5.20260926.1-alpha"
 }
