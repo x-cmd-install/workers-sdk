@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/399539178",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/399539178/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/399539178/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.62.2",
-  "id": 399539178,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/400420664",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/400420664/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/400420664/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/workers-auth%400.11.0",
+  "id": 400420664,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4X0Hvq",
-  "tag_name": "@cloudflare/vite-plugin@1.62.2",
+  "node_id": "RE_kwDOGW5OAc4X3e84",
+  "tag_name": "@cloudflare/workers-auth@0.11.0",
   "target_commitish": "main",
-  "name": "@cloudflare/vite-plugin@1.62.2",
+  "name": "@cloudflare/workers-auth@0.11.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-29T21:23:35Z",
-  "updated_at": "2026-09-29T21:24:07Z",
-  "published_at": "2026-09-29T21:24:07Z",
+  "created_at": "2026-09-30T20:40:52Z",
+  "updated_at": "2026-09-30T20:41:04Z",
+  "published_at": "2026-09-30T20:41:04Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vite-plugin@1.62.2",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vite-plugin@1.62.2",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`91a3606`](https://github.com/cloudflare/workers-sdk/commit/91a3606a2a519a341f71a91f43a723f113dd9abf), [`2a15ae2`](https://github.com/cloudflare/workers-sdk/commit/2a15ae21d210fcd36e485e7492b75198c8d7856c)]:\n  - wrangler@4.144.0\n  - miniflare@5.20260926.1-alpha"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/workers-auth@0.11.0",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/workers-auth@0.11.0",
+  "body": "### Minor Changes\n\n- [#15978](https://github.com/cloudflare/workers-sdk/pull/15978) [`db011b1`](https://github.com/cloudflare/workers-sdk/commit/db011b100e9078a2812d4b30aeaec45ed2ca872e) Thanks [@akoval-cf](https://github.com/akoval-cf)! - Allow cf to request the K2 OAuth scopes\n\n  New cf OAuth logins request `k2.consume`, `k2.produce`, `k2.read`, and `k2.write`, which are registered for the cf OAuth client. Existing sessions must authenticate again to receive them."
 }
