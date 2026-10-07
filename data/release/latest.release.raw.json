@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/401765112",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/401765112/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/401765112/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/deploy-helpers%400.19.2",
-  "id": 401765112,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/405033653",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/405033653/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/405033653/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.73.3",
+  "id": 405033653,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4X8nL4",
-  "tag_name": "@cloudflare/deploy-helpers@0.19.2",
+  "node_id": "RE_kwDOGW5OAc4YJFK1",
+  "tag_name": "create-cloudflare@2.73.3",
   "target_commitish": "main",
-  "name": "@cloudflare/deploy-helpers@0.19.2",
+  "name": "create-cloudflare@2.73.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-02T11:37:49Z",
-  "updated_at": "2026-10-02T11:38:28Z",
-  "published_at": "2026-10-02T11:38:28Z",
+  "created_at": "2026-10-06T18:38:55Z",
+  "updated_at": "2026-10-06T18:39:46Z",
+  "published_at": "2026-10-06T18:39:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/deploy-helpers@0.19.2",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/deploy-helpers@0.19.2",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`7f57b1c`](https://github.com/cloudflare/workers-sdk/commit/7f57b1c60002ae3f077dd9c1e8cc482371065ef4)]:\n  - @cloudflare/config@0.23.0\n  - @cloudflare/workers-utils@0.46.0\n  - @cloudflare/containers-shared@0.21.3\n  - miniflare@5.20261001.0-alpha\n  - @cloudflare/cli-shared-helpers@0.2.3"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/create-cloudflare@2.73.3",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/create-cloudflare@2.73.3",
+  "body": "### Patch Changes\n\n- [#16057](https://github.com/cloudflare/workers-sdk/pull/16057) [`ad54578`](https://github.com/cloudflare/workers-sdk/commit/ad54578e2eeb2942891b5f6344cb6a1b1ecbcce6) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency      | From   | To     |\n  | --------------- | ------ | ------ |\n  | create-next-app | 16.3.6 | 16.3.8 |\n\n- [#16058](https://github.com/cloudflare/workers-sdk/pull/16058) [`f67fb2b`](https://github.com/cloudflare/workers-sdk/commit/f67fb2b2040a9c16717efd55fe6252afcb19c7cc) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency    | From  | To    |\n  | ------------- | ----- | ----- |\n  | create-analog | 2.7.5 | 2.8.0 |\n\n- [#16060](https://github.com/cloudflare/workers-sdk/pull/16060) [`17c6c0d`](https://github.com/cloudflare/workers-sdk/commit/17c6c0dfa38e620cf9e569516db41f58baab472f) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency      | From   | To     |\n  | --------------- | ------ | ------ |\n  | @angular/create | 22.2.0 | 22.2.1 |\n\n- [#16061](https://github.com/cloudflare/workers-sdk/pull/16061) [`f8093b7`](https://github.com/cloudflare/workers-sdk/commit/f8093b7c1bf5288a6c35d8add105719545d0fcaf) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency    | From   | To     |\n  | ------------- | ------ | ------ |\n  | @tanstack/cli | 0.71.0 | 0.71.1 |"
 }
