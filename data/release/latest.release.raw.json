@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/405033653",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/405033653/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/405033653/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.73.3",
-  "id": 405033653,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/407145728",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/407145728/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/407145728/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/remote-bindings%400.0.45",
+  "id": 407145728,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4YJFK1",
-  "tag_name": "create-cloudflare@2.73.3",
+  "node_id": "RE_kwDOGW5OAc4YRI0A",
+  "tag_name": "@cloudflare/remote-bindings@0.0.45",
   "target_commitish": "main",
-  "name": "create-cloudflare@2.73.3",
+  "name": "@cloudflare/remote-bindings@0.0.45",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-06T18:38:55Z",
-  "updated_at": "2026-10-06T18:39:46Z",
-  "published_at": "2026-10-06T18:39:46Z",
+  "created_at": "2026-10-08T18:32:10Z",
+  "updated_at": "2026-10-08T18:33:19Z",
+  "published_at": "2026-10-08T18:33:19Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/create-cloudflare@2.73.3",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/create-cloudflare@2.73.3",
-  "body": "### Patch Changes\n\n- [#16057](https://github.com/cloudflare/workers-sdk/pull/16057) [`ad54578`](https://github.com/cloudflare/workers-sdk/commit/ad54578e2eeb2942891b5f6344cb6a1b1ecbcce6) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency      | From   | To     |\n  | --------------- | ------ | ------ |\n  | create-next-app | 16.3.6 | 16.3.8 |\n\n- [#16058](https://github.com/cloudflare/workers-sdk/pull/16058) [`f67fb2b`](https://github.com/cloudflare/workers-sdk/commit/f67fb2b2040a9c16717efd55fe6252afcb19c7cc) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency    | From  | To    |\n  | ------------- | ----- | ----- |\n  | create-analog | 2.7.5 | 2.8.0 |\n\n- [#16060](https://github.com/cloudflare/workers-sdk/pull/16060) [`17c6c0d`](https://github.com/cloudflare/workers-sdk/commit/17c6c0dfa38e620cf9e569516db41f58baab472f) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency      | From   | To     |\n  | --------------- | ------ | ------ |\n  | @angular/create | 22.2.0 | 22.2.1 |\n\n- [#16061](https://github.com/cloudflare/workers-sdk/pull/16061) [`f8093b7`](https://github.com/cloudflare/workers-sdk/commit/f8093b7c1bf5288a6c35d8add105719545d0fcaf) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"create-cloudflare\"\n\n  The following dependency versions have been updated:\n\n  | Dependency    | From   | To     |\n  | ------------- | ------ | ------ |\n  | @tanstack/cli | 0.71.0 | 0.71.1 |"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/remote-bindings@0.0.45",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/remote-bindings@0.0.45",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`2d1d563`](https://github.com/cloudflare/workers-sdk/commit/2d1d563e0076cdb524d44b9bab4eca2d610bd21d), [`85b14e7`](https://github.com/cloudflare/workers-sdk/commit/85b14e79800fe71958755982061be91311b2089d), [`e6f7663`](https://github.com/cloudflare/workers-sdk/commit/e6f76636249eeca2407a28f3e0e786c4db24ab19), [`615c35b`](https://github.com/cloudflare/workers-sdk/commit/615c35b8231cde5cea04e2188c7a8232a424e85c), [`fe607f9`](https://github.com/cloudflare/workers-sdk/commit/fe607f9d7d35b377d5e272e8f946598e3812fe41), [`ad7ff45`](https://github.com/cloudflare/workers-sdk/commit/ad7ff45076f762253268d03c28b5384f43889999), [`8de6b3c`](https://github.com/cloudflare/workers-sdk/commit/8de6b3c3bf171521cc89f46a2f6e52c633a53b53), [`ae29445`](https://github.com/cloudflare/workers-sdk/commit/ae2944543a8be0b2b73d8d9140103fa1195c90d0), [`757faa6`](https://github.com/cloudflare/workers-sdk/commit/757faa6687bdeaabfb5213bd0211da0e8fc767d3), [`cc8e969`](https://github.com/cloudflare/workers-sdk/commit/cc8e969750703538507b471a59e7d56045ebb640), [`417b186`](https://github.com/cloudflare/workers-sdk/commit/417b18661812ee9b8d51fa51114a3ac73cbb48b1), [`93c1069`](https://github.com/cloudflare/workers-sdk/commit/93c10696930e50e310b8b49a8e792671bf371e82)]:\n  - @cloudflare/deploy-helpers@0.20.1\n  - miniflare@5.20261006.1-alpha\n  - @cloudflare/workers-utils@0.47.1\n  - @cloudflare/cli-shared-helpers@0.2.5\n  - @cloudflare/workers-auth@0.13.1"
 }
