@@ -37,22 +37,22 @@ Total: **699,298** lines of code across **4726** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,612 · **Forks**: 1,577 · **Open issues**: 5,061 · **Contributors**: 619
+- **Stars**: 4,613 · **Forks**: 1,578 · **Open issues**: 5,067 · **Contributors**: 619
 
 ## Totals (cumulative)
 
-- **Releases**: 2748 · **Merged PRs**: 7923 · **Open PRs**: 204 · **Closed issues**: 4708 · **Open issues**: 353 · **Commits**: 8591
+- **Releases**: 2748 · **Merged PRs**: 7923 · **Open PRs**: 214 · **Closed issues**: 4708 · **Open issues**: 359 · **Commits**: 8591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 100 | 253 | 68 | 58 | 110 | 284 |
-| last60d | 2026-08-11 | 100 | 475 | 101 | 120 | 162 | 499 |
-| 90d | 2026-07-12 | 100 | 700 | 126 | 201 | 186 | 725 |
-| last180d | 2026-04-13 | 100 | 1367 | 173 | 391 | 211 | 1395 |
-| 360d | 2025-10-15 | 100 | 2614 | 200 | 825 | 248 | 2592 |
-| last720d | 2024-10-20 | 100 | 4710 | 204 | 1900 | 299 | 4571 |
+| 30d | 2026-09-11 | 100 | 244 | 75 | 58 | 114 | 284 |
+| last60d | 2026-08-12 | 100 | 466 | 111 | 119 | 167 | 499 |
+| 90d | 2026-07-13 | 100 | 694 | 136 | 199 | 192 | 725 |
+| last180d | 2026-04-14 | 100 | 1356 | 183 | 391 | 217 | 1395 |
+| 360d | 2025-10-16 | 100 | 2612 | 209 | 823 | 254 | 2592 |
+| last720d | 2024-10-21 | 100 | 4696 | 214 | 1898 | 305 | 4571 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for workers-sdk lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T07:00:02Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:52:34Z._
