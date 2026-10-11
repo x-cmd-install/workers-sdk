@@ -1,0 +1,208 @@
+about:
+  description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: fcf625d
+  archived: false
+  latestVersion: "@cloudflare/remote-bindings@0.0.45"
+  latestRelease: "@cloudflare/remote-bindings@0.0.45"
+  latestPrerelease: "miniflare@5.20261006.1-alpha"
+  collectedAt: 2026-10-11T06:52:05Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-10-09
+  lastVersion: 2026-10-08
+  lastRelease: 2026-10-08
+  lastPrerelease: 2026-10-08
+popularity:
+  star: 4613
+  watcher: 77
+  fork: 1578
+  release: 2748
+  contributor: 619
+  pullRequest: 9978
+  issue: 5067
+language:
+  TypeScript: 21696752
+  JavaScript: 264765
+  Mustache: 59337
+  HTML: 30513
+  CSS: 11263
+  Python: 8157
+  Cap'n Proto: 6730
+  Vue: 5566
+  Shell: 1789
+  Dockerfile: 1724
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalBytes: 22089104
+recent:
+  last30d:
+    since: 2026-09-11
+    release: 100
+    mergedPR: 244
+    openPR: 75
+    closedIssue: 58
+    openIssue: 114
+    commit: 284
+  last60d:
+    since: 2026-08-12
+    release: 100
+    mergedPR: 466
+    openPR: 111
+    closedIssue: 119
+    openIssue: 167
+    commit: 499
+  last90d:
+    since: 2026-07-13
+    release: 100
+    mergedPR: 694
+    openPR: 136
+    closedIssue: 199
+    openIssue: 192
+    commit: 725
+  last180d:
+    since: 2026-04-14
+    release: 100
+    mergedPR: 1356
+    openPR: 183
+    closedIssue: 391
+    openIssue: 217
+    commit: 1395
+  last360d:
+    since: 2025-10-16
+    release: 100
+    mergedPR: 2612
+    openPR: 209
+    closedIssue: 823
+    openIssue: 254
+    commit: 2592
+  last720d:
+    since: 2024-10-21
+    release: 100
+    mergedPR: 4696
+    openPR: 214
+    closedIssue: 1898
+    openIssue: 305
+    commit: 4571
+total:
+  release: 2748
+  mergedPR: 7923
+  openPR: 214
+  closedIssue: 4708
+  openIssue: 359
+  commit: 8591
+---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-10-11T06:52:28Z
+loc:
+  TypeScript:
+    code: 620098
+    comments: 68778
+    blanks: 63136
+    files: 3583
+  Tsx:
+    code: 26008
+    comments: 975
+    blanks: 2220
+    files: 165
+  Yaml:
+    code: 23894
+    comments: 58
+    blanks: 4838
+    files: 2
+  Json:
+    code: 18288
+    comments: 0
+    blanks: 102
+    files: 761
+  JavaScript:
+    code: 7631
+    comments: 1618
+    blanks: 909
+    files: 215
+  Html:
+    code: 1022
+    comments: 7
+    blanks: 10
+    files: 101
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Python:
+    code: 174
+    comments: 18
+    blanks: 43
+    files: 16
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 87
+    comments: 13
+    blanks: 14
+    files: 9
+  Dockerfile:
+    code: 55
+    comments: 0
+    blanks: 14
+    files: 6
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 35065
+    blanks: 22905
+    files: 178
+  Text:
+    code: 0
+    comments: 43
+    blanks: 2
+    files: 23
+total:
+  code: 700573
+  comments: 106705
+  blanks: 94549
+  files: 5120
+---
+
+---
