@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: 091e5ec
+  head: b81efbc
   archived: false
-  latestVersion: "@cloudflare/remote-bindings@0.0.45"
-  latestRelease: "@cloudflare/remote-bindings@0.0.45"
-  latestPrerelease: "miniflare@5.20261006.1-alpha"
-  collectedAt: 2026-10-13T08:08:04Z
+  latestVersion: "@cloudflare/remote-bindings@0.0.47"
+  latestRelease: "@cloudflare/remote-bindings@0.0.47"
+  latestPrerelease: "miniflare@5.20261012.0-beta"
+  collectedAt: 2026-10-14T06:06:57Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-10-13
-  lastVersion: 2026-10-08
-  lastRelease: 2026-10-08
-  lastPrerelease: 2026-10-08
+  lastCommit: 2026-10-14
+  lastVersion: 2026-10-14
+  lastRelease: 2026-10-14
+  lastPrerelease: 2026-10-14
 popularity:
-  star: 4616
-  watcher: 77
-  fork: 1581
-  release: 2748
+  star: 4621
+  watcher: 76
+  fork: 1584
+  release: 2777
   contributor: 623
-  pullRequest: 9988
-  issue: 5084
+  pullRequest: 9999
+  issue: 5088
 language:
-  TypeScript: 21771028
+  TypeScript: 21802998
   JavaScript: 264765
   Mustache: 59337
   HTML: 30513
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 22163380
+totalBytes: 22195350
 recent:
   last30d:
-    since: 2026-09-13
+    since: 2026-09-14
     release: 100
-    mergedPR: 252
-    openPR: 67
-    closedIssue: 63
+    mergedPR: 254
+    openPR: 71
+    closedIssue: 64
     openIssue: 120
-    commit: 240
+    commit: 0
   last60d:
-    since: 2026-08-14
+    since: 2026-08-15
     release: 100
-    mergedPR: 469
-    openPR: 97
-    closedIssue: 118
+    mergedPR: 472
+    openPR: 98
+    closedIssue: 117
     openIssue: 173
-    commit: 456
+    commit: 0
   last90d:
-    since: 2026-07-15
+    since: 2026-07-16
     release: 100
-    mergedPR: 698
-    openPR: 126
-    closedIssue: 203
-    openIssue: 199
-    commit: 692
+    mergedPR: 690
+    openPR: 130
+    closedIssue: 200
+    openIssue: 202
+    commit: 0
   last180d:
-    since: 2026-04-16
+    since: 2026-04-17
     release: 100
-    mergedPR: 1348
-    openPR: 174
-    closedIssue: 390
-    openIssue: 227
-    commit: 1338
+    mergedPR: 1350
+    openPR: 178
+    closedIssue: 386
+    openIssue: 230
+    commit: 0
   last360d:
-    since: 2025-10-18
+    since: 2025-10-19
     release: 100
     mergedPR: 2624
-    openPR: 200
-    closedIssue: 828
-    openIssue: 263
-    commit: 2573
+    openPR: 204
+    closedIssue: 827
+    openIssue: 266
+    commit: 0
   last720d:
-    since: 2024-10-23
+    since: 2024-10-24
     release: 100
-    mergedPR: 4698
-    openPR: 205
+    mergedPR: 4696
+    openPR: 209
     closedIssue: 1896
-    openIssue: 315
-    commit: 4568
+    openIssue: 318
+    commit: 4563
 total:
-  release: 2748
-  mergedPR: 7941
-  openPR: 205
-  closedIssue: 4716
-  openIssue: 368
-  commit: 8609
+  release: 2777
+  mergedPR: 7948
+  openPR: 209
+  closedIssue: 4717
+  openIssue: 371
+  commit: 8615
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-13T08:08:31Z
+collectedAt: 2026-10-14T06:07:20Z
 loc:
   TypeScript:
-    code: 622145
-    comments: 68971
-    blanks: 63301
-    files: 3594
+    code: 623037
+    comments: 69052
+    blanks: 63364
+    files: 3598
   Tsx:
     code: 26008
     comments: 975
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 35079
-    blanks: 22914
+    comments: 35383
+    blanks: 23105
     files: 178
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 23
 total:
-  code: 702630
-  comments: 106912
-  blanks: 94723
-  files: 5131
+  code: 703522
+  comments: 107297
+  blanks: 94977
+  files: 5135
 ---
 
 ---
-{"id":407145728,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4YRI0A","tag_name":"@cloudflare/remote-bindings@0.0.45","target_commitish":"main","name":"@cloudflare/remote-bindings@0.0.45","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-08T18:32:10Z","updated_at":"2026-10-08T18:33:19Z","published_at":"2026-10-08T18:33:19Z","assets":[],"body":"### Patch Changes\n\n- Updated dependencies [[`2d1d563`](https://github.com/cloudflare/workers-sdk/commit/2d1d563e0076cdb524d44b9bab4eca2d610bd21d), [`85b14e7`](https://github.com/cloudflare/workers-sdk/commit/85b14e79800fe71958755982061be91311b2089d), [`e6f7663`](https://github.com/cloudflare/workers-sdk/commit/e6f76636249eeca2407a28f3e0e786c4db24ab19), [`615c35b`](https://github.com/cloudflare/workers-sdk/commit/615c35b8231cde5cea04e2188c7a8232a424e85c), [`fe607f9`](https://github.com/cloudflare/workers-sdk/commit/fe607f9d7d35b377d5e272e8f946598e3812fe41), [`ad7ff45`](https://github.com/cloudflare/workers-sdk/commit/ad7ff45076f762253268d03c28b5384f43889999), [`8de6b3c`](https://github.com/cloudflare/workers-sdk/commit/8de6b3c3bf171521cc89f46a2f6e52c633a53b53), [`ae29445`](https://github.com/cloudflare/workers-sdk/commit/ae2944543a8be0b2b73d8d9140103fa1195c90d0), [`757faa6`](https://github.com/cloudflare/workers-sdk/commit/757faa6687bdeaabfb5213bd0211da0e8fc767d3), [`cc8e969`](https://github.com/cloudflare/workers-sdk/commit/cc8e969750703538507b471a59e7d56045ebb640), [`417b186`](https://github.com/cloudflare/workers-sdk/commit/417b18661812ee9b8d51fa51114a3ac73cbb48b1), [`93c1069`](https://github.com/cloudflare/workers-sdk/commit/93c10696930e50e310b8b49a8e792671bf371e82)]:\n  - @cloudflare/deploy-helpers@0.20.1\n  - miniflare@5.20261006.1-alpha\n  - @cloudflare/workers-utils@0.47.1\n  - @cloudflare/cli-shared-helpers@0.2.5\n  - @cloudflare/workers-auth@0.13.1"}
+{"id":412382426,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4YlHTa","tag_name":"@cloudflare/remote-bindings@0.0.47","target_commitish":"main","name":"@cloudflare/remote-bindings@0.0.47","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-14T05:56:59Z","updated_at":"2026-10-14T05:57:43Z","published_at":"2026-10-14T05:57:43Z","assets":[],"body":"### Patch Changes\n\n- Updated dependencies [[`f360829`](https://github.com/cloudflare/workers-sdk/commit/f3608290da40c11b248fff40101f30fc295652be), [`97b2fb1`](https://github.com/cloudflare/workers-sdk/commit/97b2fb1632de1f02bb0d12639f8602cefb3de158), [`97b2fb1`](https://github.com/cloudflare/workers-sdk/commit/97b2fb1632de1f02bb0d12639f8602cefb3de158), [`acd2822`](https://github.com/cloudflare/workers-sdk/commit/acd2822046a1bf201d9143ee40969f3dc3eb9650)]:\n  - miniflare@5.20261012.0-beta\n  - @cloudflare/deploy-helpers@0.20.3"}
