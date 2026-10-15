@@ -37,22 +37,22 @@ Total: **702,246** lines of code across **4741** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,621 · **Forks**: 1,584 · **Open issues**: 5,088 · **Contributors**: 623
+- **Stars**: 4,624 · **Forks**: 1,585 · **Open issues**: 5,095 · **Contributors**: 623
 
 ## Totals (cumulative)
 
-- **Releases**: 2777 · **Merged PRs**: 7948 · **Open PRs**: 209 · **Closed issues**: 4717 · **Open issues**: 371 · **Commits**: 8615
+- **Releases**: 2777 · **Merged PRs**: 7954 · **Open PRs**: 212 · **Closed issues**: 4718 · **Open issues**: 377 · **Commits**: 8615
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 100 | 254 | 71 | 64 | 120 | 0 |
-| last60d | 2026-08-15 | 100 | 472 | 98 | 117 | 173 | 0 |
-| 90d | 2026-07-16 | 100 | 690 | 130 | 200 | 202 | 0 |
-| last180d | 2026-04-17 | 100 | 1350 | 178 | 386 | 230 | 0 |
-| 360d | 2025-10-19 | 100 | 2624 | 204 | 827 | 266 | 0 |
-| last720d | 2024-10-24 | 100 | 4696 | 209 | 1896 | 318 | 4563 |
+| 30d | 2026-09-15 | 100 | 252 | 74 | 60 | 122 | 246 |
+| last60d | 2026-08-16 | 100 | 468 | 102 | 116 | 177 | 462 |
+| 90d | 2026-07-17 | 100 | 688 | 134 | 198 | 207 | 698 |
+| last180d | 2026-04-18 | 100 | 1356 | 182 | 385 | 235 | 1344 |
+| 360d | 2025-10-20 | 100 | 2623 | 207 | 822 | 271 | 2579 |
+| last720d | 2024-10-25 | 100 | 4697 | 212 | 1894 | 324 | 4556 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for workers-sdk lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:07:25Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:47:55Z._
