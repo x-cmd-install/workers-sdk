@@ -7,7 +7,7 @@ about:
   latestVersion: "@cloudflare/remote-bindings@0.0.47"
   latestRelease: "@cloudflare/remote-bindings@0.0.47"
   latestPrerelease: "miniflare@5.20261012.0-beta"
-  collectedAt: 2026-10-14T06:06:57Z
+  collectedAt: 2026-10-15T05:47:26Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-10-14
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-14
   lastPrerelease: 2026-10-14
 popularity:
-  star: 4621
+  star: 4624
   watcher: 76
-  fork: 1584
+  fork: 1585
   release: 2777
   contributor: 623
-  pullRequest: 9999
-  issue: 5088
+  pullRequest: 10011
+  issue: 5095
 language:
   TypeScript: 21802998
   JavaScript: 264765
@@ -40,63 +40,63 @@ language:
 totalBytes: 22195350
 recent:
   last30d:
-    since: 2026-09-14
+    since: 2026-09-15
     release: 100
-    mergedPR: 254
-    openPR: 71
-    closedIssue: 64
-    openIssue: 120
-    commit: 0
+    mergedPR: 252
+    openPR: 74
+    closedIssue: 60
+    openIssue: 122
+    commit: 246
   last60d:
-    since: 2026-08-15
+    since: 2026-08-16
     release: 100
-    mergedPR: 472
-    openPR: 98
-    closedIssue: 117
-    openIssue: 173
-    commit: 0
+    mergedPR: 468
+    openPR: 102
+    closedIssue: 116
+    openIssue: 177
+    commit: 462
   last90d:
-    since: 2026-07-16
+    since: 2026-07-17
     release: 100
-    mergedPR: 690
-    openPR: 130
-    closedIssue: 200
-    openIssue: 202
-    commit: 0
+    mergedPR: 688
+    openPR: 134
+    closedIssue: 198
+    openIssue: 207
+    commit: 698
   last180d:
-    since: 2026-04-17
+    since: 2026-04-18
     release: 100
-    mergedPR: 1350
-    openPR: 178
-    closedIssue: 386
-    openIssue: 230
-    commit: 0
+    mergedPR: 1356
+    openPR: 182
+    closedIssue: 385
+    openIssue: 235
+    commit: 1344
   last360d:
-    since: 2025-10-19
+    since: 2025-10-20
     release: 100
-    mergedPR: 2624
-    openPR: 204
-    closedIssue: 827
-    openIssue: 266
-    commit: 0
+    mergedPR: 2623
+    openPR: 207
+    closedIssue: 822
+    openIssue: 271
+    commit: 2579
   last720d:
-    since: 2024-10-24
+    since: 2024-10-25
     release: 100
-    mergedPR: 4696
-    openPR: 209
-    closedIssue: 1896
-    openIssue: 318
-    commit: 4563
+    mergedPR: 4697
+    openPR: 212
+    closedIssue: 1894
+    openIssue: 324
+    commit: 4556
 total:
   release: 2777
-  mergedPR: 7948
-  openPR: 209
-  closedIssue: 4717
-  openIssue: 371
+  mergedPR: 7954
+  openPR: 212
+  closedIssue: 4718
+  openIssue: 377
   commit: 8615
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-14T06:07:20Z
+collectedAt: 2026-10-15T05:47:50Z
 loc:
   TypeScript:
     code: 623037
