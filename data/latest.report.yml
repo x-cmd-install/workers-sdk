@@ -2,29 +2,29 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: b81efbc
+  head: 68f86a3
   archived: false
-  latestVersion: "@cloudflare/remote-bindings@0.0.47"
-  latestRelease: "@cloudflare/remote-bindings@0.0.47"
-  latestPrerelease: "miniflare@5.20261012.0-beta"
-  collectedAt: 2026-10-15T05:47:26Z
+  latestVersion: "@cloudflare/vitest-plugin@1.4.3"
+  latestRelease: "@cloudflare/vitest-plugin@1.4.3"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.0"
+  collectedAt: 2026-10-16T05:44:15Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-10-14
-  lastVersion: 2026-10-14
-  lastRelease: 2026-10-14
-  lastPrerelease: 2026-10-14
+  lastCommit: 2026-10-15
+  lastVersion: 2026-10-15
+  lastRelease: 2026-10-15
+  lastPrerelease: 2026-10-15
 popularity:
-  star: 4624
+  star: 4628
   watcher: 76
-  fork: 1585
-  release: 2777
-  contributor: 623
-  pullRequest: 10011
-  issue: 5095
+  fork: 1588
+  release: 2782
+  contributor: 625
+  pullRequest: 10024
+  issue: 5107
 language:
-  TypeScript: 21802998
-  JavaScript: 264765
+  TypeScript: 21817234
+  JavaScript: 264675
   Mustache: 59337
   HTML: 30513
   CSS: 11263
@@ -37,89 +37,89 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 22195350
+totalBytes: 22209496
 recent:
   last30d:
-    since: 2026-09-15
+    since: 2026-09-16
     release: 100
-    mergedPR: 252
-    openPR: 74
-    closedIssue: 60
-    openIssue: 122
-    commit: 246
+    mergedPR: 245
+    openPR: 72
+    closedIssue: 57
+    openIssue: 133
+    commit: 293
   last60d:
-    since: 2026-08-16
+    since: 2026-08-17
     release: 100
-    mergedPR: 468
-    openPR: 102
-    closedIssue: 116
-    openIssue: 177
-    commit: 462
+    mergedPR: 470
+    openPR: 99
+    closedIssue: 114
+    openIssue: 189
+    commit: 518
   last90d:
-    since: 2026-07-17
+    since: 2026-07-18
     release: 100
-    mergedPR: 688
-    openPR: 134
+    mergedPR: 699
+    openPR: 132
     closedIssue: 198
-    openIssue: 207
-    commit: 698
+    openIssue: 219
+    commit: 754
   last180d:
-    since: 2026-04-18
+    since: 2026-04-19
     release: 100
-    mergedPR: 1356
-    openPR: 182
-    closedIssue: 385
-    openIssue: 235
-    commit: 1344
+    mergedPR: 1361
+    openPR: 179
+    closedIssue: 384
+    openIssue: 247
+    commit: 1400
   last360d:
-    since: 2025-10-20
+    since: 2025-10-21
     release: 100
-    mergedPR: 2623
-    openPR: 207
-    closedIssue: 822
-    openIssue: 271
-    commit: 2579
+    mergedPR: 2628
+    openPR: 204
+    closedIssue: 818
+    openIssue: 283
+    commit: 2635
   last720d:
-    since: 2024-10-25
+    since: 2024-10-26
     release: 100
-    mergedPR: 4697
-    openPR: 212
-    closedIssue: 1894
-    openIssue: 324
-    commit: 4556
+    mergedPR: 4708
+    openPR: 209
+    closedIssue: 1895
+    openIssue: 335
+    commit: 4624
 total:
-  release: 2777
-  mergedPR: 7954
-  openPR: 212
-  closedIssue: 4718
-  openIssue: 377
-  commit: 8615
+  release: 2782
+  mergedPR: 7966
+  openPR: 209
+  closedIssue: 4719
+  openIssue: 388
+  commit: 8690
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-15T05:47:50Z
+collectedAt: 2026-10-16T05:44:43Z
 loc:
   TypeScript:
-    code: 623037
-    comments: 69052
-    blanks: 63364
-    files: 3598
+    code: 624066
+    comments: 68935
+    blanks: 63219
+    files: 3631
   Tsx:
     code: 26008
     comments: 975
     blanks: 2220
     files: 165
   Yaml:
-    code: 23894
-    comments: 58
-    blanks: 4838
+    code: 23889
+    comments: 55
+    blanks: 5291
     files: 2
   Json:
-    code: 18297
+    code: 18139
     comments: 0
-    blanks: 102
-    files: 761
+    blanks: 100
+    files: 747
   JavaScript:
-    code: 7631
+    code: 7629
     comments: 1618
     blanks: 909
     files: 215
@@ -190,20 +190,20 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 35383
-    blanks: 23105
+    comments: 35434
+    blanks: 23150
     files: 178
   Text:
     code: 0
-    comments: 43
+    comments: 45
     blanks: 2
-    files: 23
+    files: 25
 total:
-  code: 703522
-  comments: 107297
-  blanks: 94977
-  files: 5135
+  code: 704389
+  comments: 107230
+  blanks: 95328
+  files: 5156
 ---
 
 ---
-{"id":412382426,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4YlHTa","tag_name":"@cloudflare/remote-bindings@0.0.47","target_commitish":"main","name":"@cloudflare/remote-bindings@0.0.47","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-14T05:56:59Z","updated_at":"2026-10-14T05:57:43Z","published_at":"2026-10-14T05:57:43Z","assets":[],"body":"### Patch Changes\n\n- Updated dependencies [[`f360829`](https://github.com/cloudflare/workers-sdk/commit/f3608290da40c11b248fff40101f30fc295652be), [`97b2fb1`](https://github.com/cloudflare/workers-sdk/commit/97b2fb1632de1f02bb0d12639f8602cefb3de158), [`97b2fb1`](https://github.com/cloudflare/workers-sdk/commit/97b2fb1632de1f02bb0d12639f8602cefb3de158), [`acd2822`](https://github.com/cloudflare/workers-sdk/commit/acd2822046a1bf201d9143ee40969f3dc3eb9650)]:\n  - miniflare@5.20261012.0-beta\n  - @cloudflare/deploy-helpers@0.20.3"}
+{"id":413842186,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4YqrsK","tag_name":"@cloudflare/vitest-plugin@1.4.3","target_commitish":"main","name":"@cloudflare/vitest-plugin@1.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-15T13:25:35Z","updated_at":"2026-10-15T13:25:38Z","published_at":"2026-10-15T13:25:38Z","assets":[],"body":"### Patch Changes\n\n- [#16248](https://github.com/cloudflare/workers-sdk/pull/16248) [`ad01099`](https://github.com/cloudflare/workers-sdk/commit/ad01099fef3baa6af4bcc1bd6325257831f4b911) Thanks [@mattjohnsonpint](https://github.com/mattjohnsonpint)! - Fix V8 coverage failing with Vitest 5.0.4\n\n  Tests using V8 coverage with Vitest 5.0.4 no longer fail with an assertion error during teardown.\n\n- [#16163](https://github.com/cloudflare/workers-sdk/pull/16163) [`5f12934`](https://github.com/cloudflare/workers-sdk/commit/5f1293480f58c59bb4a9e74e76e5fba0f72e90cc) Thanks [@edmundhung](https://github.com/edmundhung)! - Fix Workers tests failing with Vitest's filesystem module cache\n\n  This supports Vitest 4.1's `test.experimental.fsModuleCache` and Vitest 5's `test.fsModuleCache`."}

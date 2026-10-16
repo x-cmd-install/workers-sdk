@@ -1,0 +1,208 @@
+about:
+  description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: 68f86a3
+  archived: false
+  latestVersion: "@cloudflare/vitest-plugin@1.4.3"
+  latestRelease: "@cloudflare/vitest-plugin@1.4.3"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.0"
+  collectedAt: 2026-10-16T05:44:15Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-10-15
+  lastVersion: 2026-10-15
+  lastRelease: 2026-10-15
+  lastPrerelease: 2026-10-15
+popularity:
+  star: 4628
+  watcher: 76
+  fork: 1588
+  release: 2782
+  contributor: 625
+  pullRequest: 10024
+  issue: 5107
+language:
+  TypeScript: 21817234
+  JavaScript: 264675
+  Mustache: 59337
+  HTML: 30513
+  CSS: 11263
+  Python: 8157
+  Cap'n Proto: 6730
+  Vue: 5566
+  Shell: 1789
+  Dockerfile: 1724
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalBytes: 22209496
+recent:
+  last30d:
+    since: 2026-09-16
+    release: 100
+    mergedPR: 245
+    openPR: 72
+    closedIssue: 57
+    openIssue: 133
+    commit: 293
+  last60d:
+    since: 2026-08-17
+    release: 100
+    mergedPR: 470
+    openPR: 99
+    closedIssue: 114
+    openIssue: 189
+    commit: 518
+  last90d:
+    since: 2026-07-18
+    release: 100
+    mergedPR: 699
+    openPR: 132
+    closedIssue: 198
+    openIssue: 219
+    commit: 754
+  last180d:
+    since: 2026-04-19
+    release: 100
+    mergedPR: 1361
+    openPR: 179
+    closedIssue: 384
+    openIssue: 247
+    commit: 1400
+  last360d:
+    since: 2025-10-21
+    release: 100
+    mergedPR: 2628
+    openPR: 204
+    closedIssue: 818
+    openIssue: 283
+    commit: 2635
+  last720d:
+    since: 2024-10-26
+    release: 100
+    mergedPR: 4708
+    openPR: 209
+    closedIssue: 1895
+    openIssue: 335
+    commit: 4624
+total:
+  release: 2782
+  mergedPR: 7966
+  openPR: 209
+  closedIssue: 4719
+  openIssue: 388
+  commit: 8690
+---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-10-16T05:44:43Z
+loc:
+  TypeScript:
+    code: 624066
+    comments: 68935
+    blanks: 63219
+    files: 3631
+  Tsx:
+    code: 26008
+    comments: 975
+    blanks: 2220
+    files: 165
+  Yaml:
+    code: 23889
+    comments: 55
+    blanks: 5291
+    files: 2
+  Json:
+    code: 18139
+    comments: 0
+    blanks: 100
+    files: 747
+  JavaScript:
+    code: 7629
+    comments: 1618
+    blanks: 909
+    files: 215
+  Html:
+    code: 1022
+    comments: 7
+    blanks: 10
+    files: 101
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Python:
+    code: 174
+    comments: 18
+    blanks: 43
+    files: 16
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 87
+    comments: 13
+    blanks: 14
+    files: 9
+  Dockerfile:
+    code: 55
+    comments: 0
+    blanks: 14
+    files: 6
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 35434
+    blanks: 23150
+    files: 178
+  Text:
+    code: 0
+    comments: 45
+    blanks: 2
+    files: 25
+total:
+  code: 704389
+  comments: 107230
+  blanks: 95328
+  files: 5156
+---
+
+---
