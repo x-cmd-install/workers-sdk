@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/413842186",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/413842186/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/413842186/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-plugin%401.4.3",
-  "id": 413842186,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/414808589",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/414808589/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/414808589/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/remote-bindings%400.0.49",
+  "id": 414808589,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4YqrsK",
-  "tag_name": "@cloudflare/vitest-plugin@1.4.3",
+  "node_id": "RE_kwDOGW5OAc4YuXoN",
+  "tag_name": "@cloudflare/remote-bindings@0.0.49",
   "target_commitish": "main",
-  "name": "@cloudflare/vitest-plugin@1.4.3",
+  "name": "@cloudflare/remote-bindings@0.0.49",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-15T13:25:35Z",
-  "updated_at": "2026-10-15T13:25:38Z",
-  "published_at": "2026-10-15T13:25:38Z",
+  "created_at": "2026-10-16T10:08:04Z",
+  "updated_at": "2026-10-16T10:08:46Z",
+  "published_at": "2026-10-16T10:08:46Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vitest-plugin@1.4.3",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vitest-plugin@1.4.3",
-  "body": "### Patch Changes\n\n- [#16248](https://github.com/cloudflare/workers-sdk/pull/16248) [`ad01099`](https://github.com/cloudflare/workers-sdk/commit/ad01099fef3baa6af4bcc1bd6325257831f4b911) Thanks [@mattjohnsonpint](https://github.com/mattjohnsonpint)! - Fix V8 coverage failing with Vitest 5.0.4\n\n  Tests using V8 coverage with Vitest 5.0.4 no longer fail with an assertion error during teardown.\n\n- [#16163](https://github.com/cloudflare/workers-sdk/pull/16163) [`5f12934`](https://github.com/cloudflare/workers-sdk/commit/5f1293480f58c59bb4a9e74e76e5fba0f72e90cc) Thanks [@edmundhung](https://github.com/edmundhung)! - Fix Workers tests failing with Vitest's filesystem module cache\n\n  This supports Vitest 4.1's `test.experimental.fsModuleCache` and Vitest 5's `test.fsModuleCache`."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/remote-bindings@0.0.49",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/remote-bindings@0.0.49",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`e1d1b77`](https://github.com/cloudflare/workers-sdk/commit/e1d1b7765829ef9538e7d7882fe74ad8ca2a38d4), [`68f86a3`](https://github.com/cloudflare/workers-sdk/commit/68f86a32cb9f9fb8a8875bb5b2121c30b70c7b4c)]:\n  - miniflare@5.20261012.1-beta\n  - @cloudflare/deploy-helpers@0.21.0"
 }
