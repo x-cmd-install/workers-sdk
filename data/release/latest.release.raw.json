@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/417177888",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/417177888/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/417177888/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.199",
-  "id": 417177888,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/418361143",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/418361143/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/418361143/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.74.2",
+  "id": 418361143,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4Y3aEg",
-  "tag_name": "@cloudflare/pages-shared@0.13.199",
+  "node_id": "RE_kwDOGW5OAc4Y7683",
+  "tag_name": "create-cloudflare@2.74.2",
   "target_commitish": "main",
-  "name": "@cloudflare/pages-shared@0.13.199",
+  "name": "create-cloudflare@2.74.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-19T10:45:26Z",
-  "updated_at": "2026-10-19T10:46:04Z",
-  "published_at": "2026-10-19T10:46:04Z",
+  "created_at": "2026-10-20T12:14:07Z",
+  "updated_at": "2026-10-20T12:15:00Z",
+  "published_at": "2026-10-20T12:15:00Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/pages-shared@0.13.199",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/pages-shared@0.13.199",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`37ab91c`](https://github.com/cloudflare/workers-sdk/commit/37ab91c639062dda2acd12f02df4ee49e67ba56f), [`0ae7926`](https://github.com/cloudflare/workers-sdk/commit/0ae7926b77d860a4330448c6cc398946b6797f3d)]:\n  - miniflare@5.20261019.0-beta"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/create-cloudflare@2.74.2",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/create-cloudflare@2.74.2",
+  "body": "### Patch Changes\n\n- [#16259](https://github.com/cloudflare/workers-sdk/pull/16259) [`017bf9b`](https://github.com/cloudflare/workers-sdk/commit/017bf9b5117a8a511f4ed2c10dd2bd0b80b24c31) Thanks [@NuroDev](https://github.com/NuroDev)! - Use Vitest 5 in newly generated Workers projects\n\n  Workers templates now install Vitest 5 and require @cloudflare/vitest-plugin 1.4.3 or newer, which supports Vitest's filesystem module cache."
 }
