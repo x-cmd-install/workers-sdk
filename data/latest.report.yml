@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: 5c909cc
+  head: c0e915f
   archived: false
-  latestVersion: "create-cloudflare@2.74.2"
-  latestRelease: "create-cloudflare@2.74.2"
+  latestVersion: "@cloudflare/vite-plugin@1.65.0"
+  latestRelease: "@cloudflare/vite-plugin@1.65.0"
   latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.3"
-  collectedAt: 2026-10-23T06:01:39Z
+  collectedAt: 2026-10-24T05:43:25Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-10-22
-  lastVersion: 2026-10-20
-  lastRelease: 2026-10-20
+  lastCommit: 2026-10-23
+  lastVersion: 2026-10-23
+  lastRelease: 2026-10-23
   lastPrerelease: 2026-10-20
 popularity:
-  star: 4648
+  star: 4651
   watcher: 76
   fork: 1611
-  release: 2821
+  release: 2822
   contributor: 631
-  pullRequest: 10108
-  issue: 5145
+  pullRequest: 10119
+  issue: 5151
 language:
-  TypeScript: 21995579
+  TypeScript: 22001186
   JavaScript: 265329
   Mustache: 59337
   HTML: 30513
@@ -37,71 +37,71 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 22389906
+totalBytes: 22395513
 recent:
   last30d:
-    since: 2026-09-23
+    since: 2026-09-24
     release: 100
-    mergedPR: 240
-    openPR: 71
-    closedIssue: 61
-    openIssue: 133
-    commit: 259
+    mergedPR: 229
+    openPR: 75
+    closedIssue: 62
+    openIssue: 130
+    commit: 264
   last60d:
-    since: 2026-08-24
+    since: 2026-08-25
     release: 100
-    mergedPR: 484
-    openPR: 102
-    closedIssue: 126
-    openIssue: 189
-    commit: 509
+    mergedPR: 480
+    openPR: 107
+    closedIssue: 137
+    openIssue: 180
+    commit: 514
   last90d:
-    since: 2026-07-25
+    since: 2026-07-26
     release: 100
-    mergedPR: 716
-    openPR: 130
-    closedIssue: 212
-    openIssue: 226
-    commit: 741
+    mergedPR: 709
+    openPR: 134
+    closedIssue: 225
+    openIssue: 214
+    commit: 746
   last180d:
-    since: 2026-04-26
+    since: 2026-04-27
     release: 100
     mergedPR: 1364
-    openPR: 180
-    closedIssue: 399
-    openIssue: 253
-    commit: 1382
+    openPR: 185
+    closedIssue: 417
+    openIssue: 241
+    commit: 1387
   last360d:
-    since: 2025-10-28
+    since: 2025-10-29
     release: 100
-    mergedPR: 2665
-    openPR: 205
-    closedIssue: 828
-    openIssue: 287
-    commit: 2662
+    mergedPR: 2669
+    openPR: 209
+    closedIssue: 843
+    openIssue: 274
+    commit: 2667
   last720d:
-    since: 2024-11-02
+    since: 2024-11-03
     release: 100
-    mergedPR: 4746
-    openPR: 211
-    closedIssue: 1912
-    openIssue: 337
-    commit: 4647
+    mergedPR: 4753
+    openPR: 215
+    closedIssue: 1931
+    openIssue: 324
+    commit: 4652
 total:
-  release: 2821
-  mergedPR: 8029
-  openPR: 211
-  closedIssue: 4755
-  openIssue: 390
-  commit: 8736
+  release: 2822
+  mergedPR: 8036
+  openPR: 215
+  closedIssue: 4775
+  openIssue: 376
+  commit: 8741
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-23T06:02:19Z
+collectedAt: 2026-10-24T05:43:49Z
 loc:
   TypeScript:
-    code: 629429
-    comments: 69245
-    blanks: 63508
+    code: 629577
+    comments: 69253
+    blanks: 63523
     files: 3644
   Tsx:
     code: 26008
@@ -109,7 +109,7 @@ loc:
     blanks: 2220
     files: 165
   Yaml:
-    code: 23437
+    code: 23439
     comments: 49
     blanks: 4776
     files: 2
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 25
 total:
-  code: 709348
-  comments: 108055
-  blanks: 95407
+  code: 709498
+  comments: 108063
+  blanks: 95422
   files: 5173
 ---
 
 ---
-{"id":418361143,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4Y7683","tag_name":"create-cloudflare@2.74.2","target_commitish":"main","name":"create-cloudflare@2.74.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-20T12:14:07Z","updated_at":"2026-10-20T12:15:00Z","published_at":"2026-10-20T12:15:00Z","assets":[],"body":"### Patch Changes\n\n- [#16259](https://github.com/cloudflare/workers-sdk/pull/16259) [`017bf9b`](https://github.com/cloudflare/workers-sdk/commit/017bf9b5117a8a511f4ed2c10dd2bd0b80b24c31) Thanks [@NuroDev](https://github.com/NuroDev)! - Use Vitest 5 in newly generated Workers projects\n\n  Workers templates now install Vitest 5 and require @cloudflare/vitest-plugin 1.4.3 or newer, which supports Vitest's filesystem module cache."}
+{"id":421554102,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4ZIGe2","tag_name":"@cloudflare/vite-plugin@1.65.0","target_commitish":"main","name":"@cloudflare/vite-plugin@1.65.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T07:25:26Z","updated_at":"2026-10-23T07:25:28Z","published_at":"2026-10-23T07:25:28Z","assets":[],"body":"### Minor Changes\n\n- [#16363](https://github.com/cloudflare/workers-sdk/pull/16363) [`d3240f2`](https://github.com/cloudflare/workers-sdk/commit/d3240f21d85bfee569aebc12524a7182db841932) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Remove the `experimental.newConfig` option from Vite plugin v1\n\n  Vite plugin v1 now supports Wrangler configuration files only. Projects using `cloudflare.config.ts` for configuration should upgrade to Vite plugin v2 beta.\n\n### Patch Changes\n\n- [#16373](https://github.com/cloudflare/workers-sdk/pull/16373) [`8cc5f87`](https://github.com/cloudflare/workers-sdk/commit/8cc5f8761042f8046e520ecb6a1c541492700390) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Report unsupported remote bindings under Bun instead of hanging\n\n  Starting remote bindings now fails with an actionable error explaining Bun's unsupported request routing. Use Node.js or disable remote bindings to continue local development.\n\n- [#16334](https://github.com/cloudflare/workers-sdk/pull/16334) [`9cecd09`](https://github.com/cloudflare/workers-sdk/commit/9cecd09e1e16b63e4a13cb6cf2117843a353c2bc) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix Container setup guidance in Vite development and preview\n\n  Container registry instructions now show the Wrangler command and the configuration location, including Wrangler files and inline Vite configuration.\n\n- [#16333](https://github.com/cloudflare/workers-sdk/pull/16333) [`68d6eec`](https://github.com/cloudflare/workers-sdk/commit/68d6eecf9d05d03a32356b2082cd51807ed05e89) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workers runtime to the October 19 release\n\n  Include the fix for nested asset paths during local development on Windows, together with the compatible Wrangler release.\n\n  The runtime update also disposes Workflow step results and introspection modifiers after use, preventing undisposed RPC warnings and cancelled local Workflow requests.\n\n- [#16379](https://github.com/cloudflare/workers-sdk/pull/16379) [`160e655`](https://github.com/cloudflare/workers-sdk/commit/160e655cb02373882057dc7b9f027b31adef8df9) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workflow runtime to use native storage cleanup\n\n  Consume the Miniflare fix that queues Workflow persistence deletion with instance recreation, including deletion through the local Explorer. This prevents storage cleanup from racing reuse of the same Workflow instance ID.\n\n- [#16289](https://github.com/cloudflare/workers-sdk/pull/16289) [`bbe822f`](https://github.com/cloudflare/workers-sdk/commit/bbe822f7dd7d13ac4f975d987b3043a91687ca1f) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Retry remote preview token refreshes after transient failures\n\n  Backport the retry fix to the private remote-bindings workspace package and require `wrangler@4.151.1` so long-running remote development sessions recover after a network outage.\n\n- [#16291](https://github.com/cloudflare/workers-sdk/pull/16291) [`0262f7d`](https://github.com/cloudflare/workers-sdk/commit/0262f7d180d9dd58649499e25de8dccccf2d3890) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Use published SDK dependencies for Vite plugin v1 maintenance\n\n  Pin the plugin's published SDK dependencies to their deployed npm versions. Keep private shared packages as workspace dependencies so their implementation and build tools remain available on the v1 maintenance branch."}
