@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/421554102",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/421554102/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/421554102/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.65.0",
-  "id": 421554102,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/424357767",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/424357767/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/424357767/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/workflows-shared%400.15.3",
+  "id": 424357767,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4ZIGe2",
-  "tag_name": "@cloudflare/vite-plugin@1.65.0",
+  "node_id": "RE_kwDOGW5OAc4ZSy-H",
+  "tag_name": "@cloudflare/workflows-shared@0.15.3",
   "target_commitish": "main",
-  "name": "@cloudflare/vite-plugin@1.65.0",
+  "name": "@cloudflare/workflows-shared@0.15.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-23T07:25:26Z",
-  "updated_at": "2026-10-23T07:25:28Z",
-  "published_at": "2026-10-23T07:25:28Z",
+  "created_at": "2026-10-26T14:32:25Z",
+  "updated_at": "2026-10-26T14:33:36Z",
+  "published_at": "2026-10-26T14:33:36Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vite-plugin@1.65.0",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vite-plugin@1.65.0",
-  "body": "### Minor Changes\n\n- [#16363](https://github.com/cloudflare/workers-sdk/pull/16363) [`d3240f2`](https://github.com/cloudflare/workers-sdk/commit/d3240f21d85bfee569aebc12524a7182db841932) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Remove the `experimental.newConfig` option from Vite plugin v1\n\n  Vite plugin v1 now supports Wrangler configuration files only. Projects using `cloudflare.config.ts` for configuration should upgrade to Vite plugin v2 beta.\n\n### Patch Changes\n\n- [#16373](https://github.com/cloudflare/workers-sdk/pull/16373) [`8cc5f87`](https://github.com/cloudflare/workers-sdk/commit/8cc5f8761042f8046e520ecb6a1c541492700390) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Report unsupported remote bindings under Bun instead of hanging\n\n  Starting remote bindings now fails with an actionable error explaining Bun's unsupported request routing. Use Node.js or disable remote bindings to continue local development.\n\n- [#16334](https://github.com/cloudflare/workers-sdk/pull/16334) [`9cecd09`](https://github.com/cloudflare/workers-sdk/commit/9cecd09e1e16b63e4a13cb6cf2117843a353c2bc) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix Container setup guidance in Vite development and preview\n\n  Container registry instructions now show the Wrangler command and the configuration location, including Wrangler files and inline Vite configuration.\n\n- [#16333](https://github.com/cloudflare/workers-sdk/pull/16333) [`68d6eec`](https://github.com/cloudflare/workers-sdk/commit/68d6eecf9d05d03a32356b2082cd51807ed05e89) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workers runtime to the October 19 release\n\n  Include the fix for nested asset paths during local development on Windows, together with the compatible Wrangler release.\n\n  The runtime update also disposes Workflow step results and introspection modifiers after use, preventing undisposed RPC warnings and cancelled local Workflow requests.\n\n- [#16379](https://github.com/cloudflare/workers-sdk/pull/16379) [`160e655`](https://github.com/cloudflare/workers-sdk/commit/160e655cb02373882057dc7b9f027b31adef8df9) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workflow runtime to use native storage cleanup\n\n  Consume the Miniflare fix that queues Workflow persistence deletion with instance recreation, including deletion through the local Explorer. This prevents storage cleanup from racing reuse of the same Workflow instance ID.\n\n- [#16289](https://github.com/cloudflare/workers-sdk/pull/16289) [`bbe822f`](https://github.com/cloudflare/workers-sdk/commit/bbe822f7dd7d13ac4f975d987b3043a91687ca1f) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Retry remote preview token refreshes after transient failures\n\n  Backport the retry fix to the private remote-bindings workspace package and require `wrangler@4.151.1` so long-running remote development sessions recover after a network outage.\n\n- [#16291](https://github.com/cloudflare/workers-sdk/pull/16291) [`0262f7d`](https://github.com/cloudflare/workers-sdk/commit/0262f7d180d9dd58649499e25de8dccccf2d3890) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Use published SDK dependencies for Vite plugin v1 maintenance\n\n  Pin the plugin's published SDK dependencies to their deployed npm versions. Keep private shared packages as workspace dependencies so their implementation and build tools remain available on the v1 maintenance branch."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/workflows-shared@0.15.3",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/workflows-shared@0.15.3",
+  "body": "### Patch Changes\n\n- [#16490](https://github.com/cloudflare/workers-sdk/pull/16490) [`bcd618d`](https://github.com/cloudflare/workers-sdk/commit/bcd618d0e622a020fd2cb658df0620a5e3ec2206) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Zod to 4.6.6 to address GHSA-mrhx-c7xc-m3w5\n\n  The updated shared dependency fixes excessive memory consumption when validating oversized collections. This updates both the published Zod dependencies and the copies bundled into development tools and Workers."
 }

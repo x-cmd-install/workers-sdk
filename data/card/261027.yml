@@ -1,0 +1,208 @@
+about:
+  description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: 8d98a15
+  archived: false
+  latestVersion: "@cloudflare/workflows-shared@0.15.3"
+  latestRelease: "@cloudflare/workflows-shared@0.15.3"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.5"
+  collectedAt: 2026-10-27T06:27:32Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-10-26
+  lastVersion: 2026-10-26
+  lastRelease: 2026-10-26
+  lastPrerelease: 2026-10-26
+popularity:
+  star: 4670
+  watcher: 76
+  fork: 1617
+  release: 2845
+  contributor: 635
+  pullRequest: 10152
+  issue: 5163
+language:
+  TypeScript: 22216804
+  JavaScript: 265546
+  Mustache: 59337
+  HTML: 30513
+  CSS: 11263
+  Python: 8157
+  Cap'n Proto: 6730
+  Vue: 5566
+  Dockerfile: 3135
+  Shell: 1789
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalBytes: 22611348
+recent:
+  last30d:
+    since: 2026-09-27
+    release: 100
+    mergedPR: 225
+    openPR: 81
+    closedIssue: 55
+    openIssue: 135
+    commit: 200
+  last60d:
+    since: 2026-08-28
+    release: 100
+    mergedPR: 480
+    openPR: 105
+    closedIssue: 131
+    openIssue: 186
+    commit: 504
+  last90d:
+    since: 2026-07-29
+    release: 100
+    mergedPR: 703
+    openPR: 137
+    closedIssue: 219
+    openIssue: 220
+    commit: 708
+  last180d:
+    since: 2026-04-30
+    release: 100
+    mergedPR: 1359
+    openPR: 183
+    closedIssue: 409
+    openIssue: 248
+    commit: 1368
+  last360d:
+    since: 2025-11-01
+    release: 100
+    mergedPR: 2677
+    openPR: 214
+    closedIssue: 843
+    openIssue: 281
+    commit: 2654
+  last720d:
+    since: 2024-11-06
+    release: 100
+    mergedPR: 4760
+    openPR: 220
+    closedIssue: 1933
+    openIssue: 331
+    commit: 4662
+total:
+  release: 2845
+  mergedPR: 8061
+  openPR: 220
+  closedIssue: 4780
+  openIssue: 383
+  commit: 8766
+---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-10-27T06:27:56Z
+loc:
+  TypeScript:
+    code: 636257
+    comments: 69411
+    blanks: 63853
+    files: 3657
+  Tsx:
+    code: 26008
+    comments: 975
+    blanks: 2220
+    files: 165
+  Yaml:
+    code: 23444
+    comments: 49
+    blanks: 4778
+    files: 2
+  Json:
+    code: 18143
+    comments: 0
+    blanks: 99
+    files: 749
+  JavaScript:
+    code: 7677
+    comments: 1616
+    blanks: 911
+    files: 217
+  Html:
+    code: 1022
+    comments: 7
+    blanks: 10
+    files: 101
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Python:
+    code: 174
+    comments: 18
+    blanks: 43
+    files: 16
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 87
+    comments: 13
+    blanks: 14
+    files: 9
+  Dockerfile:
+    code: 55
+    comments: 0
+    blanks: 14
+    files: 6
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 36399
+    blanks: 23708
+    files: 180
+  Text:
+    code: 0
+    comments: 45
+    blanks: 2
+    files: 25
+total:
+  code: 716187
+  comments: 108663
+  blanks: 96008
+  files: 5188
+---
+
+---

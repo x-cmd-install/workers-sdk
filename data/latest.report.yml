@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: 9e05ade
+  head: 8d98a15
   archived: false
-  latestVersion: "@cloudflare/vite-plugin@1.65.0"
-  latestRelease: "@cloudflare/vite-plugin@1.65.0"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.3"
-  collectedAt: 2026-10-26T05:55:38Z
+  latestVersion: "@cloudflare/workflows-shared@0.15.3"
+  latestRelease: "@cloudflare/workflows-shared@0.15.3"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.5"
+  collectedAt: 2026-10-27T06:27:32Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-10-25
-  lastVersion: 2026-10-23
-  lastRelease: 2026-10-23
-  lastPrerelease: 2026-10-20
+  lastCommit: 2026-10-26
+  lastVersion: 2026-10-26
+  lastRelease: 2026-10-26
+  lastPrerelease: 2026-10-26
 popularity:
-  star: 4663
+  star: 4670
   watcher: 76
-  fork: 1616
-  release: 2822
-  contributor: 632
-  pullRequest: 10135
-  issue: 5159
+  fork: 1617
+  release: 2845
+  contributor: 635
+  pullRequest: 10152
+  issue: 5163
 language:
-  TypeScript: 22189710
+  TypeScript: 22216804
   JavaScript: 265546
   Mustache: 59337
   HTML: 30513
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 22584254
+totalBytes: 22611348
 recent:
   last30d:
-    since: 2026-09-26
+    since: 2026-09-27
     release: 100
-    mergedPR: 221
-    openPR: 78
+    mergedPR: 225
+    openPR: 81
     closedIssue: 55
-    openIssue: 133
-    commit: 186
+    openIssue: 135
+    commit: 200
   last60d:
-    since: 2026-08-27
+    since: 2026-08-28
     release: 100
     mergedPR: 480
-    openPR: 108
-    closedIssue: 128
+    openPR: 105
+    closedIssue: 131
     openIssue: 186
-    commit: 490
+    commit: 504
   last90d:
-    since: 2026-07-28
+    since: 2026-07-29
     release: 100
     mergedPR: 703
     openPR: 137
-    closedIssue: 221
+    closedIssue: 219
     openIssue: 220
-    commit: 694
+    commit: 708
   last180d:
-    since: 2026-04-29
+    since: 2026-04-30
     release: 100
-    mergedPR: 1349
-    openPR: 186
-    closedIssue: 410
-    openIssue: 247
-    commit: 1354
+    mergedPR: 1359
+    openPR: 183
+    closedIssue: 409
+    openIssue: 248
+    commit: 1368
   last360d:
-    since: 2025-10-31
+    since: 2025-11-01
     release: 100
-    mergedPR: 2663
-    openPR: 213
-    closedIssue: 842
-    openIssue: 280
-    commit: 2640
+    mergedPR: 2677
+    openPR: 214
+    closedIssue: 843
+    openIssue: 281
+    commit: 2654
   last720d:
-    since: 2024-11-05
+    since: 2024-11-06
     release: 100
-    mergedPR: 4749
-    openPR: 219
-    closedIssue: 1931
-    openIssue: 330
-    commit: 4657
+    mergedPR: 4760
+    openPR: 220
+    closedIssue: 1933
+    openIssue: 331
+    commit: 4662
 total:
-  release: 2822
-  mergedPR: 8047
-  openPR: 219
-  closedIssue: 4777
-  openIssue: 382
-  commit: 8752
+  release: 2845
+  mergedPR: 8061
+  openPR: 220
+  closedIssue: 4780
+  openIssue: 383
+  commit: 8766
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-26T05:56:02Z
+collectedAt: 2026-10-27T06:27:56Z
 loc:
   TypeScript:
-    code: 635503
-    comments: 69350
-    blanks: 63786
-    files: 3654
+    code: 636257
+    comments: 69411
+    blanks: 63853
+    files: 3657
   Tsx:
     code: 26008
     comments: 975
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 36111
-    blanks: 23475
+    comments: 36399
+    blanks: 23708
     files: 180
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 25
 total:
-  code: 715433
-  comments: 108314
-  blanks: 95708
-  files: 5185
+  code: 716187
+  comments: 108663
+  blanks: 96008
+  files: 5188
 ---
 
 ---
-{"id":421554102,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4ZIGe2","tag_name":"@cloudflare/vite-plugin@1.65.0","target_commitish":"main","name":"@cloudflare/vite-plugin@1.65.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-23T07:25:26Z","updated_at":"2026-10-23T07:25:28Z","published_at":"2026-10-23T07:25:28Z","assets":[],"body":"### Minor Changes\n\n- [#16363](https://github.com/cloudflare/workers-sdk/pull/16363) [`d3240f2`](https://github.com/cloudflare/workers-sdk/commit/d3240f21d85bfee569aebc12524a7182db841932) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Remove the `experimental.newConfig` option from Vite plugin v1\n\n  Vite plugin v1 now supports Wrangler configuration files only. Projects using `cloudflare.config.ts` for configuration should upgrade to Vite plugin v2 beta.\n\n### Patch Changes\n\n- [#16373](https://github.com/cloudflare/workers-sdk/pull/16373) [`8cc5f87`](https://github.com/cloudflare/workers-sdk/commit/8cc5f8761042f8046e520ecb6a1c541492700390) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Report unsupported remote bindings under Bun instead of hanging\n\n  Starting remote bindings now fails with an actionable error explaining Bun's unsupported request routing. Use Node.js or disable remote bindings to continue local development.\n\n- [#16334](https://github.com/cloudflare/workers-sdk/pull/16334) [`9cecd09`](https://github.com/cloudflare/workers-sdk/commit/9cecd09e1e16b63e4a13cb6cf2117843a353c2bc) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix Container setup guidance in Vite development and preview\n\n  Container registry instructions now show the Wrangler command and the configuration location, including Wrangler files and inline Vite configuration.\n\n- [#16333](https://github.com/cloudflare/workers-sdk/pull/16333) [`68d6eec`](https://github.com/cloudflare/workers-sdk/commit/68d6eecf9d05d03a32356b2082cd51807ed05e89) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workers runtime to the October 19 release\n\n  Include the fix for nested asset paths during local development on Windows, together with the compatible Wrangler release.\n\n  The runtime update also disposes Workflow step results and introspection modifiers after use, preventing undisposed RPC warnings and cancelled local Workflow requests.\n\n- [#16379](https://github.com/cloudflare/workers-sdk/pull/16379) [`160e655`](https://github.com/cloudflare/workers-sdk/commit/160e655cb02373882057dc7b9f027b31adef8df9) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workflow runtime to use native storage cleanup\n\n  Consume the Miniflare fix that queues Workflow persistence deletion with instance recreation, including deletion through the local Explorer. This prevents storage cleanup from racing reuse of the same Workflow instance ID.\n\n- [#16289](https://github.com/cloudflare/workers-sdk/pull/16289) [`bbe822f`](https://github.com/cloudflare/workers-sdk/commit/bbe822f7dd7d13ac4f975d987b3043a91687ca1f) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Retry remote preview token refreshes after transient failures\n\n  Backport the retry fix to the private remote-bindings workspace package and require `wrangler@4.151.1` so long-running remote development sessions recover after a network outage.\n\n- [#16291](https://github.com/cloudflare/workers-sdk/pull/16291) [`0262f7d`](https://github.com/cloudflare/workers-sdk/commit/0262f7d180d9dd58649499e25de8dccccf2d3890) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Use published SDK dependencies for Vite plugin v1 maintenance\n\n  Pin the plugin's published SDK dependencies to their deployed npm versions. Keep private shared packages as workspace dependencies so their implementation and build tools remain available on the v1 maintenance branch."}
+{"id":424357767,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4ZSy-H","tag_name":"@cloudflare/workflows-shared@0.15.3","target_commitish":"main","name":"@cloudflare/workflows-shared@0.15.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-26T14:32:25Z","updated_at":"2026-10-26T14:33:36Z","published_at":"2026-10-26T14:33:36Z","assets":[],"body":"### Patch Changes\n\n- [#16490](https://github.com/cloudflare/workers-sdk/pull/16490) [`bcd618d`](https://github.com/cloudflare/workers-sdk/commit/bcd618d0e622a020fd2cb658df0620a5e3ec2206) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Zod to 4.6.6 to address GHSA-mrhx-c7xc-m3w5\n\n  The updated shared dependency fixes excessive memory consumption when validating oversized collections. This updates both the published Zod dependencies and the copies bundled into development tools and Workers."}
