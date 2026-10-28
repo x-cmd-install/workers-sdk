@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/424357767",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/424357767/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/424357767/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/workflows-shared%400.15.3",
-  "id": 424357767,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/425763212",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/425763212/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/425763212/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-plugin%401.4.9",
+  "id": 425763212,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4ZSy-H",
-  "tag_name": "@cloudflare/workflows-shared@0.15.3",
+  "node_id": "RE_kwDOGW5OAc4ZYKGM",
+  "tag_name": "@cloudflare/vitest-plugin@1.4.9",
   "target_commitish": "main",
-  "name": "@cloudflare/workflows-shared@0.15.3",
+  "name": "@cloudflare/vitest-plugin@1.4.9",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-26T14:32:25Z",
-  "updated_at": "2026-10-26T14:33:36Z",
-  "published_at": "2026-10-26T14:33:36Z",
+  "created_at": "2026-10-27T17:14:27Z",
+  "updated_at": "2026-10-27T17:14:48Z",
+  "published_at": "2026-10-27T17:14:48Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/workflows-shared@0.15.3",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/workflows-shared@0.15.3",
-  "body": "### Patch Changes\n\n- [#16490](https://github.com/cloudflare/workers-sdk/pull/16490) [`bcd618d`](https://github.com/cloudflare/workers-sdk/commit/bcd618d0e622a020fd2cb658df0620a5e3ec2206) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Zod to 4.6.6 to address GHSA-mrhx-c7xc-m3w5\n\n  The updated shared dependency fixes excessive memory consumption when validating oversized collections. This updates both the published Zod dependencies and the copies bundled into development tools and Workers."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vitest-plugin@1.4.9",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vitest-plugin@1.4.9",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`0968b08`](https://github.com/cloudflare/workers-sdk/commit/0968b08c2a0b322fe6820bc2eb573440e6589a0b), [`f3c13b3`](https://github.com/cloudflare/workers-sdk/commit/f3c13b3b6165b0ce84b5ce0893ba993856e7eef6)]:\n  - miniflare@5.20261023.1-beta\n  - wrangler@4.154.0"
 }

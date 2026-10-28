@@ -2,29 +2,29 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: 8d98a15
+  head: ec6eddd
   archived: false
-  latestVersion: "@cloudflare/workflows-shared@0.15.3"
-  latestRelease: "@cloudflare/workflows-shared@0.15.3"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.5"
-  collectedAt: 2026-10-27T06:27:32Z
+  latestVersion: "miniflare@5.20261023.1-beta"
+  latestRelease: "@cloudflare/vitest-plugin@1.4.9"
+  latestPrerelease: "miniflare@5.20261023.1-beta"
+  collectedAt: 2026-10-28T06:57:42Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-10-26
-  lastVersion: 2026-10-26
-  lastRelease: 2026-10-26
-  lastPrerelease: 2026-10-26
+  lastCommit: 2026-10-27
+  lastVersion: 2026-10-27
+  lastRelease: 2026-10-27
+  lastPrerelease: 2026-10-27
 popularity:
-  star: 4670
+  star: 4673
   watcher: 76
-  fork: 1617
-  release: 2845
-  contributor: 635
-  pullRequest: 10152
-  issue: 5163
+  fork: 1618
+  release: 2853
+  contributor: 636
+  pullRequest: 10166
+  issue: 5171
 language:
-  TypeScript: 22216804
-  JavaScript: 265546
+  TypeScript: 22247082
+  JavaScript: 266530
   Mustache: 59337
   HTML: 30513
   CSS: 11263
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 22611348
+totalBytes: 22642610
 recent:
   last30d:
-    since: 2026-09-27
+    since: 2026-09-28
     release: 100
-    mergedPR: 225
-    openPR: 81
-    closedIssue: 55
+    mergedPR: 220
+    openPR: 85
+    closedIssue: 60
     openIssue: 135
-    commit: 200
+    commit: 206
   last60d:
-    since: 2026-08-28
+    since: 2026-08-29
     release: 100
-    mergedPR: 480
-    openPR: 105
-    closedIssue: 131
+    mergedPR: 485
+    openPR: 110
+    closedIssue: 134
     openIssue: 186
-    commit: 504
+    commit: 510
   last90d:
-    since: 2026-07-29
+    since: 2026-07-30
     release: 100
-    mergedPR: 703
-    openPR: 137
+    mergedPR: 700
+    openPR: 142
     closedIssue: 219
-    openIssue: 220
-    commit: 708
+    openIssue: 221
+    commit: 714
   last180d:
-    since: 2026-04-30
+    since: 2026-05-01
     release: 100
-    mergedPR: 1359
-    openPR: 183
-    closedIssue: 409
-    openIssue: 248
-    commit: 1368
+    mergedPR: 1350
+    openPR: 187
+    closedIssue: 414
+    openIssue: 250
+    commit: 1374
   last360d:
-    since: 2025-11-01
+    since: 2025-11-02
     release: 100
     mergedPR: 2677
-    openPR: 214
-    closedIssue: 843
-    openIssue: 281
-    commit: 2654
+    openPR: 219
+    closedIssue: 848
+    openIssue: 283
+    commit: 2660
   last720d:
-    since: 2024-11-06
+    since: 2024-11-07
     release: 100
-    mergedPR: 4760
-    openPR: 220
-    closedIssue: 1933
-    openIssue: 331
-    commit: 4662
+    mergedPR: 4757
+    openPR: 225
+    closedIssue: 1935
+    openIssue: 332
+    commit: 4664
 total:
-  release: 2845
-  mergedPR: 8061
-  openPR: 220
-  closedIssue: 4780
-  openIssue: 383
-  commit: 8766
+  release: 2853
+  mergedPR: 8067
+  openPR: 225
+  closedIssue: 4786
+  openIssue: 385
+  commit: 8772
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-27T06:27:56Z
+collectedAt: 2026-10-28T06:58:23Z
 loc:
   TypeScript:
-    code: 636257
-    comments: 69411
-    blanks: 63853
-    files: 3657
+    code: 637140
+    comments: 69445
+    blanks: 63929
+    files: 3659
   Tsx:
     code: 26008
     comments: 975
@@ -119,9 +119,9 @@ loc:
     blanks: 99
     files: 749
   JavaScript:
-    code: 7677
-    comments: 1616
-    blanks: 911
+    code: 7697
+    comments: 1619
+    blanks: 913
     files: 217
   Html:
     code: 1022
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 36399
-    blanks: 23708
+    comments: 36502
+    blanks: 23763
     files: 180
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 25
 total:
-  code: 716187
-  comments: 108663
-  blanks: 96008
-  files: 5188
+  code: 717090
+  comments: 108803
+  blanks: 96141
+  files: 5190
 ---
 
 ---
-{"id":424357767,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4ZSy-H","tag_name":"@cloudflare/workflows-shared@0.15.3","target_commitish":"main","name":"@cloudflare/workflows-shared@0.15.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-26T14:32:25Z","updated_at":"2026-10-26T14:33:36Z","published_at":"2026-10-26T14:33:36Z","assets":[],"body":"### Patch Changes\n\n- [#16490](https://github.com/cloudflare/workers-sdk/pull/16490) [`bcd618d`](https://github.com/cloudflare/workers-sdk/commit/bcd618d0e622a020fd2cb658df0620a5e3ec2206) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Zod to 4.6.6 to address GHSA-mrhx-c7xc-m3w5\n\n  The updated shared dependency fixes excessive memory consumption when validating oversized collections. This updates both the published Zod dependencies and the copies bundled into development tools and Workers."}
+{"id":425763212,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4ZYKGM","tag_name":"@cloudflare/vitest-plugin@1.4.9","target_commitish":"main","name":"@cloudflare/vitest-plugin@1.4.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-27T17:14:27Z","updated_at":"2026-10-27T17:14:48Z","published_at":"2026-10-27T17:14:48Z","assets":[],"body":"### Patch Changes\n\n- Updated dependencies [[`0968b08`](https://github.com/cloudflare/workers-sdk/commit/0968b08c2a0b322fe6820bc2eb573440e6589a0b), [`f3c13b3`](https://github.com/cloudflare/workers-sdk/commit/f3c13b3b6165b0ce84b5ce0893ba993856e7eef6)]:\n  - miniflare@5.20261023.1-beta\n  - wrangler@4.154.0"}
