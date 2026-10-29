@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/425763212",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/425763212/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/425763212/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-plugin%401.4.9",
-  "id": 425763212,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/427164954",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/427164954/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/427164954/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/runtime-types%400.1.18",
+  "id": 427164954,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4ZYKGM",
-  "tag_name": "@cloudflare/vitest-plugin@1.4.9",
+  "node_id": "RE_kwDOGW5OAc4ZdgUa",
+  "tag_name": "@cloudflare/runtime-types@0.1.18",
   "target_commitish": "main",
-  "name": "@cloudflare/vitest-plugin@1.4.9",
+  "name": "@cloudflare/runtime-types@0.1.18",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-27T17:14:27Z",
-  "updated_at": "2026-10-27T17:14:48Z",
-  "published_at": "2026-10-27T17:14:48Z",
+  "created_at": "2026-10-28T20:35:14Z",
+  "updated_at": "2026-10-28T20:36:09Z",
+  "published_at": "2026-10-28T20:36:09Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vitest-plugin@1.4.9",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vitest-plugin@1.4.9",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`0968b08`](https://github.com/cloudflare/workers-sdk/commit/0968b08c2a0b322fe6820bc2eb573440e6589a0b), [`f3c13b3`](https://github.com/cloudflare/workers-sdk/commit/f3c13b3b6165b0ce84b5ce0893ba993856e7eef6)]:\n  - miniflare@5.20261023.1-beta\n  - wrangler@4.154.0"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/runtime-types@0.1.18",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/runtime-types@0.1.18",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`a95d647`](https://github.com/cloudflare/workers-sdk/commit/a95d647f9459e40a00871346b81082abbb27d2b3), [`c7a3373`](https://github.com/cloudflare/workers-sdk/commit/c7a3373cce06bdda0469d2b7d3d3286f3abbc3b1), [`c7a3373`](https://github.com/cloudflare/workers-sdk/commit/c7a3373cce06bdda0469d2b7d3d3286f3abbc3b1), [`c7a3373`](https://github.com/cloudflare/workers-sdk/commit/c7a3373cce06bdda0469d2b7d3d3286f3abbc3b1)]:\n  - miniflare@5.20261023.2-beta"
 }
