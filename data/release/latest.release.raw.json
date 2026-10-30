@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/427164954",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/427164954/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/427164954/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/runtime-types%400.1.18",
-  "id": 427164954,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/428269841",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/428269841/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/428269841/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.205",
+  "id": 428269841,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4ZdgUa",
-  "tag_name": "@cloudflare/runtime-types@0.1.18",
+  "node_id": "RE_kwDOGW5OAc4ZhuER",
+  "tag_name": "@cloudflare/pages-shared@0.13.205",
   "target_commitish": "main",
-  "name": "@cloudflare/runtime-types@0.1.18",
+  "name": "@cloudflare/pages-shared@0.13.205",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-28T20:35:14Z",
-  "updated_at": "2026-10-28T20:36:09Z",
-  "published_at": "2026-10-28T20:36:09Z",
+  "created_at": "2026-10-29T18:50:04Z",
+  "updated_at": "2026-10-29T18:50:51Z",
+  "published_at": "2026-10-29T18:50:51Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/runtime-types@0.1.18",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/runtime-types@0.1.18",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`a95d647`](https://github.com/cloudflare/workers-sdk/commit/a95d647f9459e40a00871346b81082abbb27d2b3), [`c7a3373`](https://github.com/cloudflare/workers-sdk/commit/c7a3373cce06bdda0469d2b7d3d3286f3abbc3b1), [`c7a3373`](https://github.com/cloudflare/workers-sdk/commit/c7a3373cce06bdda0469d2b7d3d3286f3abbc3b1), [`c7a3373`](https://github.com/cloudflare/workers-sdk/commit/c7a3373cce06bdda0469d2b7d3d3286f3abbc3b1)]:\n  - miniflare@5.20261023.2-beta"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/pages-shared@0.13.205",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/pages-shared@0.13.205",
+  "body": "### Patch Changes\n\n- Updated dependencies [[`15fbaed`](https://github.com/cloudflare/workers-sdk/commit/15fbaed2de992a529ca05d99424f8063d63217bf), [`d8899ac`](https://github.com/cloudflare/workers-sdk/commit/d8899ac4c85ff839d73daa9055a76a36248cd2e3)]:\n  - miniflare@5.20261023.3-beta"
 }
