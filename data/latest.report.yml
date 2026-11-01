@@ -7,7 +7,7 @@ about:
   latestVersion: "@cloudflare/pages-shared@0.13.205"
   latestRelease: "@cloudflare/pages-shared@0.13.205"
   latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.8"
-  collectedAt: 2026-10-31T07:00:56Z
+  collectedAt: 2026-11-01T07:26:38Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-10-30
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-29
   lastPrerelease: 2026-10-29
 popularity:
-  star: 4686
+  star: 4692
   watcher: 76
-  fork: 1623
+  fork: 1624
   release: 2884
   contributor: 641
-  pullRequest: 10213
+  pullRequest: 10220
   issue: 5197
 language:
   TypeScript: 22454712
@@ -40,63 +40,63 @@ language:
 totalBytes: 22850501
 recent:
   last30d:
-    since: 2026-10-01
+    since: 2026-10-02
     release: 100
-    mergedPR: 231
-    openPR: 69
-    closedIssue: 63
-    openIssue: 115
-    commit: 237
+    mergedPR: 219
+    openPR: 68
+    closedIssue: 58
+    openIssue: 110
+    commit: 171
   last60d:
-    since: 2026-09-01
+    since: 2026-09-02
     release: 100
-    mergedPR: 513
-    openPR: 95
-    closedIssue: 150
-    openIssue: 183
-    commit: 541
+    mergedPR: 506
+    openPR: 101
+    closedIssue: 146
+    openIssue: 181
+    commit: 497
   last90d:
-    since: 2026-08-02
+    since: 2026-08-03
     release: 100
-    mergedPR: 733
-    openPR: 126
-    closedIssue: 234
+    mergedPR: 720
+    openPR: 131
+    closedIssue: 231
     openIssue: 218
-    commit: 745
+    commit: 716
   last180d:
-    since: 2026-05-04
+    since: 2026-05-05
     release: 100
-    mergedPR: 1390
-    openPR: 167
-    closedIssue: 430
+    mergedPR: 1376
+    openPR: 173
+    closedIssue: 427
     openIssue: 251
-    commit: 1405
+    commit: 1349
   last360d:
-    since: 2025-11-05
+    since: 2025-11-06
     release: 100
-    mergedPR: 2708
-    openPR: 195
-    closedIssue: 867
-    openIssue: 284
-    commit: 2691
-  last720d:
-    since: 2024-11-10
-    release: 100
-    mergedPR: 4799
+    mergedPR: 2695
     openPR: 201
-    closedIssue: 1952
+    closedIssue: 865
+    openIssue: 284
+    commit: 2657
+  last720d:
+    since: 2024-11-11
+    release: 100
+    mergedPR: 4787
+    openPR: 207
+    closedIssue: 1950
     openIssue: 334
     commit: 4677
 total:
   release: 2884
   mergedPR: 8115
-  openPR: 201
+  openPR: 207
   closedIssue: 4811
   openIssue: 386
   commit: 8803
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-10-31T07:01:18Z
+collectedAt: 2026-11-01T07:27:06Z
 loc:
   TypeScript:
     code: 643259
