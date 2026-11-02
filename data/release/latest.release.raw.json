@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/428269841",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/428269841/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/428269841/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.205",
-  "id": 428269841,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/430935021",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/430935021/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/430935021/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.67.0",
+  "id": 430935021,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4ZhuER",
-  "tag_name": "@cloudflare/pages-shared@0.13.205",
+  "node_id": "RE_kwDOGW5OAc4Zr4vt",
+  "tag_name": "@cloudflare/vite-plugin@1.67.0",
   "target_commitish": "main",
-  "name": "@cloudflare/pages-shared@0.13.205",
+  "name": "@cloudflare/vite-plugin@1.67.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-29T18:50:04Z",
-  "updated_at": "2026-10-29T18:50:51Z",
-  "published_at": "2026-10-29T18:50:51Z",
+  "created_at": "2026-11-01T23:42:56Z",
+  "updated_at": "2026-11-01T23:42:58Z",
+  "published_at": "2026-11-01T23:42:58Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/pages-shared@0.13.205",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/pages-shared@0.13.205",
-  "body": "### Patch Changes\n\n- Updated dependencies [[`15fbaed`](https://github.com/cloudflare/workers-sdk/commit/15fbaed2de992a529ca05d99424f8063d63217bf), [`d8899ac`](https://github.com/cloudflare/workers-sdk/commit/d8899ac4c85ff839d73daa9055a76a36248cd2e3)]:\n  - miniflare@5.20261023.3-beta"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vite-plugin@1.67.0",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vite-plugin@1.67.0",
+  "body": "### Minor Changes\n\n- [#16543](https://github.com/cloudflare/workers-sdk/pull/16543) [`0489cda`](https://github.com/cloudflare/workers-sdk/commit/0489cda2da1321f993049c04f297b28b99106200) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Validate asset ignore files and update local Flagship support\n\n  Upgrade Miniflare to 5.20261023.2-beta and Wrangler to 4.155.0. Builds and asset manifest generation now reject `.assetsignore` files with invalid UTF-8 or null characters instead of silently ignoring their patterns. The Local Explorer also supports Flagship management by app ID, and local flag evaluations retain metadata.\n\n  Miniflare also waits for temporary file cleanup before disposal completes, so closing or restarting a Vite dev server finishes cleanup before returning.\n\n- [#16579](https://github.com/cloudflare/workers-sdk/pull/16579) [`e696113`](https://github.com/cloudflare/workers-sdk/commit/e6961138f2c22ee2fe231bc9c9553501a60f3f15) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support remote Analytics Engine bindings in Vite plugin v1\n\n  Set `remote: true` on an `analytics_engine_datasets` entry in `wrangler.jsonc` to send `writeDataPoint()` calls from local development and preview to the real dataset.\n\n### Patch Changes\n\n- [#16578](https://github.com/cloudflare/workers-sdk/pull/16578) [`2eae147`](https://github.com/cloudflare/workers-sdk/commit/2eae147fbc53aee87188e17938f22bf7a06c2385) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Close Vite HMR WebSocket upgrades when Vite WebSockets are disabled\n\n  Previously, `server.ws: false` left the browser's raw upgrade socket pending because no Vite handler claimed it. Worker and Sandbox WebSocket forwarding remains unchanged.\n\n- [#16639](https://github.com/cloudflare/workers-sdk/pull/16639) [`a6f98d0`](https://github.com/cloudflare/workers-sdk/commit/a6f98d01b024830902a38fd54027b68f0365a694) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the v1 local runtime to workerd 1.20261101.1\n\n  Upgrade Miniflare to 5.20261101.0-beta with matching Wrangler and shared SDK dependencies. Local development and preview use the November 1 runtime, and Workers without an explicit compatibility date default to 2026-11-01. Update Workers types to match the runtime."
 }
