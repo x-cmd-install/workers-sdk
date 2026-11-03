@@ -1,0 +1,208 @@
+about:
+  description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: 34f34b3
+  archived: false
+  latestVersion: "@cloudflare/devprod-status-bot@1.5.1"
+  latestRelease: "@cloudflare/devprod-status-bot@1.5.1"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.10"
+  collectedAt: 2026-11-03T08:10:41Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-11-02
+  lastVersion: 2026-11-02
+  lastRelease: 2026-11-02
+  lastPrerelease: 2026-11-02
+popularity:
+  star: 4701
+  watcher: 77
+  fork: 1632
+  release: 2922
+  contributor: 641
+  pullRequest: 10255
+  issue: 5206
+language:
+  TypeScript: 22521827
+  JavaScript: 266791
+  Mustache: 59337
+  HTML: 30513
+  CSS: 11263
+  Python: 8157
+  Cap'n Proto: 6730
+  Vue: 5566
+  Dockerfile: 3135
+  Shell: 1789
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalBytes: 22917616
+recent:
+  last30d:
+    since: 2026-10-04
+    release: 100
+    mergedPR: 237
+    openPR: 70
+    closedIssue: 60
+    openIssue: 112
+    commit: 192
+  last60d:
+    since: 2026-09-04
+    release: 100
+    mergedPR: 508
+    openPR: 104
+    closedIssue: 144
+    openIssue: 185
+    commit: 518
+  last90d:
+    since: 2026-08-05
+    release: 100
+    mergedPR: 725
+    openPR: 133
+    closedIssue: 226
+    openIssue: 224
+    commit: 737
+  last180d:
+    since: 2026-05-07
+    release: 100
+    mergedPR: 1376
+    openPR: 177
+    closedIssue: 423
+    openIssue: 256
+    commit: 1370
+  last360d:
+    since: 2025-11-08
+    release: 100
+    mergedPR: 2713
+    openPR: 205
+    closedIssue: 865
+    openIssue: 290
+    commit: 2678
+  last720d:
+    since: 2024-11-13
+    release: 100
+    mergedPR: 4798
+    openPR: 211
+    closedIssue: 1948
+    openIssue: 340
+    commit: 4683
+total:
+  release: 2922
+  mergedPR: 8140
+  openPR: 211
+  closedIssue: 4814
+  openIssue: 392
+  commit: 8824
+---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-11-03T08:11:08Z
+loc:
+  TypeScript:
+    code: 645151
+    comments: 70221
+    blanks: 64524
+    files: 3684
+  Tsx:
+    code: 25995
+    comments: 979
+    blanks: 2218
+    files: 165
+  Yaml:
+    code: 23504
+    comments: 49
+    blanks: 4781
+    files: 2
+  Json:
+    code: 19297
+    comments: 0
+    blanks: 99
+    files: 750
+  JavaScript:
+    code: 7704
+    comments: 1619
+    blanks: 913
+    files: 218
+  Html:
+    code: 1022
+    comments: 7
+    blanks: 10
+    files: 101
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Python:
+    code: 174
+    comments: 18
+    blanks: 43
+    files: 16
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 87
+    comments: 13
+    blanks: 14
+    files: 9
+  Dockerfile:
+    code: 55
+    comments: 0
+    blanks: 14
+    files: 6
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 37217
+    blanks: 24225
+    files: 180
+  Text:
+    code: 0
+    comments: 48
+    blanks: 2
+    files: 28
+total:
+  code: 726309
+  comments: 110301
+  blanks: 97199
+  files: 5220
+---
+
+---

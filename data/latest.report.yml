@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: ca55031
+  head: 34f34b3
   archived: false
-  latestVersion: "@cloudflare/vite-plugin@1.67.0"
-  latestRelease: "@cloudflare/vite-plugin@1.67.0"
-  latestPrerelease: "miniflare@5.20261101.0-beta"
-  collectedAt: 2026-11-02T07:29:59Z
+  latestVersion: "@cloudflare/devprod-status-bot@1.5.1"
+  latestRelease: "@cloudflare/devprod-status-bot@1.5.1"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.10"
+  collectedAt: 2026-11-03T08:10:41Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-11-01
-  lastVersion: 2026-11-01
-  lastRelease: 2026-11-01
-  lastPrerelease: 2026-11-01
+  lastCommit: 2026-11-02
+  lastVersion: 2026-11-02
+  lastRelease: 2026-11-02
+  lastPrerelease: 2026-11-02
 popularity:
-  star: 4700
+  star: 4701
   watcher: 77
-  fork: 1628
-  release: 2903
+  fork: 1632
+  release: 2922
   contributor: 641
-  pullRequest: 10235
-  issue: 5202
+  pullRequest: 10255
+  issue: 5206
 language:
-  TypeScript: 22461773
+  TypeScript: 22521827
   JavaScript: 266791
   Mustache: 59337
   HTML: 30513
@@ -37,87 +37,87 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 22857562
+totalBytes: 22917616
 recent:
   last30d:
-    since: 2026-10-03
+    since: 2026-10-04
     release: 100
-    mergedPR: 224
-    openPR: 69
-    closedIssue: 57
+    mergedPR: 237
+    openPR: 70
+    closedIssue: 60
     openIssue: 112
-    commit: 174
+    commit: 192
   last60d:
-    since: 2026-09-03
+    since: 2026-09-04
     release: 100
-    mergedPR: 502
-    openPR: 103
-    closedIssue: 143
+    mergedPR: 508
+    openPR: 104
+    closedIssue: 144
     openIssue: 185
-    commit: 500
+    commit: 518
   last90d:
-    since: 2026-08-04
+    since: 2026-08-05
     release: 100
-    mergedPR: 715
+    mergedPR: 725
     openPR: 133
-    closedIssue: 228
-    openIssue: 223
-    commit: 719
+    closedIssue: 226
+    openIssue: 224
+    commit: 737
   last180d:
-    since: 2026-05-06
+    since: 2026-05-07
     release: 100
-    mergedPR: 1377
-    openPR: 176
-    closedIssue: 425
+    mergedPR: 1376
+    openPR: 177
+    closedIssue: 423
     openIssue: 256
-    commit: 1352
+    commit: 1370
   last360d:
-    since: 2025-11-07
+    since: 2025-11-08
     release: 100
-    mergedPR: 2696
-    openPR: 204
-    closedIssue: 862
-    openIssue: 289
-    commit: 2660
+    mergedPR: 2713
+    openPR: 205
+    closedIssue: 865
+    openIssue: 290
+    commit: 2678
   last720d:
-    since: 2024-11-12
+    since: 2024-11-13
     release: 100
-    mergedPR: 4786
-    openPR: 210
-    closedIssue: 1946
-    openIssue: 339
-    commit: 4678
+    mergedPR: 4798
+    openPR: 211
+    closedIssue: 1948
+    openIssue: 340
+    commit: 4683
 total:
-  release: 2903
-  mergedPR: 8122
-  openPR: 210
-  closedIssue: 4811
-  openIssue: 391
-  commit: 8806
+  release: 2922
+  mergedPR: 8140
+  openPR: 211
+  closedIssue: 4814
+  openIssue: 392
+  commit: 8824
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-02T07:30:30Z
+collectedAt: 2026-11-03T08:11:08Z
 loc:
   TypeScript:
-    code: 643473
-    comments: 70063
-    blanks: 64404
-    files: 3676
+    code: 645151
+    comments: 70221
+    blanks: 64524
+    files: 3684
   Tsx:
     code: 25995
     comments: 979
     blanks: 2218
     files: 165
   Yaml:
-    code: 23447
+    code: 23504
     comments: 49
-    blanks: 4778
+    blanks: 4781
     files: 2
   Json:
-    code: 19275
+    code: 19297
     comments: 0
     blanks: 99
-    files: 749
+    files: 750
   JavaScript:
     code: 7704
     comments: 1619
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 36994
-    blanks: 24074
+    comments: 37217
+    blanks: 24225
     files: 180
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 28
 total:
-  code: 724552
-  comments: 109920
-  blanks: 96925
-  files: 5211
+  code: 726309
+  comments: 110301
+  blanks: 97199
+  files: 5220
 ---
 
 ---
-{"id":430935021,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4Zr4vt","tag_name":"@cloudflare/vite-plugin@1.67.0","target_commitish":"main","name":"@cloudflare/vite-plugin@1.67.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-01T23:42:56Z","updated_at":"2026-11-01T23:42:58Z","published_at":"2026-11-01T23:42:58Z","assets":[],"body":"### Minor Changes\n\n- [#16543](https://github.com/cloudflare/workers-sdk/pull/16543) [`0489cda`](https://github.com/cloudflare/workers-sdk/commit/0489cda2da1321f993049c04f297b28b99106200) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Validate asset ignore files and update local Flagship support\n\n  Upgrade Miniflare to 5.20261023.2-beta and Wrangler to 4.155.0. Builds and asset manifest generation now reject `.assetsignore` files with invalid UTF-8 or null characters instead of silently ignoring their patterns. The Local Explorer also supports Flagship management by app ID, and local flag evaluations retain metadata.\n\n  Miniflare also waits for temporary file cleanup before disposal completes, so closing or restarting a Vite dev server finishes cleanup before returning.\n\n- [#16579](https://github.com/cloudflare/workers-sdk/pull/16579) [`e696113`](https://github.com/cloudflare/workers-sdk/commit/e6961138f2c22ee2fe231bc9c9553501a60f3f15) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support remote Analytics Engine bindings in Vite plugin v1\n\n  Set `remote: true` on an `analytics_engine_datasets` entry in `wrangler.jsonc` to send `writeDataPoint()` calls from local development and preview to the real dataset.\n\n### Patch Changes\n\n- [#16578](https://github.com/cloudflare/workers-sdk/pull/16578) [`2eae147`](https://github.com/cloudflare/workers-sdk/commit/2eae147fbc53aee87188e17938f22bf7a06c2385) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Close Vite HMR WebSocket upgrades when Vite WebSockets are disabled\n\n  Previously, `server.ws: false` left the browser's raw upgrade socket pending because no Vite handler claimed it. Worker and Sandbox WebSocket forwarding remains unchanged.\n\n- [#16639](https://github.com/cloudflare/workers-sdk/pull/16639) [`a6f98d0`](https://github.com/cloudflare/workers-sdk/commit/a6f98d01b024830902a38fd54027b68f0365a694) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the v1 local runtime to workerd 1.20261101.1\n\n  Upgrade Miniflare to 5.20261101.0-beta with matching Wrangler and shared SDK dependencies. Local development and preview use the November 1 runtime, and Workers without an explicit compatibility date default to 2026-11-01. Update Workers types to match the runtime."}
+{"id":431644331,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4Zul6r","tag_name":"@cloudflare/devprod-status-bot@1.5.1","target_commitish":"main","name":"@cloudflare/devprod-status-bot@1.5.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-02T15:41:09Z","updated_at":"2026-11-02T15:42:12Z","published_at":"2026-11-02T15:42:12Z","assets":[],"body":"### Patch Changes\n\n- [#16649](https://github.com/cloudflare/workers-sdk/pull/16649) [`199efb6`](https://github.com/cloudflare/workers-sdk/commit/199efb66a6d48af31ab71ea238f5d82216c6623b) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Suppress Version Packages CI alerts for test summaries that failed only because their dependencies were cancelled\n\n  Check the summary's test partitions or framework shards before sending an alert. Genuine failures and timeouts still alert, and alerts are retained if GitHub cannot confirm the dependency results."}
