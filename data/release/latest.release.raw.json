@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/431644331",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/431644331/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/431644331/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/devprod-status-bot%401.5.1",
-  "id": 431644331,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/432636304",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/432636304/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/432636304/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/config%400.30.1",
+  "id": 432636304,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4Zul6r",
-  "tag_name": "@cloudflare/devprod-status-bot@1.5.1",
+  "node_id": "RE_kwDOGW5OAc4ZyYGQ",
+  "tag_name": "@cloudflare/config@0.30.1",
   "target_commitish": "main",
-  "name": "@cloudflare/devprod-status-bot@1.5.1",
+  "name": "@cloudflare/config@0.30.1",
   "draft": false,
-  "immutable": false,
+  "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-02T15:41:09Z",
-  "updated_at": "2026-11-02T15:42:12Z",
-  "published_at": "2026-11-02T15:42:12Z",
+  "created_at": "2026-11-03T11:57:42Z",
+  "updated_at": "2026-11-03T11:58:41Z",
+  "published_at": "2026-11-03T11:58:41Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/devprod-status-bot@1.5.1",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/devprod-status-bot@1.5.1",
-  "body": "### Patch Changes\n\n- [#16649](https://github.com/cloudflare/workers-sdk/pull/16649) [`199efb6`](https://github.com/cloudflare/workers-sdk/commit/199efb66a6d48af31ab71ea238f5d82216c6623b) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Suppress Version Packages CI alerts for test summaries that failed only because their dependencies were cancelled\n\n  Check the summary's test partitions or framework shards before sending an alert. Genuine failures and timeouts still alert, and alerts are retained if GitHub cannot confirm the dependency results."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/config@0.30.1",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/config@0.30.1",
+  "body": "### Patch Changes\n\n- [#16670](https://github.com/cloudflare/workers-sdk/pull/16670) [`b14b9dc`](https://github.com/cloudflare/workers-sdk/commit/b14b9dcc360d1e05bb29a87287624603c2c60815) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-03\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured."
 }
