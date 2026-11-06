@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/432636304",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/432636304/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/432636304/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/config%400.30.1",
-  "id": 432636304,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/435080465",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/435080465/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/435080465/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/deploy-helpers%400.26.0",
+  "id": 435080465,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4ZyYGQ",
-  "tag_name": "@cloudflare/config@0.30.1",
+  "node_id": "RE_kwDOGW5OAc4Z7s0R",
+  "tag_name": "@cloudflare/deploy-helpers@0.26.0",
   "target_commitish": "main",
-  "name": "@cloudflare/config@0.30.1",
+  "name": "@cloudflare/deploy-helpers@0.26.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-03T11:57:42Z",
-  "updated_at": "2026-11-03T11:58:41Z",
-  "published_at": "2026-11-03T11:58:41Z",
+  "created_at": "2026-11-05T10:52:21Z",
+  "updated_at": "2026-11-05T10:53:12Z",
+  "published_at": "2026-11-05T10:53:12Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/config@0.30.1",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/config@0.30.1",
-  "body": "### Patch Changes\n\n- [#16670](https://github.com/cloudflare/workers-sdk/pull/16670) [`b14b9dc`](https://github.com/cloudflare/workers-sdk/commit/b14b9dcc360d1e05bb29a87287624603c2c60815) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-03\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/deploy-helpers@0.26.0",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/deploy-helpers@0.26.0",
+  "body": "### Minor Changes\n\n- [#16020](https://github.com/cloudflare/workers-sdk/pull/16020) [`37c3c48`](https://github.com/cloudflare/workers-sdk/commit/37c3c489ff37155cfe9e5e26e296ed6211d18330) Thanks [@penalosa](https://github.com/penalosa)! - Allow custom strict-mode conflict abort messages\n\n  Add an optional `strictModeAbortMessage` to deploy-helpers' pre-1.0 deploy and versions-upload APIs so callers can describe their own override flags when strict mode aborts a conflicting upload in a non-interactive session. Wrangler keeps its existing `--strict` guidance when the message is omitted.\n\n### Patch Changes\n\n- [#16695](https://github.com/cloudflare/workers-sdk/pull/16695) [`b2061f4`](https://github.com/cloudflare/workers-sdk/commit/b2061f40f812d8888b461f68506552b58f8e468b) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-04\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- Updated dependencies [[`dc35efb`](https://github.com/cloudflare/workers-sdk/commit/dc35efbd3cdfe67b3ef972c75b8faae65dfed195), [`dc35efb`](https://github.com/cloudflare/workers-sdk/commit/dc35efbd3cdfe67b3ef972c75b8faae65dfed195), [`dc35efb`](https://github.com/cloudflare/workers-sdk/commit/dc35efbd3cdfe67b3ef972c75b8faae65dfed195), [`dc35efb`](https://github.com/cloudflare/workers-sdk/commit/dc35efbd3cdfe67b3ef972c75b8faae65dfed195), [`dc35efb`](https://github.com/cloudflare/workers-sdk/commit/dc35efbd3cdfe67b3ef972c75b8faae65dfed195), [`b8387a5`](https://github.com/cloudflare/workers-sdk/commit/b8387a50d360b97538c051f4db776261507b84b3), [`4cde694`](https://github.com/cloudflare/workers-sdk/commit/4cde694bc7ad24d215dcc955501cca1934512658), [`b2061f4`](https://github.com/cloudflare/workers-sdk/commit/b2061f40f812d8888b461f68506552b58f8e468b), [`b2061f4`](https://github.com/cloudflare/workers-sdk/commit/b2061f40f812d8888b461f68506552b58f8e468b), [`f1d81a2`](https://github.com/cloudflare/workers-sdk/commit/f1d81a20c8e535ec7cb870143283f4a683fec70d), [`4bb491b`](https://github.com/cloudflare/workers-sdk/commit/4bb491b0d11f3976bc403aa792e08c4df0f86396), [`36e64f2`](https://github.com/cloudflare/workers-sdk/commit/36e64f20025cf0bd5e99a585ca3427c8d75fd18b), [`92c4b97`](https://github.com/cloudflare/workers-sdk/commit/92c4b97af687369bc7653aa1bf0ba1f6b4e4f83c)]:\n  - miniflare@5.20261104.0-beta\n  - @cloudflare/workers-utils@0.52.0\n  - @cloudflare/cli-shared-helpers@0.3.4\n  - @cloudflare/config@0.30.2\n  - @cloudflare/containers-shared@0.23.9"
 }
