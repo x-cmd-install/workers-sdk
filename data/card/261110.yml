@@ -1,0 +1,208 @@
+about:
+  description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+  license: Apache-2.0
+  homepage: https://developers.cloudflare.com/workers/
+  head: cdc970b
+  archived: false
+  latestVersion: "@cloudflare/pages-functions@0.1.7"
+  latestRelease: "@cloudflare/pages-functions@0.1.7"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.13"
+  collectedAt: 2026-11-10T09:11:56Z
+timeline:
+  created: 2021-11-10
+  lastCommit: 2026-11-10
+  lastVersion: 2026-11-09
+  lastRelease: 2026-11-09
+  lastPrerelease: 2026-11-09
+popularity:
+  star: 4712
+  watcher: 76
+  fork: 1645
+  release: 2979
+  contributor: 650
+  pullRequest: 10347
+  issue: 5238
+language:
+  TypeScript: 22857432
+  JavaScript: 265234
+  Mustache: 59337
+  HTML: 30513
+  CSS: 11263
+  Python: 8157
+  Cap'n Proto: 6730
+  Vue: 5566
+  Dockerfile: 3011
+  Shell: 1789
+  Makefile: 1687
+  WebAssembly: 629
+  Astro: 158
+  Lua: 34
+totalBytes: 23251540
+recent:
+  last30d:
+    since: 2026-10-11
+    release: 100
+    mergedPR: 248
+    openPR: 71
+    closedIssue: 67
+    openIssue: 101
+    commit: 199
+  last60d:
+    since: 2026-09-11
+    release: 100
+    mergedPR: 524
+    openPR: 105
+    closedIssue: 167
+    openIssue: 175
+    commit: 514
+  last90d:
+    since: 2026-08-12
+    release: 100
+    mergedPR: 753
+    openPR: 129
+    closedIssue: 244
+    openIssue: 212
+    commit: 737
+  last180d:
+    since: 2026-05-14
+    release: 100
+    mergedPR: 1415
+    openPR: 175
+    closedIssue: 453
+    openIssue: 247
+    commit: 1382
+  last360d:
+    since: 2025-11-15
+    release: 100
+    mergedPR: 2735
+    openPR: 205
+    closedIssue: 900
+    openIssue: 278
+    commit: 2680
+  last720d:
+    since: 2024-11-20
+    release: 100
+    mergedPR: 4850
+    openPR: 211
+    closedIssue: 1973
+    openIssue: 329
+    commit: 4727
+total:
+  release: 2979
+  mergedPR: 8213
+  openPR: 211
+  closedIssue: 4858
+  openIssue: 380
+  commit: 8889
+---
+path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
+collectedAt: 2026-11-10T09:12:25Z
+loc:
+  TypeScript:
+    code: 654863
+    comments: 71070
+    blanks: 65250
+    files: 3725
+  Tsx:
+    code: 25995
+    comments: 979
+    blanks: 2218
+    files: 165
+  Yaml:
+    code: 23521
+    comments: 68
+    blanks: 4777
+    files: 2
+  Json:
+    code: 19311
+    comments: 0
+    blanks: 101
+    files: 750
+  JavaScript:
+    code: 7690
+    comments: 1625
+    blanks: 914
+    files: 219
+  Html:
+    code: 1022
+    comments: 7
+    blanks: 10
+    files: 101
+  Mustache:
+    code: 687
+    comments: 1
+    blanks: 117
+    files: 1
+  Css:
+    code: 593
+    comments: 6
+    blanks: 72
+    files: 13
+  Svg:
+    code: 472
+    comments: 11
+    blanks: 0
+    files: 27
+  Python:
+    code: 174
+    comments: 18
+    blanks: 43
+    files: 16
+  Jsx:
+    code: 140
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 87
+    comments: 13
+    blanks: 14
+    files: 9
+  Dockerfile:
+    code: 53
+    comments: 0
+    blanks: 14
+    files: 6
+  Sh:
+    code: 36
+    comments: 11
+    blanks: 15
+    files: 2
+  Sql:
+    code: 32
+    comments: 9
+    blanks: 1
+    files: 8
+  Makefile:
+    code: 29
+    comments: 2
+    blanks: 7
+    files: 1
+  WebAssembly:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 4
+  Vue:
+    code: 24
+    comments: 0
+    blanks: 8
+    files: 4
+  Markdown:
+    code: 0
+    comments: 38020
+    blanks: 24803
+    files: 182
+  Text:
+    code: 0
+    comments: 48
+    blanks: 2
+    files: 28
+total:
+  code: 736036
+  comments: 111978
+  blanks: 98502
+  files: 5264
+---
+
+---
