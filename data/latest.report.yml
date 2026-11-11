@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: cdc970b
+  head: c47cca7
   archived: false
-  latestVersion: "@cloudflare/pages-functions@0.1.7"
-  latestRelease: "@cloudflare/pages-functions@0.1.7"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.13"
-  collectedAt: 2026-11-10T09:11:56Z
+  latestVersion: "wrangler@4.160.0"
+  latestRelease: "wrangler@4.160.0"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.14"
+  collectedAt: 2026-11-11T07:19:12Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-11-10
-  lastVersion: 2026-11-09
-  lastRelease: 2026-11-09
-  lastPrerelease: 2026-11-09
+  lastVersion: 2026-11-10
+  lastRelease: 2026-11-10
+  lastPrerelease: 2026-11-10
 popularity:
-  star: 4712
-  watcher: 76
-  fork: 1645
-  release: 2979
+  star: 4715
+  watcher: 77
+  fork: 1647
+  release: 2997
   contributor: 650
-  pullRequest: 10347
-  issue: 5238
+  pullRequest: 10357
+  issue: 5243
 language:
-  TypeScript: 22857432
+  TypeScript: 22886104
   JavaScript: 265234
   Mustache: 59337
   HTML: 30513
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 23251540
+totalBytes: 23280212
 recent:
   last30d:
-    since: 2026-10-11
+    since: 2026-10-12
     release: 100
-    mergedPR: 248
+    mergedPR: 249
     openPR: 71
-    closedIssue: 67
-    openIssue: 101
-    commit: 199
+    closedIssue: 66
+    openIssue: 98
+    commit: 206
   last60d:
-    since: 2026-09-11
+    since: 2026-09-12
     release: 100
-    mergedPR: 524
+    mergedPR: 529
     openPR: 105
-    closedIssue: 167
-    openIssue: 175
-    commit: 514
+    closedIssue: 163
+    openIssue: 178
+    commit: 521
   last90d:
-    since: 2026-08-12
+    since: 2026-08-13
     release: 100
     mergedPR: 753
-    openPR: 129
-    closedIssue: 244
+    openPR: 126
+    closedIssue: 238
     openIssue: 212
-    commit: 737
+    commit: 744
   last180d:
-    since: 2026-05-14
+    since: 2026-05-15
     release: 100
     mergedPR: 1415
-    openPR: 175
-    closedIssue: 453
-    openIssue: 247
-    commit: 1382
+    openPR: 174
+    closedIssue: 451
+    openIssue: 250
+    commit: 1389
   last360d:
-    since: 2025-11-15
+    since: 2025-11-16
     release: 100
-    mergedPR: 2735
+    mergedPR: 2736
     openPR: 205
-    closedIssue: 900
-    openIssue: 278
-    commit: 2680
+    closedIssue: 899
+    openIssue: 282
+    commit: 2687
   last720d:
-    since: 2024-11-20
+    since: 2024-11-21
     release: 100
-    mergedPR: 4850
+    mergedPR: 4848
     openPR: 211
-    closedIssue: 1973
-    openIssue: 329
-    commit: 4727
+    closedIssue: 1970
+    openIssue: 333
+    commit: 4731
 total:
-  release: 2979
-  mergedPR: 8213
+  release: 2997
+  mergedPR: 8221
   openPR: 211
-  closedIssue: 4858
-  openIssue: 380
-  commit: 8889
+  closedIssue: 4859
+  openIssue: 384
+  commit: 8896
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-10T09:12:25Z
+collectedAt: 2026-11-11T07:19:39Z
 loc:
   TypeScript:
-    code: 654863
-    comments: 71070
-    blanks: 65250
-    files: 3725
+    code: 655716
+    comments: 71145
+    blanks: 65278
+    files: 3727
   Tsx:
     code: 25995
     comments: 979
@@ -114,7 +114,7 @@ loc:
     blanks: 4777
     files: 2
   Json:
-    code: 19311
+    code: 19306
     comments: 0
     blanks: 101
     files: 750
@@ -190,20 +190,20 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 38020
-    blanks: 24803
+    comments: 38197
+    blanks: 24945
     files: 182
   Text:
     code: 0
-    comments: 48
+    comments: 51
     blanks: 2
-    files: 28
+    files: 31
 total:
-  code: 736036
-  comments: 111978
-  blanks: 98502
-  files: 5264
+  code: 736884
+  comments: 112233
+  blanks: 98672
+  files: 5269
 ---
 
 ---
-{"id":439279335,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4aLt7n","tag_name":"@cloudflare/pages-functions@0.1.7","target_commitish":"main","name":"@cloudflare/pages-functions@0.1.7","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-09T15:06:45Z","updated_at":"2026-11-09T15:07:50Z","published_at":"2026-11-09T15:07:50Z","assets":[],"body":"### Patch Changes\n\n- [#16746](https://github.com/cloudflare/workers-sdk/pull/16746) [`abf924e`](https://github.com/cloudflare/workers-sdk/commit/abf924ee1820b4af139f21dffc877eaf6122c056) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-06\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16792](https://github.com/cloudflare/workers-sdk/pull/16792) [`de10016`](https://github.com/cloudflare/workers-sdk/commit/de100160f243451355480e8f815d0f7d4b3ec8b9) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-09\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured."}
+{"id":440259648,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4aPdRA","tag_name":"wrangler@4.160.0","target_commitish":"main","name":"wrangler@4.160.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-10T11:10:32Z","updated_at":"2026-11-10T11:11:26Z","published_at":"2026-11-10T11:11:26Z","assets":[],"body":"### Minor Changes\n\n- [#16760](https://github.com/cloudflare/workers-sdk/pull/16760) [`cb9534f`](https://github.com/cloudflare/workers-sdk/commit/cb9534f17b40f4b327cdaf12ae1dd22a381f6800) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support forwarded Wrangler development server options in the experimental `cf-wrangler` delegate\n\n  `cf dev` can now forward options such as `--inspector-port 9229`, `--ip`, `--var`, and `--persist-to` to the Wrangler development runtime. The delegate reuses Wrangler's dev option definitions and validation while retaining project config discovery, `--mode` environment selection, local development, and its `.cloudflare/state` default. Invalid option combinations produce a single-line usage error and exit code 2 before starting the server.\n\n  Place server options that overlap cf's global options after `--`, for example `cf dev -- --local --persist-to \"custom state\"`. Config and script overrides, whole-worker remote development, and Wrangler's global options remain unsupported.\n\n- [#16739](https://github.com/cloudflare/workers-sdk/pull/16739) [`6af492e`](https://github.com/cloudflare/workers-sdk/commit/6af492e92394c3e638bda4cf6d560698cef1c715) Thanks [@GregBrimble](https://github.com/GregBrimble)! - Add custom Cloudflare API headers through `CLOUDFLARE_API_HEADERS`\n\n  Set `CLOUDFLARE_API_HEADERS` to a JSON object such as `{\"X-Custom-Header\":\"value\"}` to add headers to Cloudflare API requests. Custom headers override existing unprotected request headers, body and transport headers are protected, and header values outside the diagnostic allowlist remain redacted regardless of log sanitization settings.\n\n### Patch Changes\n\n- [#16810](https://github.com/cloudflare/workers-sdk/pull/16810) [`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-10\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16810](https://github.com/cloudflare/workers-sdk/pull/16810) [`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20261109.1 | ^5.20261110.1 |\n  | workerd                   | 1.20261109.1  | 1.20261110.1  |\n\n- [#16709](https://github.com/cloudflare/workers-sdk/pull/16709) [`022ee9d`](https://github.com/cloudflare/workers-sdk/commit/022ee9dd5b13d811b439332ee0f8ca9affb6a403) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Keep local Container images available for upload retries\n\n  Keep prebuilt local image tags available until the caller finishes uploading the Worker and deploying its Container applications, so a later failure can be retried without rebuilding. When image push commands request cleanup, remove the source tag only after the push succeeds.\n\n- [#16740](https://github.com/cloudflare/workers-sdk/pull/16740) [`44b39b0`](https://github.com/cloudflare/workers-sdk/commit/44b39b02765d246479f49b690f9e9b3d8645a303) Thanks [@GregBrimble](https://github.com/GregBrimble)! - Redact header values outside a safe diagnostic allowlist, regardless of log sanitization settings.\n\n  Apply the same filtering to request, response, and request-options diagnostics. Strip `X-Auth-Key` alongside `Authorization` when forwarding local artifact Git requests.\n\n- [#16758](https://github.com/cloudflare/workers-sdk/pull/16758) [`325dc69`](https://github.com/cloudflare/workers-sdk/commit/325dc69bb06a78ef237322b89ac9aeafc7060534) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix JavaScript configuration parsing for Svelte projects using object spread\n\n  Use a parser that supports object spread when updating JavaScript configuration files. This prevents configuration failures for Svelte projects using Drizzle or Better Auth and other framework configurations containing modern JavaScript syntax.\n\n  Vite autoconfiguration reports a configuration error when an object spread, computed property, or accessor after the plugins array could override the Cloudflare plugin. Place the effective plugins array after these properties before retrying autoconfiguration.\n\n- Updated dependencies [[`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb), [`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb), [`4e7e9f1`](https://github.com/cloudflare/workers-sdk/commit/4e7e9f12b7996415fb63ae72a6d2c2f6ac3640ed), [`267dadb`](https://github.com/cloudflare/workers-sdk/commit/267dadbe69ac8221febef059382cec68eaec1b19), [`44b39b0`](https://github.com/cloudflare/workers-sdk/commit/44b39b02765d246479f49b690f9e9b3d8645a303)]:\n  - miniflare@5.20261110.0-beta"}
