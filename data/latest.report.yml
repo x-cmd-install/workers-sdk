@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: c47cca7
+  head: 840ba05
   archived: false
-  latestVersion: "wrangler@4.160.0"
-  latestRelease: "wrangler@4.160.0"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.14"
-  collectedAt: 2026-11-11T07:19:12Z
+  latestVersion: "@cloudflare/vite-plugin@1.69.0"
+  latestRelease: "@cloudflare/vite-plugin@1.69.0"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.15"
+  collectedAt: 2026-11-12T08:59:30Z
 timeline:
   created: 2021-11-10
-  lastCommit: 2026-11-10
-  lastVersion: 2026-11-10
-  lastRelease: 2026-11-10
-  lastPrerelease: 2026-11-10
+  lastCommit: 2026-11-11
+  lastVersion: 2026-11-11
+  lastRelease: 2026-11-11
+  lastPrerelease: 2026-11-11
 popularity:
-  star: 4715
-  watcher: 77
-  fork: 1647
-  release: 2997
+  star: 4718
+  watcher: 78
+  fork: 1651
+  release: 3016
   contributor: 650
-  pullRequest: 10357
-  issue: 5243
+  pullRequest: 10375
+  issue: 5190
 language:
-  TypeScript: 22886104
+  TypeScript: 22917312
   JavaScript: 265234
   Mustache: 59337
   HTML: 30513
@@ -37,84 +37,84 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 23280212
+totalBytes: 23311420
 recent:
   last30d:
-    since: 2026-10-12
+    since: 2026-10-13
     release: 100
-    mergedPR: 249
-    openPR: 71
-    closedIssue: 66
-    openIssue: 98
-    commit: 206
+    mergedPR: 259
+    openPR: 64
+    closedIssue: 63
+    openIssue: 73
+    commit: 217
   last60d:
-    since: 2026-09-12
+    since: 2026-09-13
     release: 100
-    mergedPR: 529
-    openPR: 105
-    closedIssue: 163
-    openIssue: 178
-    commit: 521
+    mergedPR: 541
+    openPR: 101
+    closedIssue: 167
+    openIssue: 133
+    commit: 532
   last90d:
-    since: 2026-08-13
+    since: 2026-08-14
     release: 100
-    mergedPR: 753
-    openPR: 126
-    closedIssue: 238
-    openIssue: 212
-    commit: 744
+    mergedPR: 764
+    openPR: 121
+    closedIssue: 244
+    openIssue: 156
+    commit: 755
   last180d:
-    since: 2026-05-15
+    since: 2026-05-16
     release: 100
-    mergedPR: 1415
-    openPR: 174
-    closedIssue: 451
-    openIssue: 250
-    commit: 1389
+    mergedPR: 1433
+    openPR: 170
+    closedIssue: 457
+    openIssue: 191
+    commit: 1400
   last360d:
-    since: 2025-11-16
+    since: 2025-11-17
     release: 100
-    mergedPR: 2736
-    openPR: 205
-    closedIssue: 899
-    openIssue: 282
-    commit: 2687
+    mergedPR: 2749
+    openPR: 201
+    closedIssue: 904
+    openIssue: 223
+    commit: 2698
   last720d:
-    since: 2024-11-21
+    since: 2024-11-22
     release: 100
-    mergedPR: 4848
-    openPR: 211
-    closedIssue: 1970
-    openIssue: 333
-    commit: 4731
+    mergedPR: 4864
+    openPR: 207
+    closedIssue: 1982
+    openIssue: 268
+    commit: 4739
 total:
-  release: 2997
-  mergedPR: 8221
-  openPR: 211
-  closedIssue: 4859
-  openIssue: 384
-  commit: 8896
+  release: 3016
+  mergedPR: 8239
+  openPR: 207
+  closedIssue: 4879
+  openIssue: 311
+  commit: 8907
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-11T07:19:39Z
+collectedAt: 2026-11-12T09:00:05Z
 loc:
   TypeScript:
-    code: 655716
-    comments: 71145
-    blanks: 65278
-    files: 3727
+    code: 656585
+    comments: 71244
+    blanks: 65330
+    files: 3730
   Tsx:
     code: 25995
     comments: 979
     blanks: 2218
     files: 165
   Yaml:
-    code: 23521
+    code: 23518
     comments: 68
     blanks: 4777
     files: 2
   Json:
-    code: 19306
+    code: 19302
     comments: 0
     blanks: 101
     files: 750
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 38197
-    blanks: 24945
+    comments: 38368
+    blanks: 25044
     files: 182
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 31
 total:
-  code: 736884
-  comments: 112233
-  blanks: 98672
-  files: 5269
+  code: 737746
+  comments: 112503
+  blanks: 98823
+  files: 5272
 ---
 
 ---
-{"id":440259648,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4aPdRA","tag_name":"wrangler@4.160.0","target_commitish":"main","name":"wrangler@4.160.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-10T11:10:32Z","updated_at":"2026-11-10T11:11:26Z","published_at":"2026-11-10T11:11:26Z","assets":[],"body":"### Minor Changes\n\n- [#16760](https://github.com/cloudflare/workers-sdk/pull/16760) [`cb9534f`](https://github.com/cloudflare/workers-sdk/commit/cb9534f17b40f4b327cdaf12ae1dd22a381f6800) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support forwarded Wrangler development server options in the experimental `cf-wrangler` delegate\n\n  `cf dev` can now forward options such as `--inspector-port 9229`, `--ip`, `--var`, and `--persist-to` to the Wrangler development runtime. The delegate reuses Wrangler's dev option definitions and validation while retaining project config discovery, `--mode` environment selection, local development, and its `.cloudflare/state` default. Invalid option combinations produce a single-line usage error and exit code 2 before starting the server.\n\n  Place server options that overlap cf's global options after `--`, for example `cf dev -- --local --persist-to \"custom state\"`. Config and script overrides, whole-worker remote development, and Wrangler's global options remain unsupported.\n\n- [#16739](https://github.com/cloudflare/workers-sdk/pull/16739) [`6af492e`](https://github.com/cloudflare/workers-sdk/commit/6af492e92394c3e638bda4cf6d560698cef1c715) Thanks [@GregBrimble](https://github.com/GregBrimble)! - Add custom Cloudflare API headers through `CLOUDFLARE_API_HEADERS`\n\n  Set `CLOUDFLARE_API_HEADERS` to a JSON object such as `{\"X-Custom-Header\":\"value\"}` to add headers to Cloudflare API requests. Custom headers override existing unprotected request headers, body and transport headers are protected, and header values outside the diagnostic allowlist remain redacted regardless of log sanitization settings.\n\n### Patch Changes\n\n- [#16810](https://github.com/cloudflare/workers-sdk/pull/16810) [`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-10\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16810](https://github.com/cloudflare/workers-sdk/pull/16810) [`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20261109.1 | ^5.20261110.1 |\n  | workerd                   | 1.20261109.1  | 1.20261110.1  |\n\n- [#16709](https://github.com/cloudflare/workers-sdk/pull/16709) [`022ee9d`](https://github.com/cloudflare/workers-sdk/commit/022ee9dd5b13d811b439332ee0f8ca9affb6a403) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Keep local Container images available for upload retries\n\n  Keep prebuilt local image tags available until the caller finishes uploading the Worker and deploying its Container applications, so a later failure can be retried without rebuilding. When image push commands request cleanup, remove the source tag only after the push succeeds.\n\n- [#16740](https://github.com/cloudflare/workers-sdk/pull/16740) [`44b39b0`](https://github.com/cloudflare/workers-sdk/commit/44b39b02765d246479f49b690f9e9b3d8645a303) Thanks [@GregBrimble](https://github.com/GregBrimble)! - Redact header values outside a safe diagnostic allowlist, regardless of log sanitization settings.\n\n  Apply the same filtering to request, response, and request-options diagnostics. Strip `X-Auth-Key` alongside `Authorization` when forwarding local artifact Git requests.\n\n- [#16758](https://github.com/cloudflare/workers-sdk/pull/16758) [`325dc69`](https://github.com/cloudflare/workers-sdk/commit/325dc69bb06a78ef237322b89ac9aeafc7060534) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix JavaScript configuration parsing for Svelte projects using object spread\n\n  Use a parser that supports object spread when updating JavaScript configuration files. This prevents configuration failures for Svelte projects using Drizzle or Better Auth and other framework configurations containing modern JavaScript syntax.\n\n  Vite autoconfiguration reports a configuration error when an object spread, computed property, or accessor after the plugins array could override the Cloudflare plugin. Place the effective plugins array after these properties before retrying autoconfiguration.\n\n- Updated dependencies [[`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb), [`cdc970b`](https://github.com/cloudflare/workers-sdk/commit/cdc970b7bd39dcd42af65bdadab7c38ce0b409fb), [`4e7e9f1`](https://github.com/cloudflare/workers-sdk/commit/4e7e9f12b7996415fb63ae72a6d2c2f6ac3640ed), [`267dadb`](https://github.com/cloudflare/workers-sdk/commit/267dadbe69ac8221febef059382cec68eaec1b19), [`44b39b0`](https://github.com/cloudflare/workers-sdk/commit/44b39b02765d246479f49b690f9e9b3d8645a303)]:\n  - miniflare@5.20261110.0-beta"}
+{"id":441872222,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4aVm9e","tag_name":"@cloudflare/vite-plugin@1.69.0","target_commitish":"main","name":"@cloudflare/vite-plugin@1.69.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-11T15:28:12Z","updated_at":"2026-11-11T15:28:15Z","published_at":"2026-11-11T15:28:15Z","assets":[],"body":"### Minor Changes\n\n- [#16757](https://github.com/cloudflare/workers-sdk/pull/16757) [`110539e`](https://github.com/cloudflare/workers-sdk/commit/110539e81ba7c70e39f6f57d0bc8188ce3df46c1) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support auth profile selection for experimental cf-authenticated remote bindings\n\n  Remote binding sessions can select an authentication profile with `CLOUDFLARE_AUTH_PROFILE`. Experimental cf authentication keeps account choices within the session instead of persisting them across invocations. Wrangler authentication retains its existing account persistence.\n\n- [#16801](https://github.com/cloudflare/workers-sdk/pull/16801) [`a1f9218`](https://github.com/cloudflare/workers-sdk/commit/a1f92180d26b84f76b666097c263415a6b749b9e) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support custom Cloudflare API headers in Vite development\n\n  Use `CLOUDFLARE_API_HEADERS` to supply additional headers for remote-binding preview uploads, experimental authentication, and Container API requests. Upgrade Wrangler and the shared API helpers together; request diagnostics redact sensitive headers even when log sanitization is disabled.\n\n- [#16730](https://github.com/cloudflare/workers-sdk/pull/16730) [`9792d4f`](https://github.com/cloudflare/workers-sdk/commit/9792d4f8539e66e1df2d38420d01ab50efcb394d) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Support local Artifacts bindings in Vite plugin v1\n\n  Set `remote: false` on an Artifacts binding in Wrangler configuration to use local repositories. With `remoteBindings: false`, Artifacts also uses the local simulator. Omitted `remote` continues to use deployed repositories when remote bindings are enabled. Local Artifacts requires Git 2.32 or newer.\n\n### Patch Changes\n\n- [#16730](https://github.com/cloudflare/workers-sdk/pull/16730) [`9792d4f`](https://github.com/cloudflare/workers-sdk/commit/9792d4f8539e66e1df2d38420d01ab50efcb394d) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Preserve the server origin when constructing Worker request URLs\n\n  HTTP requests, WebSocket upgrades, and static routing now consistently treat incoming paths as paths on the selected server origin in dev and preview. Encoded paths and query strings are preserved, and non-origin-form request targets are rejected.\n\n- [#16801](https://github.com/cloudflare/workers-sdk/pull/16801) [`a1f9218`](https://github.com/cloudflare/workers-sdk/commit/a1f92180d26b84f76b666097c263415a6b749b9e) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Miniflare to protect local Browser Rendering and Artifacts credentials\n\n  Local Browser Rendering receives browser configuration and a usable home directory without unrelated host credentials. Local Artifacts Git forwarding also strips `X-Auth-Key` before passing requests to the repository.\n\n- [#16817](https://github.com/cloudflare/workers-sdk/pull/16817) [`cdde2c8`](https://github.com/cloudflare/workers-sdk/commit/cdde2c8770fa8f1f3b9cddc8992ddffa4f54485d) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Complete v1 builds without rebuilding environments or relying on Vite manifests\n\n  Preserve assets imported by entry, child, and prerender Workers when framework plugins build environments first or delete their Vite manifests. Keep the Vite 6 builder callback and Wrangler output configuration used by v1.\n\n- [#16770](https://github.com/cloudflare/workers-sdk/pull/16770) [`7bb9993`](https://github.com/cloudflare/workers-sdk/commit/7bb99930171cf103c48798dfb7154719c952fb3f) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Delegate local Container cleanup to Miniflare\n\n  Local development and preview now let Miniflare remove application containers, networking sidecars and snapshot clone volumes. Dispose the runtime when a dev-server restart removes the Cloudflare plugin, including overlapping restarts.\n\n- [#16704](https://github.com/cloudflare/workers-sdk/pull/16704) [`73e4659`](https://github.com/cloudflare/workers-sdk/commit/73e4659c7b152e71e312cf3f120d30eb16429aa4) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the v1 local runtime and remote binding authentication\n\n  Use the November 4 runtime and default compatibility date. Local D1 reads outside sessions no longer write bookmarks, local static assets are read-only during preview, and local Secrets Store persistence is restricted to its owner. Remote binding Access login redirects produce an actionable authentication error while responses returned by bindings are preserved. New opt-in cf OAuth logins request the corrected PlanetScale setup scope.\n\n- [#16757](https://github.com/cloudflare/workers-sdk/pull/16757) [`110539e`](https://github.com/cloudflare/workers-sdk/commit/110539e81ba7c70e39f6f57d0bc8188ce3df46c1) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local development runtime to the November 9 release\n\n  Update Miniflare and the coupled Wrangler and shared dependencies, keeping the Workers types aligned with the runtime. Remote binding preview uploads avoid materializing unused multipart request bodies, reducing memory use during session creation.\n\n  The runtime includes session-scoped cleanup of local Container resources and security fixes for bundled dependencies. Node.js 22.12.0 or later is required by the updated runtime."}
