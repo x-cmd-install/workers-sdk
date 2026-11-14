@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: 032f8c2
+  head: 81e56dd
   archived: false
-  latestVersion: "wrangler@4.161.0"
-  latestRelease: "wrangler@4.161.0"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-beta.v.16"
-  collectedAt: 2026-11-13T08:22:52Z
+  latestVersion: "@cloudflare/workers-auth@0.18.2"
+  latestRelease: "@cloudflare/workers-auth@0.18.2"
+  latestPrerelease: "miniflare@5.20261113.0-beta"
+  collectedAt: 2026-11-14T08:09:43Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-11-13
-  lastVersion: 2026-11-12
-  lastRelease: 2026-11-12
-  lastPrerelease: 2026-11-12
+  lastVersion: 2026-11-13
+  lastRelease: 2026-11-13
+  lastPrerelease: 2026-11-13
 popularity:
-  star: 4720
+  star: 4726
   watcher: 77
-  fork: 1652
-  release: 3027
-  contributor: 651
-  pullRequest: 10393
-  issue: 5196
+  fork: 1651
+  release: 3046
+  contributor: 652
+  pullRequest: 10410
+  issue: 5186
 language:
-  TypeScript: 23046487
+  TypeScript: 23120815
   JavaScript: 265293
   Mustache: 59337
   HTML: 30513
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 23440654
+totalBytes: 23514982
 recent:
   last30d:
-    since: 2026-10-14
+    since: 2026-10-15
     release: 100
-    mergedPR: 262
-    openPR: 66
-    closedIssue: 63
-    openIssue: 70
-    commit: 0
+    mergedPR: 258
+    openPR: 73
+    closedIssue: 70
+    openIssue: 56
+    commit: 235
   last60d:
-    since: 2026-09-14
+    since: 2026-09-15
     release: 100
-    mergedPR: 549
-    openPR: 103
-    closedIssue: 171
-    openIssue: 133
-    commit: 0
+    mergedPR: 547
+    openPR: 110
+    closedIssue: 181
+    openIssue: 114
+    commit: 550
   last90d:
-    since: 2026-08-15
+    since: 2026-08-16
     release: 100
-    mergedPR: 773
-    openPR: 121
-    closedIssue: 252
-    openIssue: 149
-    commit: 0
+    mergedPR: 770
+    openPR: 128
+    closedIssue: 267
+    openIssue: 126
+    commit: 773
   last180d:
-    since: 2026-05-17
+    since: 2026-05-18
     release: 100
-    mergedPR: 1439
-    openPR: 172
-    closedIssue: 476
-    openIssue: 179
-    commit: 0
+    mergedPR: 1434
+    openPR: 178
+    closedIssue: 499
+    openIssue: 149
+    commit: 1418
   last360d:
-    since: 2025-11-18
+    since: 2025-11-19
     release: 100
-    mergedPR: 2746
-    openPR: 202
-    closedIssue: 924
-    openIssue: 209
-    commit: 0
+    mergedPR: 2743
+    openPR: 209
+    closedIssue: 959
+    openIssue: 163
+    commit: 2716
   last720d:
-    since: 2024-11-23
+    since: 2024-11-24
     release: 100
-    mergedPR: 4876
-    openPR: 208
-    closedIssue: 2009
-    openIssue: 248
-    commit: 4743
+    mergedPR: 4882
+    openPR: 215
+    closedIssue: 2057
+    openIssue: 189
+    commit: 4748
 total:
-  release: 3027
-  mergedPR: 8252
-  openPR: 208
-  closedIssue: 4917
-  openIssue: 279
-  commit: 8918
+  release: 3046
+  mergedPR: 8259
+  openPR: 215
+  closedIssue: 4975
+  openIssue: 211
+  commit: 8925
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-13T08:23:17Z
+collectedAt: 2026-11-14T08:10:08Z
 loc:
   TypeScript:
-    code: 660662
-    comments: 71444
-    blanks: 65587
-    files: 3756
+    code: 662769
+    comments: 71569
+    blanks: 65704
+    files: 3767
   Tsx:
     code: 25994
     comments: 979
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 38451
-    blanks: 25100
+    comments: 38745
+    blanks: 25289
     files: 182
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 31
 total:
-  code: 742023
-  comments: 112786
-  blanks: 99163
-  files: 5303
+  code: 744130
+  comments: 113205
+  blanks: 99469
+  files: 5314
 ---
 
 ---
-{"id":443008044,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4aZ8Qs","tag_name":"wrangler@4.161.0","target_commitish":"main","name":"wrangler@4.161.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-12T13:46:19Z","updated_at":"2026-11-12T13:46:54Z","published_at":"2026-11-12T13:46:54Z","assets":[],"body":"### Minor Changes\n\n- [#16840](https://github.com/cloudflare/workers-sdk/pull/16840) [`8b2a363`](https://github.com/cloudflare/workers-sdk/commit/8b2a363327c06b6dc821066879b708764eb97bfa) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Write source maps in Build Output with `sources` relative to each source map file\n\n  This changes the experimental Build Output that `wrangler build --experimental-cf-build-output` and `cf-wrangler build` write. Their source maps were prepared as if for upload, with `sources` relative to the project root. For Workers that Wrangler does not bundle, leading `../` segments were also removed, which lost the location of some files. They now point from each source map's location in `bundle/` to the original files, like the source maps the Vite plugin writes.\n\n### Patch Changes\n\n- [#16833](https://github.com/cloudflare/workers-sdk/pull/16833) [`5f539b5`](https://github.com/cloudflare/workers-sdk/commit/5f539b5cbe73272db7e287a8b119dad1aa991c9c) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Name `cf` commands and `cloudflare.config.ts` settings in remote bindings errors from `cf-wrangler`\n\n  When `cf` runs development through the `cf-wrangler` delegate and remote bindings cannot be authenticated, the error now tells you to run `cf auth whoami`, `cf auth logout` and `cf auth login` instead of the Wrangler commands, and the Cloudflare Access hint names cf. The Flagship error for a binding whose app has not been created now names the binding's `id` setting instead of `app_id`, and suggests `cf flagship apps create`. `wrangler dev` still names Wrangler's commands and settings.\n\n- [#16527](https://github.com/cloudflare/workers-sdk/pull/16527) [`dc47e6d`](https://github.com/cloudflare/workers-sdk/commit/dc47e6d2a061748f47dc9cfba66ed3cffe944754) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Normalize relative redirect pathnames consistently across Pages and Workers assets\n\n  Relative `_redirects` targets now use shared pathname normalization after placeholder replacement, keeping repeated separators within the site's path. Explicit external targets (including scheme-less URLs such as `//example.com/path`), query values and fragments retain their contents.\n\n- [#16559](https://github.com/cloudflare/workers-sdk/pull/16559) [`575d136`](https://github.com/cloudflare/workers-sdk/commit/575d1366aa4c3a83cca69253bc5247e7fa1ab002) Thanks [@edmundhung](https://github.com/edmundhung)! - Update `@netlify/build-info` to 11.3.1\n\n- [#16838](https://github.com/cloudflare/workers-sdk/pull/16838) [`3626ee8`](https://github.com/cloudflare/workers-sdk/commit/3626ee899522161513ff130e3ab2ad0897d5b2c1) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Keep the remote bindings session when you remove the last remote binding\n\n  When you removed the last remote binding while `wrangler dev` was running, Wrangler restarted the remote bindings session with credentials that ignored `--profile` and the `account_id` in your Wrangler config. So it could use a different account or ask you to choose one. Wrangler now keeps the existing session, and starts a new one with your current credentials when you add a remote binding again.\n\n- Updated dependencies [[`dc47e6d`](https://github.com/cloudflare/workers-sdk/commit/dc47e6d2a061748f47dc9cfba66ed3cffe944754)]:\n  - miniflare@5.20261110.2-beta"}
+{"id":444506491,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4afqF7","tag_name":"@cloudflare/workers-auth@0.18.2","target_commitish":"main","name":"@cloudflare/workers-auth@0.18.2","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-13T17:11:04Z","updated_at":"2026-11-13T17:12:02Z","published_at":"2026-11-13T17:12:02Z","assets":[],"body":"### Patch Changes\n\n- [#16849](https://github.com/cloudflare/workers-sdk/pull/16849) [`3cea40b`](https://github.com/cloudflare/workers-sdk/commit/3cea40b078519222db432b5edf827ddc3e629a2a) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-12\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16886](https://github.com/cloudflare/workers-sdk/pull/16886) [`63eb6da`](https://github.com/cloudflare/workers-sdk/commit/63eb6daa0eda348e1f9e86a506cfd80d104a1e28) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-13\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- Updated dependencies [[`f005593`](https://github.com/cloudflare/workers-sdk/commit/f005593c1ed0d1f429dafc6919c4335f4d5070c7), [`3cea40b`](https://github.com/cloudflare/workers-sdk/commit/3cea40b078519222db432b5edf827ddc3e629a2a), [`63eb6da`](https://github.com/cloudflare/workers-sdk/commit/63eb6daa0eda348e1f9e86a506cfd80d104a1e28), [`3b1b408`](https://github.com/cloudflare/workers-sdk/commit/3b1b40832ac323de709001d9cc3823517b988985)]:\n  - @cloudflare/workers-utils@0.54.0"}
