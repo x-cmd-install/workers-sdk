@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: cef1808
+  head: 5f05841
   archived: false
-  latestVersion: "@cloudflare/workers-auth@0.18.2"
-  latestRelease: "@cloudflare/workers-auth@0.18.2"
-  latestPrerelease: "miniflare@5.20261113.0-beta"
-  collectedAt: 2026-11-16T09:00:59Z
+  latestVersion: "@cloudflare/workers-utils@0.54.1"
+  latestRelease: "@cloudflare/workers-utils@0.54.1"
+  latestPrerelease: "@cloudflare/build-output-utils@1.0.0-rc.0"
+  collectedAt: 2026-11-17T08:43:08Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-11-16
-  lastVersion: 2026-11-13
-  lastRelease: 2026-11-13
-  lastPrerelease: 2026-11-13
+  lastVersion: 2026-11-16
+  lastRelease: 2026-11-16
+  lastPrerelease: 2026-11-16
 popularity:
-  star: 4731
+  star: 4733
   watcher: 77
-  fork: 1651
-  release: 3046
-  contributor: 651
-  pullRequest: 10424
-  issue: 5191
+  fork: 1653
+  release: 3064
+  contributor: 652
+  pullRequest: 10435
+  issue: 5202
 language:
-  TypeScript: 23173887
+  TypeScript: 23241066
   JavaScript: 265293
   Mustache: 59337
   HTML: 30513
@@ -37,84 +37,84 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 23568054
+totalBytes: 23635233
 recent:
   last30d:
-    since: 2026-10-17
+    since: 2026-10-18
     release: 100
-    mergedPR: 250
-    openPR: 70
-    closedIssue: 63
-    openIssue: 57
-    commit: 201
+    mergedPR: 253
+    openPR: 72
+    closedIssue: 64
+    openIssue: 62
+    commit: 209
   last60d:
-    since: 2026-09-17
+    since: 2026-09-18
     release: 100
-    mergedPR: 531
-    openPR: 103
-    closedIssue: 179
-    openIssue: 118
-    commit: 493
+    mergedPR: 529
+    openPR: 105
+    closedIssue: 176
+    openIssue: 125
+    commit: 501
   last90d:
-    since: 2026-08-18
+    since: 2026-08-19
     release: 100
     mergedPR: 766
     openPR: 122
-    closedIssue: 267
-    openIssue: 129
-    commit: 738
+    closedIssue: 269
+    openIssue: 134
+    commit: 746
   last180d:
-    since: 2026-05-20
+    since: 2026-05-21
     release: 100
-    mergedPR: 1428
+    mergedPR: 1430
     openPR: 169
-    closedIssue: 498
-    openIssue: 152
-    commit: 1392
+    closedIssue: 501
+    openIssue: 158
+    commit: 1400
   last360d:
-    since: 2025-11-21
+    since: 2025-11-22
     release: 100
-    mergedPR: 2738
-    openPR: 199
-    closedIssue: 957
-    openIssue: 166
-    commit: 2673
+    mergedPR: 2741
+    openPR: 200
+    closedIssue: 961
+    openIssue: 173
+    commit: 2681
   last720d:
-    since: 2024-11-26
+    since: 2024-11-27
     release: 100
-    mergedPR: 4877
-    openPR: 205
-    closedIssue: 2054
-    openIssue: 191
-    commit: 4751
+    mergedPR: 4874
+    openPR: 206
+    closedIssue: 2051
+    openIssue: 198
+    commit: 4753
 total:
-  release: 3046
-  mergedPR: 8270
-  openPR: 205
-  closedIssue: 4977
-  openIssue: 214
-  commit: 8937
+  release: 3064
+  mergedPR: 8278
+  openPR: 206
+  closedIssue: 4982
+  openIssue: 220
+  commit: 8945
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-16T09:01:22Z
+collectedAt: 2026-11-17T08:43:31Z
 loc:
   TypeScript:
-    code: 664711
-    comments: 71730
-    blanks: 65838
-    files: 3772
+    code: 665840
+    comments: 71908
+    blanks: 65985
+    files: 3780
   Tsx:
     code: 25994
     comments: 979
     blanks: 2218
     files: 165
   Yaml:
-    code: 23679
+    code: 23685
     comments: 68
     blanks: 4804
     files: 2
   Json:
-    code: 19352
+    code: 19362
     comments: 0
     blanks: 101
     files: 755
@@ -190,8 +190,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 38764
-    blanks: 25294
+    comments: 39021
+    blanks: 25477
     files: 182
   Text:
     code: 0
@@ -199,11 +199,11 @@ loc:
     blanks: 2
     files: 31
 total:
-  code: 746084
-  comments: 113385
-  blanks: 99608
-  files: 5319
+  code: 747229
+  comments: 113820
+  blanks: 99938
+  files: 5327
 ---
 
 ---
-{"id":444506491,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4afqF7","tag_name":"@cloudflare/workers-auth@0.18.2","target_commitish":"main","name":"@cloudflare/workers-auth@0.18.2","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-13T17:11:04Z","updated_at":"2026-11-13T17:12:02Z","published_at":"2026-11-13T17:12:02Z","assets":[],"body":"### Patch Changes\n\n- [#16849](https://github.com/cloudflare/workers-sdk/pull/16849) [`3cea40b`](https://github.com/cloudflare/workers-sdk/commit/3cea40b078519222db432b5edf827ddc3e629a2a) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-12\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16886](https://github.com/cloudflare/workers-sdk/pull/16886) [`63eb6da`](https://github.com/cloudflare/workers-sdk/commit/63eb6daa0eda348e1f9e86a506cfd80d104a1e28) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-13\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- Updated dependencies [[`f005593`](https://github.com/cloudflare/workers-sdk/commit/f005593c1ed0d1f429dafc6919c4335f4d5070c7), [`3cea40b`](https://github.com/cloudflare/workers-sdk/commit/3cea40b078519222db432b5edf827ddc3e629a2a), [`63eb6da`](https://github.com/cloudflare/workers-sdk/commit/63eb6daa0eda348e1f9e86a506cfd80d104a1e28), [`3b1b408`](https://github.com/cloudflare/workers-sdk/commit/3b1b40832ac323de709001d9cc3823517b988985)]:\n  - @cloudflare/workers-utils@0.54.0"}
+{"id":446996428,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4apJ_M","tag_name":"@cloudflare/workers-utils@0.54.1","target_commitish":"main","name":"@cloudflare/workers-utils@0.54.1","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-16T12:13:54Z","updated_at":"2026-11-16T12:14:53Z","published_at":"2026-11-16T12:14:53Z","assets":[],"body":"### Patch Changes\n\n- [#16946](https://github.com/cloudflare/workers-sdk/pull/16946) [`e97c9f8`](https://github.com/cloudflare/workers-sdk/commit/e97c9f8bd2cdbd15faf402b146582e49d65dd1a7) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-16\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16246](https://github.com/cloudflare/workers-sdk/pull/16246) [`349fc4e`](https://github.com/cloudflare/workers-sdk/commit/349fc4e7443aa744cbe129f84f28571bf8625155) Thanks [@leostera](https://github.com/leostera)! - Start local Workflows from Artifacts events\n\n  Declare Artifacts events on `exports.workflow({ name, events })` in `cloudflare.config.ts` to start the owning Workflow locally in `cf`, Vite, and Workers Vitest. Wrangler configurations continue to use `triggers.events`. Native config conversion derives those targets from the Workflow export, and `cf migrate` attaches existing event subscriptions to their matching Workflow exports.\n\n  Local Artifacts namespaces publish the documented `cf.artifacts.*` messages for repository create, import, fork, and delete operations and token creation and revocation. Successful create, import, and fork operations also publish the initial token-created event. Delivery follows the committed mutation, is unordered, and does not fail the repository operation if a destination rejects it. Push, clone, and fetch events are not yet published locally. This feature does not provide local Artifacts-to-queue subscriptions."}
