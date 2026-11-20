@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/450606683",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/450606683/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/450606683/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.165.0",
-  "id": 450606683,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/451381037",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/451381037/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/451381037/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.70.1",
+  "id": 451381037,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4a27Zb",
-  "tag_name": "wrangler@4.165.0",
+  "node_id": "RE_kwDOGW5OAc4a54ct",
+  "tag_name": "@cloudflare/vite-plugin@1.70.1",
   "target_commitish": "main",
-  "name": "wrangler@4.165.0",
+  "name": "@cloudflare/vite-plugin@1.70.1",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-18T21:55:17Z",
-  "updated_at": "2026-11-18T21:56:19Z",
-  "published_at": "2026-11-18T21:56:19Z",
+  "created_at": "2026-11-19T13:25:48Z",
+  "updated_at": "2026-11-19T13:25:50Z",
+  "published_at": "2026-11-19T13:25:50Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/wrangler@4.165.0",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/wrangler@4.165.0",
-  "body": "### Minor Changes\n\n- [#10598](https://github.com/cloudflare/workers-sdk/pull/10598) [`24bd3c3`](https://github.com/cloudflare/workers-sdk/commit/24bd3c3aae162b6ef6f8ec661fdd3378123eb811) Thanks [@Ehbraheem](https://github.com/Ehbraheem)! - Add a new `--force` flag to `d1 migrations apply` which skips the interactive confirmation and applies any pending migrations non-interactively. This is useful for CI and automation.\n\n  Usage example:\n\n  ```\n  wrangler d1 migrations apply <db> --remote --force\n  ```\n\n  Fixes #5017\n\n### Patch Changes\n\n- [#16019](https://github.com/cloudflare/workers-sdk/pull/16019) [`8f26e90`](https://github.com/cloudflare/workers-sdk/commit/8f26e9008c8fb50a677f7cb7836beaf6deb66073) Thanks [@penalosa](https://github.com/penalosa)! - Correct the dry-run setup message to say \"exiting now\" instead of \"existing now\".\n\n  The previous wording contained a typo and appeared in Wrangler setup output and other consumers of shared autoconfig.\n\n- [#17003](https://github.com/cloudflare/workers-sdk/pull/17003) [`3595295`](https://github.com/cloudflare/workers-sdk/commit/3595295869341f8c6e7ec369e24181e8bb95e20c) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-18\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#17003](https://github.com/cloudflare/workers-sdk/pull/17003) [`3595295`](https://github.com/cloudflare/workers-sdk/commit/3595295869341f8c6e7ec369e24181e8bb95e20c) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20261117.1 | ^5.20261118.1 |\n  | workerd                   | 1.20261117.1  | 1.20261118.1  |\n\n- [#16719](https://github.com/cloudflare/workers-sdk/pull/16719) [`f833c8a`](https://github.com/cloudflare/workers-sdk/commit/f833c8ac21d5c562a25e1e2f90fa160c8510c127) Thanks [@jaeminbird](https://github.com/jaeminbird)! - Report `.dev.vars` and `.env` files that are not UTF-8 instead of silently loading no variables\n\n  Before Wrangler would incorrectly read non UTF-8 `.dev.vars` and `.env` files as UTF-8. A `.dev.vars` file that is not UTF-8 now stops `wrangler dev` with a message that says how to fix it, and a `.env` file that is not UTF-8 is skipped with a warning. UTF-8 files, with or without a BOM, load as before.\n\n- [#14334](https://github.com/cloudflare/workers-sdk/pull/14334) [`67d7c0a`](https://github.com/cloudflare/workers-sdk/commit/67d7c0a12b7476430d59e7d6a106c8996449f4e6) Thanks [@Divkix](https://github.com/Divkix)! - Replace the unmaintained asset hashing dependency with `hash-wasm`\n\n  Keep asset hashes unchanged for Workers and Pages deployments and local Pages development while using a maintained WebAssembly implementation.\n\n- [#16949](https://github.com/cloudflare/workers-sdk/pull/16949) [`110c162`](https://github.com/cloudflare/workers-sdk/commit/110c16279a91927427396b0f3760e27d59a8079a) Thanks [@edmundhung](https://github.com/edmundhung)! - Fail remote RPC binding requests on network errors instead of hanging\n\n  Remote bindings that connect over RPC treated every network failure, such as being offline, a DNS or TLS error, as a preview reload. The request then waited silently for a reload that never came. These requests now fail with the error, while GET and HEAD requests interrupted by an actual reload are still retried.\n\n- [#14578](https://github.com/cloudflare/workers-sdk/pull/14578) [`6750663`](https://github.com/cloudflare/workers-sdk/commit/67506630c514912ad02d74c44a3b30c959e9a9f3) Thanks [@penalosa](https://github.com/penalosa)! - Fix TypeScript errors when importing Wrangler's APIs\n\n  Projects that import Wrangler's APIs, such as `getPlatformProxy` or `defineWranglerConfig`, can now type-check with `skipLibCheck: false`. The published types no longer refer to missing internal packages, and their required type dependencies are installed automatically.\n\n- Updated dependencies [[`0a4315f`](https://github.com/cloudflare/workers-sdk/commit/0a4315fcf56a1cb6dbc6b4908afe6122e87d4253), [`3595295`](https://github.com/cloudflare/workers-sdk/commit/3595295869341f8c6e7ec369e24181e8bb95e20c), [`3595295`](https://github.com/cloudflare/workers-sdk/commit/3595295869341f8c6e7ec369e24181e8bb95e20c), [`6750663`](https://github.com/cloudflare/workers-sdk/commit/67506630c514912ad02d74c44a3b30c959e9a9f3), [`6750663`](https://github.com/cloudflare/workers-sdk/commit/67506630c514912ad02d74c44a3b30c959e9a9f3), [`d04e667`](https://github.com/cloudflare/workers-sdk/commit/d04e667fadbc4b28666236ae9d85a3cae6bee557), [`6750663`](https://github.com/cloudflare/workers-sdk/commit/67506630c514912ad02d74c44a3b30c959e9a9f3), [`5a6e450`](https://github.com/cloudflare/workers-sdk/commit/5a6e4502f81c4f3032be8b0c174e730ea3817b76)]:\n  - miniflare@5.20261118.0-beta\n  - @cloudflare/workers-utils@0.55.0\n  - @cloudflare/kv-asset-handler@0.5.1"
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vite-plugin@1.70.1",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vite-plugin@1.70.1",
+  "body": "### Patch Changes\n\n- [#16952](https://github.com/cloudflare/workers-sdk/pull/16952) [`c938af3`](https://github.com/cloudflare/workers-sdk/commit/c938af351410d8cd4e2fe877b442284593596eb6) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Expose `canBeForwarded` when testing email handlers locally\n\n  Update Miniflare to 5.20261117.0-beta so incoming email messages delivered through the Vite development server expose `canBeForwarded: true`, matching production. Align Wrangler and the shared compatibility-date helpers with the November 17 runtime and Workers types.\n\n- [#16983](https://github.com/cloudflare/workers-sdk/pull/16983) [`a2f3b29`](https://github.com/cloudflare/workers-sdk/commit/a2f3b292a907765b891386fe437e4ebb31071c03) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fail remote RPC binding requests on network errors instead of hanging\n\n  Remote bindings that connect over RPC treated network failures as preview reloads and waited silently for a reload. These requests now fail with the error, while GET and HEAD requests interrupted by a preview reload are retried against the replacement preview."
 }
