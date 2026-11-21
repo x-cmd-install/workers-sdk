@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: f3f7bbc
+  head: b007991
   archived: false
-  latestVersion: "@cloudflare/vite-plugin@1.70.1"
-  latestRelease: "@cloudflare/vite-plugin@1.70.1"
-  latestPrerelease: "miniflare@5.20261118.0-beta"
-  collectedAt: 2026-11-20T09:17:14Z
+  latestVersion: "@cloudflare/vitest-plugin@1.9.0"
+  latestRelease: "@cloudflare/vitest-plugin@1.9.0"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-rc.3"
+  collectedAt: 2026-11-21T08:57:32Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-11-20
-  lastVersion: 2026-11-19
-  lastRelease: 2026-11-19
-  lastPrerelease: 2026-11-18
+  lastVersion: 2026-11-20
+  lastRelease: 2026-11-20
+  lastPrerelease: 2026-11-20
 popularity:
-  star: 4734
+  star: 4738
   watcher: 78
-  fork: 1663
-  release: 3103
-  contributor: 654
-  pullRequest: 10496
-  issue: 5223
+  fork: 1668
+  release: 3122
+  contributor: 657
+  pullRequest: 10514
+  issue: 5228
 language:
-  TypeScript: 23391255
+  TypeScript: 23448437
   JavaScript: 265756
   Mustache: 59337
   HTML: 30513
@@ -37,84 +37,84 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 23785885
+totalBytes: 23843067
 recent:
   last30d:
-    since: 2026-10-21
+    since: 2026-10-22
     release: 100
-    mergedPR: 272
-    openPR: 63
-    closedIssue: 75
-    openIssue: 63
-    commit: 247
+    mergedPR: 277
+    openPR: 64
+    closedIssue: 78
+    openIssue: 62
+    commit: 259
   last60d:
-    since: 2026-09-21
+    since: 2026-09-22
     release: 100
-    mergedPR: 559
-    openPR: 100
-    closedIssue: 188
-    openIssue: 124
-    commit: 539
+    mergedPR: 557
+    openPR: 101
+    closedIssue: 187
+    openIssue: 121
+    commit: 551
   last90d:
-    since: 2026-08-22
+    since: 2026-08-23
     release: 100
-    mergedPR: 798
-    openPR: 120
-    closedIssue: 277
-    openIssue: 134
-    commit: 784
+    mergedPR: 803
+    openPR: 121
+    closedIssue: 282
+    openIssue: 133
+    commit: 796
   last180d:
-    since: 2026-05-24
+    since: 2026-05-25
     release: 100
-    mergedPR: 1461
+    mergedPR: 1467
     openPR: 152
-    closedIssue: 518
-    openIssue: 156
-    commit: 1438
+    closedIssue: 520
+    openIssue: 155
+    commit: 1450
   last360d:
-    since: 2025-11-25
+    since: 2025-11-26
     release: 100
-    mergedPR: 2768
-    openPR: 169
-    closedIssue: 980
-    openIssue: 170
-    commit: 2719
-  last720d:
-    since: 2024-11-30
-    release: 100
-    mergedPR: 4916
+    mergedPR: 2767
     openPR: 170
-    closedIssue: 2074
-    openIssue: 194
-    commit: 4772
+    closedIssue: 978
+    openIssue: 169
+    commit: 2731
+  last720d:
+    since: 2024-12-01
+    release: 100
+    mergedPR: 4928
+    openPR: 171
+    closedIssue: 2079
+    openIssue: 192
+    commit: 4783
 total:
-  release: 3103
-  mergedPR: 8332
-  openPR: 170
-  closedIssue: 5007
-  openIssue: 216
-  commit: 8983
+  release: 3122
+  mergedPR: 8344
+  openPR: 171
+  closedIssue: 5015
+  openIssue: 213
+  commit: 8995
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-20T09:17:39Z
+collectedAt: 2026-11-21T08:57:56Z
 loc:
   TypeScript:
-    code: 669974
-    comments: 72154
-    blanks: 66404
-    files: 3808
+    code: 670883
+    comments: 72221
+    blanks: 66478
+    files: 3813
   Tsx:
     code: 25996
     comments: 981
     blanks: 2218
     files: 165
   Yaml:
-    code: 25609
+    code: 25772
     comments: 72
-    blanks: 1987
+    blanks: 2006
     files: 2
   Json:
-    code: 19511
+    code: 19520
     comments: 0
     blanks: 101
     files: 760
@@ -190,20 +190,20 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 39428
-    blanks: 25779
-    files: 184
+    comments: 39812
+    blanks: 26006
+    files: 185
   Text:
     code: 0
     comments: 51
     blanks: 2
     files: 31
 total:
-  code: 753449
-  comments: 114484
-  blanks: 97842
-  files: 5363
+  code: 754530
+  comments: 114935
+  blanks: 98162
+  files: 5369
 ---
 
 ---
-{"id":451381037,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4a54ct","tag_name":"@cloudflare/vite-plugin@1.70.1","target_commitish":"main","name":"@cloudflare/vite-plugin@1.70.1","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-19T13:25:48Z","updated_at":"2026-11-19T13:25:50Z","published_at":"2026-11-19T13:25:50Z","assets":[],"body":"### Patch Changes\n\n- [#16952](https://github.com/cloudflare/workers-sdk/pull/16952) [`c938af3`](https://github.com/cloudflare/workers-sdk/commit/c938af351410d8cd4e2fe877b442284593596eb6) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Expose `canBeForwarded` when testing email handlers locally\n\n  Update Miniflare to 5.20261117.0-beta so incoming email messages delivered through the Vite development server expose `canBeForwarded: true`, matching production. Align Wrangler and the shared compatibility-date helpers with the November 17 runtime and Workers types.\n\n- [#16983](https://github.com/cloudflare/workers-sdk/pull/16983) [`a2f3b29`](https://github.com/cloudflare/workers-sdk/commit/a2f3b292a907765b891386fe437e4ebb31071c03) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fail remote RPC binding requests on network errors instead of hanging\n\n  Remote bindings that connect over RPC treated network failures as preview reloads and waited silently for a reload. These requests now fail with the error, while GET and HEAD requests interrupted by a preview reload are retried against the replacement preview."}
+{"id":453039025,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4bANOx","tag_name":"@cloudflare/vitest-plugin@1.9.0","target_commitish":"main","name":"@cloudflare/vitest-plugin@1.9.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-20T18:21:53Z","updated_at":"2026-11-20T18:22:56Z","published_at":"2026-11-20T18:22:56Z","assets":[],"body":"### Minor Changes\n\n- [#16174](https://github.com/cloudflare/workers-sdk/pull/16174) [`629f135`](https://github.com/cloudflare/workers-sdk/commit/629f135e4259c6a19aa9331a7346d993b8ef328a) Thanks [@james-elicx](https://github.com/james-elicx)! - Remove the dependency on `wrangler`\n\n  The Vitest plugin no longer depends on `wrangler`. Reading the Wrangler configuration file, generating Miniflare options, loading local variables and serving the Pages `ASSETS` binding now use shared workers-sdk packages that are bundled into the plugin. Installing the plugin no longer installs `wrangler` as well. If your project runs the `wrangler` CLI (for example `wrangler types`), add `wrangler` to your own `devDependencies`.\n\n### Patch Changes\n\n- [#17031](https://github.com/cloudflare/workers-sdk/pull/17031) [`95fd4c2`](https://github.com/cloudflare/workers-sdk/commit/95fd4c2500f96b80bdf712a78f4546a2dd8e7d22) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-19\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#17043](https://github.com/cloudflare/workers-sdk/pull/17043) [`4f5b118`](https://github.com/cloudflare/workers-sdk/commit/4f5b1182f2481ddafbc84e32d654fd4fa415128f) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Undici to 7.30.2 to include upstream security fixes\n\n  This patch includes six upstream security fixes covering caching, redirects, and Subresource Integrity verification. Update the shared Undici dependency and matching types together so affected packages ship the patched version.\n\n- [#17035](https://github.com/cloudflare/workers-sdk/pull/17035) [`1b563db`](https://github.com/cloudflare/workers-sdk/commit/1b563db5ae1d78d7393befaa90b1b947646d76ab) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix remote bindings authentication with API tokens scoped to an individual Worker\n\n  Remote bindings now create preview sessions through the Worker-scoped endpoint. When the response includes a usable exchange URL, its hostname is used without account-wide Workers subdomain access; otherwise, the existing account subdomain lookup or registration is used. This applies to `getPlatformProxy` and remote bindings in Wrangler, the Cloudflare Vite plugin, and the Vitest integration. Tokens still need permission to update the named Worker.\n\n- Updated dependencies [[`8712fc5`](https://github.com/cloudflare/workers-sdk/commit/8712fc53a8070de0542e02fbb7105a3c2c3ffc7d), [`95fd4c2`](https://github.com/cloudflare/workers-sdk/commit/95fd4c2500f96b80bdf712a78f4546a2dd8e7d22), [`95fd4c2`](https://github.com/cloudflare/workers-sdk/commit/95fd4c2500f96b80bdf712a78f4546a2dd8e7d22), [`8f45554`](https://github.com/cloudflare/workers-sdk/commit/8f4555407cd0954fb4eba2cf10e5d3a94a1da2ed), [`4f5b118`](https://github.com/cloudflare/workers-sdk/commit/4f5b1182f2481ddafbc84e32d654fd4fa415128f), [`8f45554`](https://github.com/cloudflare/workers-sdk/commit/8f4555407cd0954fb4eba2cf10e5d3a94a1da2ed)]:\n  - miniflare@5.20261119.0-beta"}

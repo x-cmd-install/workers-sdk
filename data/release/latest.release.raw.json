@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/451381037",
-  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/451381037/assets",
-  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/451381037/assets{?name,label}",
-  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.70.1",
-  "id": 451381037,
+  "url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/453039025",
+  "assets_url": "https://api.github.com/repos/cloudflare/workers-sdk/releases/453039025/assets",
+  "upload_url": "https://uploads.github.com/repos/cloudflare/workers-sdk/releases/453039025/assets{?name,label}",
+  "html_url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-plugin%401.9.0",
+  "id": 453039025,
   "author": {
     "login": "workers-devprod",
     "id": 116369605,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGW5OAc4a54ct",
-  "tag_name": "@cloudflare/vite-plugin@1.70.1",
+  "node_id": "RE_kwDOGW5OAc4bANOx",
+  "tag_name": "@cloudflare/vitest-plugin@1.9.0",
   "target_commitish": "main",
-  "name": "@cloudflare/vite-plugin@1.70.1",
+  "name": "@cloudflare/vitest-plugin@1.9.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-19T13:25:48Z",
-  "updated_at": "2026-11-19T13:25:50Z",
-  "published_at": "2026-11-19T13:25:50Z",
+  "created_at": "2026-11-20T18:21:53Z",
+  "updated_at": "2026-11-20T18:22:56Z",
+  "published_at": "2026-11-20T18:22:56Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vite-plugin@1.70.1",
-  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vite-plugin@1.70.1",
-  "body": "### Patch Changes\n\n- [#16952](https://github.com/cloudflare/workers-sdk/pull/16952) [`c938af3`](https://github.com/cloudflare/workers-sdk/commit/c938af351410d8cd4e2fe877b442284593596eb6) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Expose `canBeForwarded` when testing email handlers locally\n\n  Update Miniflare to 5.20261117.0-beta so incoming email messages delivered through the Vite development server expose `canBeForwarded: true`, matching production. Align Wrangler and the shared compatibility-date helpers with the November 17 runtime and Workers types.\n\n- [#16983](https://github.com/cloudflare/workers-sdk/pull/16983) [`a2f3b29`](https://github.com/cloudflare/workers-sdk/commit/a2f3b292a907765b891386fe437e4ebb31071c03) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fail remote RPC binding requests on network errors instead of hanging\n\n  Remote bindings that connect over RPC treated network failures as preview reloads and waited silently for a reload. These requests now fail with the error, while GET and HEAD requests interrupted by a preview reload are retried against the replacement preview."
+  "tarball_url": "https://api.github.com/repos/cloudflare/workers-sdk/tarball/@cloudflare/vitest-plugin@1.9.0",
+  "zipball_url": "https://api.github.com/repos/cloudflare/workers-sdk/zipball/@cloudflare/vitest-plugin@1.9.0",
+  "body": "### Minor Changes\n\n- [#16174](https://github.com/cloudflare/workers-sdk/pull/16174) [`629f135`](https://github.com/cloudflare/workers-sdk/commit/629f135e4259c6a19aa9331a7346d993b8ef328a) Thanks [@james-elicx](https://github.com/james-elicx)! - Remove the dependency on `wrangler`\n\n  The Vitest plugin no longer depends on `wrangler`. Reading the Wrangler configuration file, generating Miniflare options, loading local variables and serving the Pages `ASSETS` binding now use shared workers-sdk packages that are bundled into the plugin. Installing the plugin no longer installs `wrangler` as well. If your project runs the `wrangler` CLI (for example `wrangler types`), add `wrangler` to your own `devDependencies`.\n\n### Patch Changes\n\n- [#17031](https://github.com/cloudflare/workers-sdk/pull/17031) [`95fd4c2`](https://github.com/cloudflare/workers-sdk/commit/95fd4c2500f96b80bdf712a78f4546a2dd8e7d22) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-19\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#17043](https://github.com/cloudflare/workers-sdk/pull/17043) [`4f5b118`](https://github.com/cloudflare/workers-sdk/commit/4f5b1182f2481ddafbc84e32d654fd4fa415128f) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Undici to 7.30.2 to include upstream security fixes\n\n  This patch includes six upstream security fixes covering caching, redirects, and Subresource Integrity verification. Update the shared Undici dependency and matching types together so affected packages ship the patched version.\n\n- [#17035](https://github.com/cloudflare/workers-sdk/pull/17035) [`1b563db`](https://github.com/cloudflare/workers-sdk/commit/1b563db5ae1d78d7393befaa90b1b947646d76ab) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix remote bindings authentication with API tokens scoped to an individual Worker\n\n  Remote bindings now create preview sessions through the Worker-scoped endpoint. When the response includes a usable exchange URL, its hostname is used without account-wide Workers subdomain access; otherwise, the existing account subdomain lookup or registration is used. This applies to `getPlatformProxy` and remote bindings in Wrangler, the Cloudflare Vite plugin, and the Vitest integration. Tokens still need permission to update the named Worker.\n\n- Updated dependencies [[`8712fc5`](https://github.com/cloudflare/workers-sdk/commit/8712fc53a8070de0542e02fbb7105a3c2c3ffc7d), [`95fd4c2`](https://github.com/cloudflare/workers-sdk/commit/95fd4c2500f96b80bdf712a78f4546a2dd8e7d22), [`95fd4c2`](https://github.com/cloudflare/workers-sdk/commit/95fd4c2500f96b80bdf712a78f4546a2dd8e7d22), [`8f45554`](https://github.com/cloudflare/workers-sdk/commit/8f4555407cd0954fb4eba2cf10e5d3a94a1da2ed), [`4f5b118`](https://github.com/cloudflare/workers-sdk/commit/4f5b1182f2481ddafbc84e32d654fd4fa415128f), [`8f45554`](https://github.com/cloudflare/workers-sdk/commit/8f4555407cd0954fb4eba2cf10e5d3a94a1da2ed)]:\n  - miniflare@5.20261119.0-beta"
 }
