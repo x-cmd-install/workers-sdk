@@ -37,22 +37,22 @@ Total: **753,251** lines of code across **4960** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,738 · **Forks**: 1,668 · **Open issues**: 5,228 · **Contributors**: 657
+- **Stars**: 4,741 · **Forks**: 1,672 · **Open issues**: 5,234 · **Contributors**: 658
 
 ## Totals (cumulative)
 
-- **Releases**: 3122 · **Merged PRs**: 8344 · **Open PRs**: 171 · **Closed issues**: 5015 · **Open issues**: 213 · **Commits**: 8995
+- **Releases**: 3122 · **Merged PRs**: 8346 · **Open PRs**: 176 · **Closed issues**: 5017 · **Open issues**: 217 · **Commits**: 8995
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 100 | 277 | 64 | 78 | 62 | 259 |
-| last60d | 2026-09-22 | 100 | 557 | 101 | 187 | 121 | 551 |
-| 90d | 2026-08-23 | 100 | 803 | 121 | 282 | 133 | 796 |
-| last180d | 2026-05-25 | 100 | 1467 | 152 | 520 | 155 | 1450 |
-| 360d | 2025-11-26 | 100 | 2767 | 170 | 978 | 169 | 2731 |
-| last720d | 2024-12-01 | 100 | 4928 | 171 | 2079 | 192 | 4783 |
+| 30d | 2026-10-23 | 100 | 268 | 68 | 76 | 64 | 259 |
+| last60d | 2026-09-23 | 100 | 546 | 104 | 188 | 124 | 551 |
+| 90d | 2026-08-24 | 100 | 796 | 125 | 279 | 137 | 796 |
+| last180d | 2026-05-26 | 100 | 1464 | 157 | 521 | 159 | 1450 |
+| 360d | 2025-11-27 | 100 | 2760 | 175 | 979 | 173 | 2731 |
+| last720d | 2024-12-02 | 100 | 4925 | 176 | 2079 | 196 | 4783 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for workers-sdk lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:58:00Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:41:02Z._
