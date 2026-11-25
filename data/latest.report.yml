@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: 434aae9
+  head: 0c06246
   archived: false
-  latestVersion: "@cloudflare/vitest-plugin@1.9.1"
-  latestRelease: "@cloudflare/vitest-plugin@1.9.1"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-rc.4"
-  collectedAt: 2026-11-24T11:44:06Z
+  latestVersion: "@cloudflare/workers-auth@0.18.8"
+  latestRelease: "@cloudflare/workers-auth@0.18.8"
+  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-rc.5"
+  collectedAt: 2026-11-25T09:29:16Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-11-24
-  lastVersion: 2026-11-23
-  lastRelease: 2026-11-23
-  lastPrerelease: 2026-11-23
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 2026-11-24
 popularity:
-  star: 4746
+  star: 4748
   watcher: 78
-  fork: 1675
-  release: 3141
+  fork: 1677
+  release: 3151
   contributor: 664
-  pullRequest: 10537
-  issue: 5240
+  pullRequest: 10545
+  issue: 5248
 language:
-  TypeScript: 23485326
+  TypeScript: 23491337
   JavaScript: 265756
   Mustache: 59337
   HTML: 30513
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 23879956
+totalBytes: 23885967
 recent:
   last30d:
-    since: 2026-10-25
+    since: 2026-10-26
     release: 100
-    mergedPR: 281
-    openPR: 57
+    mergedPR: 274
+    openPR: 58
     closedIssue: 80
-    openIssue: 57
-    commit: 230
+    openIssue: 61
+    commit: 0
   last60d:
-    since: 2026-09-25
+    since: 2026-09-26
     release: 100
-    mergedPR: 541
-    openPR: 91
-    closedIssue: 188
-    openIssue: 117
-    commit: 476
+    mergedPR: 543
+    openPR: 93
+    closedIssue: 184
+    openIssue: 122
+    commit: 0
   last90d:
-    since: 2026-08-26
+    since: 2026-08-27
     release: 100
-    mergedPR: 807
+    mergedPR: 808
     openPR: 112
-    closedIssue: 278
-    openIssue: 132
-    commit: 779
+    closedIssue: 277
+    openIssue: 137
+    commit: 0
   last180d:
-    since: 2026-05-28
+    since: 2026-05-29
     release: 100
-    mergedPR: 1460
-    openPR: 146
-    closedIssue: 529
-    openIssue: 155
-    commit: 1402
+    mergedPR: 1454
+    openPR: 148
+    closedIssue: 524
+    openIssue: 160
+    commit: 0
   last360d:
-    since: 2025-11-29
+    since: 2025-11-30
     release: 100
     mergedPR: 2773
-    openPR: 164
+    openPR: 166
     closedIssue: 986
-    openIssue: 169
-    commit: 2696
+    openIssue: 174
+    commit: 0
   last720d:
-    since: 2024-12-04
+    since: 2024-12-05
     release: 100
-    mergedPR: 4934
-    openPR: 165
-    closedIssue: 2080
-    openIssue: 193
-    commit: 4799
+    mergedPR: 4928
+    openPR: 167
+    closedIssue: 2074
+    openIssue: 198
+    commit: 4793
 total:
-  release: 3141
-  mergedPR: 8373
-  openPR: 165
-  closedIssue: 5026
-  openIssue: 214
-  commit: 9020
+  release: 3151
+  mergedPR: 8379
+  openPR: 167
+  closedIssue: 5029
+  openIssue: 219
+  commit: 9026
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-24T11:44:37Z
+collectedAt: 2026-11-25T09:30:14Z
 loc:
   TypeScript:
-    code: 671913
-    comments: 72318
-    blanks: 66564
-    files: 3814
+    code: 672075
+    comments: 72321
+    blanks: 66584
+    files: 3815
   Tsx:
     code: 25996
     comments: 981
@@ -190,20 +190,20 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 40013
-    blanks: 26153
-    files: 185
+    comments: 40260
+    blanks: 26243
+    files: 186
   Text:
     code: 0
     comments: 51
     blanks: 2
     files: 31
 total:
-  code: 755686
-  comments: 115233
-  blanks: 98395
-  files: 5370
+  code: 755848
+  comments: 115483
+  blanks: 98505
+  files: 5372
 ---
 
 ---
-{"id":455887324,"author":{"login":"petebacondarwin","id":15655,"node_id":"MDQ6VXNlcjE1NjU1","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4bLEnc","tag_name":"@cloudflare/vitest-plugin@1.9.1","target_commitish":"1af3c3af42b7d440e1996c72b2c86f27b60c0fd1","name":"@cloudflare/vitest-plugin@1.9.1","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-23T19:22:46Z","updated_at":"2026-11-23T19:24:34Z","published_at":"2026-11-23T19:24:34Z","assets":[],"body":"### Patch Changes\n\n- [#17070](https://github.com/cloudflare/workers-sdk/pull/17070) [`657179d`](https://github.com/cloudflare/workers-sdk/commit/657179d3d707a244038168675292b288e0a1f4ef) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-23\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#16879](https://github.com/cloudflare/workers-sdk/pull/16879) [`5970e6a`](https://github.com/cloudflare/workers-sdk/commit/5970e6a842b36665ab092f54ae276d34b02e3a29) Thanks [@edmundhung](https://github.com/edmundhung)! - Throw from `readD1Migrations()` when the migrations directory doesn't exist\n\n  Passing options with a missing `migrationsDir` used to return no migrations, so a typo silently applied nothing. It now throws \"No migrations present at …\", as Wrangler does. Passing a directory path that doesn't exist throws the same error. A migrations directory that can't be read now also throws when you pass options, and both forms name the directory in the error.\n\n- [#17108](https://github.com/cloudflare/workers-sdk/pull/17108) [`65f6f33`](https://github.com/cloudflare/workers-sdk/commit/65f6f33eaad8a4712f915d884bfb4c04a862c516) Thanks [@Hebilicious](https://github.com/Hebilicious)! - Resolve the runner's `vitest/worker` import from the plugin, not from the project root\n\n  The runner is a virtual module, `/index.mjs`, so Vite resolved its `vitest/worker` import from the project root. When the root could not resolve `vitest`, as in a pnpm workspace whose root package does not depend on it, no test file ran and Workers threw `No such module \"vitest/worker\"`. When a parent directory had another `vitest` version, the runner loaded that version and Vitest failed to find the runner. The plugin now resolves `vitest/worker` from its own package, so the runner uses the same Vitest as the pool.\n\n- Updated dependencies [[`657179d`](https://github.com/cloudflare/workers-sdk/commit/657179d3d707a244038168675292b288e0a1f4ef), [`657179d`](https://github.com/cloudflare/workers-sdk/commit/657179d3d707a244038168675292b288e0a1f4ef), [`7afc49c`](https://github.com/cloudflare/workers-sdk/commit/7afc49c652d8be84e4f7a6d3673145340e37a685), [`086706d`](https://github.com/cloudflare/workers-sdk/commit/086706dfec2238540e8170d69fd9481c547f306d), [`5b45f32`](https://github.com/cloudflare/workers-sdk/commit/5b45f32b75e40540f6be934978e48b2cd816ed42), [`00413bb`](https://github.com/cloudflare/workers-sdk/commit/00413bbb0decc8d3282a7bc5259d629614e66876), [`5bc7dba`](https://github.com/cloudflare/workers-sdk/commit/5bc7dba8e4d2b9254b48d3c4d3ef2df23a918637), [`086706d`](https://github.com/cloudflare/workers-sdk/commit/086706dfec2238540e8170d69fd9481c547f306d)]:\n  - miniflare@5.20261123.0-beta"}
+{"id":456842845,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4bOt5d","tag_name":"@cloudflare/workers-auth@0.18.8","target_commitish":"main","name":"@cloudflare/workers-auth@0.18.8","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-24T13:59:54Z","updated_at":"2026-11-24T14:00:30Z","published_at":"2026-11-24T14:00:30Z","assets":[],"body":"### Patch Changes\n\n- [#17063](https://github.com/cloudflare/workers-sdk/pull/17063) [`6c45ad7`](https://github.com/cloudflare/workers-sdk/commit/6c45ad7ccb87e0de8a8117cf5a547c1d005207a8) Thanks [@sidharthachatterjee](https://github.com/sidharthachatterjee)! - Request the billing scopes when logging in with cf and Wrangler\n\n  Include `billing:write` in the default OAuth scopes of cf and Wrangler so they can create account subscriptions, which is how products such as R2 are enabled on an account. cf also requests `billing:read`. Existing OAuth sessions need a new login to request the scopes."}
