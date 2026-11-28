@@ -2,28 +2,28 @@ about:
   description: "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
   license: Apache-2.0
   homepage: https://developers.cloudflare.com/workers/
-  head: b89dfcf
+  head: dedc40d
   archived: false
-  latestVersion: "@cloudflare/vite-plugin@1.70.2"
-  latestRelease: "@cloudflare/vite-plugin@1.70.2"
-  latestPrerelease: "@cloudflare/vite-plugin@2.0.0-rc.5"
-  collectedAt: 2026-11-27T10:36:41Z
+  latestVersion: "wrangler@4.169.0"
+  latestRelease: "wrangler@4.169.0"
+  latestPrerelease: "miniflare@5.20261127.0-beta"
+  collectedAt: 2026-11-28T08:32:26Z
 timeline:
   created: 2021-11-10
   lastCommit: 2026-11-27
-  lastVersion: 2026-11-25
-  lastRelease: 2026-11-25
-  lastPrerelease: 2026-11-24
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-11-27
 popularity:
   star: 4752
-  watcher: 78
-  fork: 1676
-  release: 3152
+  watcher: 77
+  fork: 1675
+  release: 3172
   contributor: 663
-  pullRequest: 10576
-  issue: 5261
+  pullRequest: 10598
+  issue: 5264
 language:
-  TypeScript: 23698152
+  TypeScript: 23677324
   JavaScript: 265756
   Mustache: 59337
   HTML: 30513
@@ -37,72 +37,72 @@ language:
   WebAssembly: 629
   Astro: 158
   Lua: 34
-totalBytes: 24092782
+totalBytes: 24071954
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 100
-    mergedPR: 268
-    openPR: 60
-    closedIssue: 78
-    openIssue: 69
-    commit: 252
+    mergedPR: 267
+    openPR: 67
+    closedIssue: 68
+    openIssue: 70
+    commit: 259
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 100
-    mergedPR: 544
-    openPR: 90
-    closedIssue: 189
-    openIssue: 132
-    commit: 498
+    mergedPR: 537
+    openPR: 98
+    closedIssue: 177
+    openIssue: 124
+    commit: 505
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 100
-    mergedPR: 814
-    openPR: 100
+    mergedPR: 813
+    openPR: 108
     closedIssue: 274
-    openIssue: 147
-    commit: 801
+    openIssue: 150
+    commit: 808
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 100
-    mergedPR: 1469
-    openPR: 127
-    closedIssue: 522
-    openIssue: 172
-    commit: 1424
+    mergedPR: 1463
+    openPR: 135
+    closedIssue: 519
+    openIssue: 175
+    commit: 1431
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 2775
-    openPR: 134
-    closedIssue: 984
-    openIssue: 185
-    commit: 2718
+    mergedPR: 2774
+    openPR: 142
+    closedIssue: 982
+    openIssue: 189
+    commit: 2725
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 4935
-    openPR: 134
-    closedIssue: 2072
-    openIssue: 209
-    commit: 4793
+    mergedPR: 4942
+    openPR: 142
+    closedIssue: 2071
+    openIssue: 213
+    commit: 4800
 total:
-  release: 3152
-  mergedPR: 8400
-  openPR: 134
-  closedIssue: 5031
-  openIssue: 230
-  commit: 9042
+  release: 3172
+  mergedPR: 8407
+  openPR: 142
+  closedIssue: 5030
+  openIssue: 234
+  commit: 9049
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/workers-sdk
-collectedAt: 2026-11-27T10:37:08Z
+collectedAt: 2026-11-28T08:32:48Z
 loc:
   TypeScript:
-    code: 678060
-    comments: 72937
-    blanks: 67073
-    files: 3833
+    code: 677388
+    comments: 72963
+    blanks: 67070
+    files: 3831
   Tsx:
     code: 25996
     comments: 981
@@ -190,20 +190,20 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 40280
-    blanks: 26249
-    files: 187
+    comments: 40721
+    blanks: 26538
+    files: 188
   Text:
     code: 0
     comments: 51
     blanks: 2
     files: 31
 total:
-  code: 761965
-  comments: 116119
-  blanks: 99001
-  files: 5394
+  code: 761293
+  comments: 116586
+  blanks: 99287
+  files: 5393
 ---
 
 ---
-{"id":458147116,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4bTsUs","tag_name":"@cloudflare/vite-plugin@1.70.2","target_commitish":"main","name":"@cloudflare/vite-plugin@1.70.2","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-25T13:23:01Z","updated_at":"2026-11-25T13:23:03Z","published_at":"2026-11-25T13:23:03Z","assets":[],"body":"### Patch Changes\n\n- [#17082](https://github.com/cloudflare/workers-sdk/pull/17082) [`ae2a49f`](https://github.com/cloudflare/workers-sdk/commit/ae2a49f60cf2981e10847736cc5337d0a92f4a31) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Keep deferred imports alive after their originating request ends\n\n  Retain the module runner's RPC operation until its result is retrieved and cleaned up. This prevents subsequent requests from hanging on a cached import when the first request returns early or its client disconnects.\n\n- [#17130](https://github.com/cloudflare/workers-sdk/pull/17130) [`8849c83`](https://github.com/cloudflare/workers-sdk/commit/8849c835feecd9edd6f6d6ea6f32ec8df5acd9b1) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Respect `WRANGLER_LOG_PATH` set after importing the plugin in `vite.config.ts`\n\n  Require Wrangler 4.168.0 or newer, which resolves the debug log path on first use. A path set in the Vite configuration body now selects the configured log file.\n\n- [#17012](https://github.com/cloudflare/workers-sdk/pull/17012) [`2f74598`](https://github.com/cloudflare/workers-sdk/commit/2f74598579fa424b87741f0bd265ee420211b624) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local runtime and default compatibility date to November 18\n\n  Update Miniflare to 5.20261118.0-beta for workerd 1.20261118.1 and align Workers types, Wrangler, and the shared compatibility-date helpers. Projects without an explicit compatibility date now use 2026-11-18.\n\n- [#17054](https://github.com/cloudflare/workers-sdk/pull/17054) [`02fb0d4`](https://github.com/cloudflare/workers-sdk/commit/02fb0d4579bf899491557bf0fb1515f04c448570) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local Workers runtime to the November 19 release\n\n  Use Miniflare 5.20261119.0-beta, workerd 1.20261119.1 and the matching Workers types. Update the default compatibility date to November 19 through workers-utils and require Wrangler 4.166.0 or newer. Use the matching released authentication and CLI helpers so remote bindings also consume the Undici 7.30.2 fixes.\n\n- [#17130](https://github.com/cloudflare/workers-sdk/pull/17130) [`8849c83`](https://github.com/cloudflare/workers-sdk/commit/8849c835feecd9edd6f6d6ea6f32ec8df5acd9b1) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the local runtime and default compatibility date to November 23\n\n  Use Miniflare 5.20261123.1-beta, workerd 1.20261123.1 and the matching Workers types. The default compatibility date advances to November 23. Local Stream bindings support caption retrieval and video customer codes; R2 pagination uses UTF-8 key order, and KV bulk reads preserve metadata for stored JSON nulls.\n\n- [#17049](https://github.com/cloudflare/workers-sdk/pull/17049) [`8fb66eb`](https://github.com/cloudflare/workers-sdk/commit/8fb66eb875189c435746a98697c328605bc93250) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update the plugin build and bundle shared declaration dependencies\n\n  Use tsdown 0.22.14 for the plugin and retained remote bindings package, and keep shared SDK types bundled in the published plugin declarations. Validate the declarations from a consumer project without workspace development dependencies.\n\n- [#17083](https://github.com/cloudflare/workers-sdk/pull/17083) [`ce239be`](https://github.com/cloudflare/workers-sdk/commit/ce239be766dc44dac694037a60c35a07a6cc3120) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Update Undici to 7.30.2 in the bundled remote bindings support\n\n  Consume the upstream security fixes in remote binding requests. The Miniflare and Wrangler runtime copies will update separately through their next published releases.\n\n- [#17054](https://github.com/cloudflare/workers-sdk/pull/17054) [`02fb0d4`](https://github.com/cloudflare/workers-sdk/commit/02fb0d4579bf899491557bf0fb1515f04c448570) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Fix remote bindings authentication with API tokens scoped to an individual Worker\n\n  Remote bindings now create preview sessions through the Worker-scoped endpoint. When the response includes a usable exchange URL, its hostname is used without account-wide Workers subdomain access; otherwise, the existing account subdomain lookup or registration is used. This applies to remote bindings in the Cloudflare Vite plugin. Tokens still need permission to update the named Worker."}
+{"id":460711280,"author":{"login":"workers-devprod","id":116369605,"node_id":"U_kgDOBu-oxQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGW5OAc4bdeVw","tag_name":"wrangler@4.169.0","target_commitish":"main","name":"wrangler@4.169.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-27T14:34:10Z","updated_at":"2026-11-27T14:35:16Z","published_at":"2026-11-27T14:35:16Z","assets":[],"body":"### Minor Changes\n\n- [#17183](https://github.com/cloudflare/workers-sdk/pull/17183) [`ebc7b50`](https://github.com/cloudflare/workers-sdk/commit/ebc7b509c659bef9ad413112f0907b8f815eae22) Thanks [@gpanders](https://github.com/gpanders)! - Accept `linux/arm64` images in `wrangler containers push` and `wrangler containers build`\n\n  `wrangler containers push` now accepts local images built for `linux/amd64` or `linux/arm64`. `wrangler containers build --platform` accepts the same two platforms. The default platform is still `linux/amd64`.\n\n- [#17088](https://github.com/cloudflare/workers-sdk/pull/17088) [`43da328`](https://github.com/cloudflare/workers-sdk/commit/43da3289c5f715c03143d31fde6dc46b4d90b28b) Thanks [@efalcao](https://github.com/efalcao)! - Add the `oidc_tokens` binding\n\n  An OIDC token binding issues short-lived OpenID Connect tokens for the Worker's own identity, for one audience. Exchange them for cloud credentials, or send them to an API as a bearer token, instead of storing long-lived credentials as secrets:\n\n  ```jsonc\n  \"oidc_tokens\": [{ \"binding\": \"API_TOKEN\", \"audience\": \"https://api.example.com\" }]\n  ```\n\n  `env.API_TOKEN.getToken()` returns a newly signed JWT. Set `\"alg\": \"RS256\"` for verifiers that don't accept the default, ES256. Wrangler validates the audience (1 to 2048 printable ASCII characters, no whitespace), uploads the binding, generates its `OidcTokenBinding` type, and prints it in the bindings table. After a deploy, `wrangler deploy` prints the issuer and subject to put in the verifier's trust policy. The subject contains the Worker's immutable ID, which the deploy output doesn't otherwise show. The binding isn't available in local development yet. Accounts must be enabled for the binding before they can deploy it.\n\n- [#17161](https://github.com/cloudflare/workers-sdk/pull/17161) [`e46c7c6`](https://github.com/cloudflare/workers-sdk/commit/e46c7c6a4c9c797f5d8f40827c9f2e4ef8e3fd6c) Thanks [@thisisamank](https://github.com/thisisamank)! - Add RealtimeKit bindings\n\n  Bind an existing RealtimeKit app to a Worker in your Wrangler configuration file:\n\n  ```jsonc\n  {\n    \"realtimekit\": [\n      {\n        \"binding\": \"RTK\",\n        \"app_id\": \"<APP_ID>\",\n        \"remote\": true\n      }\n    ]\n  }\n  ```\n\n  RealtimeKit has no local simulator, so set `remote: true` to use the real app during local development. Calls during development, including calls on returned meetings, go through the existing remote bindings proxy. The experimental configuration API supports `bindings.realtimeKit({ id: \"<APP_ID>\", dev: { remote: true } })`, and the `wrangler-to-cf` codemod converts `realtimekit` entries. Deployments upload only the binding name and `app_id`. `wrangler types` generates `RealtimeKitBinding` for these bindings.\n\n### Patch Changes\n\n- [#17203](https://github.com/cloudflare/workers-sdk/pull/17203) [`41bacf7`](https://github.com/cloudflare/workers-sdk/commit/41bacf7ce166b2151c858e06289d1711e41e4ff9) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Accept `fedramp-high` in `CLOUDFLARE_COMPLIANCE_REGION`\n\n  `cloudflare.config.ts` writes the FedRAMP High region as `fedramp-high`, but `CLOUDFLARE_COMPLIANCE_REGION` only accepted `fedramp_high` and rejected the other spelling with `Expected \"fedramp-high\" to be one of [\"public\",\"fedramp_high\"]`. Both spellings are now accepted and mean the same region, so a value copied from `cloudflare.config.ts` into `CLOUDFLARE_COMPLIANCE_REGION` works.\n\n- [#17075](https://github.com/cloudflare/workers-sdk/pull/17075) [`4475a8e`](https://github.com/cloudflare/workers-sdk/commit/4475a8ec6b4e80b0c6821c8e690acb23d43cc28c) Thanks [@petebacondarwin](https://github.com/petebacondarwin)! - Use `database_id` for D1 bindings in Worker uploads\n\n  Worker upload metadata now matches the Workers API schema. Pages bundles continue to use `id` for compatibility with the Pages API. No configuration changes are needed: programmatic config still uses `bindings.d1({ id })`, and Wrangler config files still use `database_id`.\n\n- [#17140](https://github.com/cloudflare/workers-sdk/pull/17140) [`b645124`](https://github.com/cloudflare/workers-sdk/commit/b6451243417e541f61f239c6275b20c59927b497) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-24\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#17160](https://github.com/cloudflare/workers-sdk/pull/17160) [`8d3e953`](https://github.com/cloudflare/workers-sdk/commit/8d3e9538d67c46cab48201c97e2fcdff7edf451f) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-25\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#17220](https://github.com/cloudflare/workers-sdk/pull/17220) [`b89dfcf`](https://github.com/cloudflare/workers-sdk/commit/b89dfcf23a473860649138dd5641141d7569cca6) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update `DEFAULT_COMPAT_DATE` to 2026-11-27\n\n  Use the bundled workerd release's compatibility date by default when scaffolding new projects or when no compatibility date is configured.\n\n- [#17140](https://github.com/cloudflare/workers-sdk/pull/17140) [`b645124`](https://github.com/cloudflare/workers-sdk/commit/b6451243417e541f61f239c6275b20c59927b497) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20261123.1 | ^5.20261124.1 |\n  | workerd                   | 1.20261123.1  | 1.20261124.1  |\n\n- [#17160](https://github.com/cloudflare/workers-sdk/pull/17160) [`8d3e953`](https://github.com/cloudflare/workers-sdk/commit/8d3e9538d67c46cab48201c97e2fcdff7edf451f) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20261124.1 | ^5.20261125.1 |\n  | workerd                   | 1.20261124.1  | 1.20261125.1  |\n\n- [#17220](https://github.com/cloudflare/workers-sdk/pull/17220) [`b89dfcf`](https://github.com/cloudflare/workers-sdk/commit/b89dfcf23a473860649138dd5641141d7569cca6) Thanks [@dependabot](https://github.com/apps/dependabot)! - Update dependencies of \"miniflare\", \"wrangler\"\n\n  The following dependency versions have been updated:\n\n  | Dependency                | From          | To            |\n  | ------------------------- | ------------- | ------------- |\n  | @cloudflare/workers-types | ^5.20261125.1 | ^5.20261127.1 |\n  | workerd                   | 1.20261125.1  | 1.20261127.1  |\n\n- [#17146](https://github.com/cloudflare/workers-sdk/pull/17146) [`31984b2`](https://github.com/cloudflare/workers-sdk/commit/31984b2462a91051cfa2d1e1045a879cc29a42bd) Thanks [@edmundhung](https://github.com/edmundhung)! - Wait for the Worker to start before `wrangler dev` tells a parent process that it is ready\n\n  Requests sent right after that signal could otherwise wait for the Worker to start, and time out on slow machines.\n\n- [#17203](https://github.com/cloudflare/workers-sdk/pull/17203) [`41bacf7`](https://github.com/cloudflare/workers-sdk/commit/41bacf7ce166b2151c858e06289d1711e41e4ff9) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Name `CLOUDFLARE_COMPLIANCE_REGION` in the FedRAMP High OAuth login error\n\n  When OAuth login was refused because the environment set the FedRAMP High compliance region, the error told you to remove the `CLOUDFLARE_API_ENVIRONMENT` environment variable, which doesn't set the region. It now names `CLOUDFLARE_COMPLIANCE_REGION`.\n\n- [#17205](https://github.com/cloudflare/workers-sdk/pull/17205) [`e351be9`](https://github.com/cloudflare/workers-sdk/commit/e351be9ab21247e6e6e7dbc81b148f17368a7ac1) Thanks [@jamesopstad](https://github.com/jamesopstad)! - Prefer `CLOUDFLARE_ACCOUNT_ID` to the configured `accountId` in the Cloudflare Vite and Vitest plugins and in `cf dev`\n\n  When resolving an account for remote bindings, and for tunnels in the Vite plugin, the plugins and `cf dev` used the `accountId` in `cloudflare.config.ts` even when `CLOUDFLARE_ACCOUNT_ID` was set to a different account. This was the reverse of other `cf` commands, where the environment variable takes precedence. `CLOUDFLARE_ACCOUNT_ID` now takes precedence there too.\n\n  `wrangler` commands, and Vitest plugin projects that use a Wrangler configuration file, are unchanged: the configured `account_id` still takes precedence.\n\n- Updated dependencies [[`07d2051`](https://github.com/cloudflare/workers-sdk/commit/07d205105ff2667cbfe3babd52aa0ae38187cf80), [`41bacf7`](https://github.com/cloudflare/workers-sdk/commit/41bacf7ce166b2151c858e06289d1711e41e4ff9), [`4475a8e`](https://github.com/cloudflare/workers-sdk/commit/4475a8ec6b4e80b0c6821c8e690acb23d43cc28c), [`b645124`](https://github.com/cloudflare/workers-sdk/commit/b6451243417e541f61f239c6275b20c59927b497), [`8d3e953`](https://github.com/cloudflare/workers-sdk/commit/8d3e9538d67c46cab48201c97e2fcdff7edf451f), [`b89dfcf`](https://github.com/cloudflare/workers-sdk/commit/b89dfcf23a473860649138dd5641141d7569cca6), [`b645124`](https://github.com/cloudflare/workers-sdk/commit/b6451243417e541f61f239c6275b20c59927b497), [`8d3e953`](https://github.com/cloudflare/workers-sdk/commit/8d3e9538d67c46cab48201c97e2fcdff7edf451f), [`b89dfcf`](https://github.com/cloudflare/workers-sdk/commit/b89dfcf23a473860649138dd5641141d7569cca6), [`b645124`](https://github.com/cloudflare/workers-sdk/commit/b6451243417e541f61f239c6275b20c59927b497), [`927f070`](https://github.com/cloudflare/workers-sdk/commit/927f070ee0589a2567a76f2000dcff60b1b3d2eb), [`43da328`](https://github.com/cloudflare/workers-sdk/commit/43da3289c5f715c03143d31fde6dc46b4d90b28b), [`e46c7c6`](https://github.com/cloudflare/workers-sdk/commit/e46c7c6a4c9c797f5d8f40827c9f2e4ef8e3fd6c)]:\n  - miniflare@5.20261127.0-beta\n  - @cloudflare/workers-utils@0.58.0"}
